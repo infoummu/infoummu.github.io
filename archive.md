@@ -2,9 +2,9 @@
 layout: page
 title: Archive
 ---
-# Hanya Halaman Contoh, 
+<!--# Hanya Halaman Contoh, -->
 
-## Masih dalam pengembangan... 
+## Archive List
 
 --- 
 

@@ -3,10 +3,10 @@ layout: default
 ---
 
 
-<h1>Informatika UMMU </h1>
+<!--<h1>Informatika UMMU </h1>-->
 
 
-<h3> ... Masih dalam proses pengembangan..</h3>
+<!--<h3> ... Masih dalam proses pengembangan..</h3>-->
 
 
 
@@ -24,15 +24,15 @@ layout: default
 
 
 <!--yang dibawah ini yang digunakan -->
-<!--<ul>-->
-<!--	{% for post in site.posts limit:12 %}-->
+<ul>
+	{% for post in site.posts limit:12 %}
 
-<!--	  <li class="post">-->
-<!--	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}.html">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>-->
-<!--      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> | {{post.categories}}</time> -->
-<!--	  	 <p>{{ post.content | strip_html | truncatewords:60 }}</p> -->
-<!--	  </li>-->
+	  <li class="post">
+	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}.html">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> | {{post.categories}}</time> 
+	  	 <p>{{ post.content | strip_html | truncatewords:60 }}</p> 
+	  </li>
 
-<!--    {% endfor %} -->
-<!--</ul>-->
+    {% endfor %} 
+</ul>
 
