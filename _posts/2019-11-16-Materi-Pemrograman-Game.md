@@ -2,9 +2,10 @@
 title: Pemrograman Game
 published: true
 ---
+*** 
 
-## -----
-### Download Materi Pemrograman Game
+### Download Materi Pemrograman Game [Modul] :
+
 Materi Pemrograman Game modul untuk praktikum, dari praktikum 1 sampai praktikum 5 bisa anda didownload di link berikut : 
 
 1. [Modul Pemrograman Game Praktikum 1](assets/reff/Modul_Pgame_prak_1.pdf)
@@ -13,4 +14,37 @@ Materi Pemrograman Game modul untuk praktikum, dari praktikum 1 sampai praktikum
 4. [Modul Pemrograman Game Praktikum 4](assets/reff/Modul_Pgame_prak_4.pdf)
 5. [Modul Pemrograman Game Praktikum 5](assets/reff/Modul_Pgame_prak_5.pdf)
 
+
+### Daftar Tugas :
+> <b>Perhatian !</b>, semua Mahasiswa yang mengikuti praktikum diharuskan menuliskan kembali semua hasil latihan saat mengikuti praktikum di lab menjadi file script atau menuliskan langsung ke  [github.com](https://github.com/){:target="_blank"}, dengan mengikuti aturan penulisan nama file sesuai dengan yang ada di modul (dari praktikum 1 : `code1.py`,`code2.py`,`code3.py`,`code4.py`; praktikum 2 : `code5.py`,`code6.py`; sampai praktikum 3 : `code7.py` sampai `code12.py`), praktikum 4 dan seterusnya format nama filenya silahkan merujuk ke masing-masing modul.
+
+
+#### Tugas 1, Take Home 
+Buat akun di  [github.com](https://github.com/){:target="_blank"}, Tugas Pertama, Mahasiswa diminta untuk mempelajari dan membuat sebuah akun pada situs  [github.com](https://github.com/){:target="_blank"}, dan memberikan laporan berupa akun yang telah dibuat pada pertemuan berikutnya. 
+
+
+#### Tugas 2, 
+Kumpulkan / Tulis kembali code yang terdapat pada modul praktikum 2 ke akun anda di  [github.com](https://github.com/){:target="_blank"} ! ( beri nama : `code5.py`, `code6.py` ).
+
+#### Tugas 3, Take Home
+
+1. Cari dan Lakukan Fork reporsitory `infoummu/pgame` pada  [github.com](https://github.com/){:target="_blank"} (bagi yang belum fork)
+2. Masuk dan buat direktori baru dengan nama `pgame-npm` (contoh `pgame-16000`)
+3. Buat file script python dengan nama `code_tugas3.py`
+4. File script tersebut akan berisi dan menampilkan Nama, NPM, Semester, dan Mata Kuliah pada layar ketika  dijalankan.
+5. Lakukan perintah pull-request
+6. Tugas ini akan dievaluasi pada pertemuan berikutnya.
+( beri nama : `code5.py`, `code6.py` ).
+
+#### Tugas 4, 
+Kumpulkan / Tulis kembali code yang terdapat pada modul praktikum 3 ke akun anda di  [github.com](https://github.com/){:target="_blank"} ! ( beri nama : `code7.py` ... `code12.py` ).
+
+#### Tugas 5, 
+Masukkan/upload semua file script dari hasil latihan anda dari `code4.1.py` sampai `code4.5.py` ke  [github.com](https://github.com/){:target="_blank"}, paling lambat sebelum pertemuan akan datang sudah terupload ke  [github.com](https://github.com/){:target="_blank"}.
+
+#### Tugas 6, 
+Buat script dengan nama `tugas_code6.py`, Selesaikan tugas menggunakan kondisional : Periksa variabel nilai yang diinput menggunakan kondisional, jika nilai lebih besar atau sama dengan 80 maka cetak kata “Sangat Baik”, jika nilai lebih besar atau sama dengan 65 maka cetak kata “Cukup Baik”, jika nilai lebih besar atau sama dengan 50 maka cetak kata “Baik”, dan nilai selain itu maka cetak kata “Kurang”, tugas ini silahkan upload ke [github.com](https://github.com/){:target="_blank"} anda.
+
+#### to be continued...
+***
 
