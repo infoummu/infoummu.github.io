@@ -13,7 +13,7 @@ Materi Pemrograman Game modul untuk praktikum, (sementara dan akan selalu diupda
 3. [Modul Pemrograman Game Praktikum 3](assets/reff/Modul_Pgame_prak_3.pdf){:target="_blank"}
 4. [Modul Pemrograman Game Praktikum 4](assets/reff/Modul_Pgame_prak_4.pdf){:target="_blank"}
 5. [Modul Pemrograman Game Praktikum 5](assets/reff/Modul_Pgame_prak_5.pdf){:target="_blank"}
-6. [...](#)
+6. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">......</a>
 
 
 ### Daftar Tugas :
