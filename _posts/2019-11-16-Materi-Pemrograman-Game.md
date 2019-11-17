@@ -6,17 +6,18 @@ published: true
 
 ### Download Materi Pemrograman Game [Modul] :
 
-Materi Pemrograman Game modul untuk praktikum, dari praktikum 1 sampai praktikum 5 bisa anda didownload di link berikut : 
+Materi Pemrograman Game modul untuk praktikum, (sementara dan akan selalu diupdate setelah selesai setiap praktikum : dari praktikum 1 sampai praktikum 5) bisa anda didownload di link berikut : 
 
-1. [Modul Pemrograman Game Praktikum 1](assets/reff/Modul_Pgame_prak_1.pdf)
-2. [Modul Pemrograman Game Praktikum 2](assets/reff/Modul_Pgame_prak_2.pdf)
-3. [Modul Pemrograman Game Praktikum 3](assets/reff/Modul_Pgame_prak_3.pdf)
-4. [Modul Pemrograman Game Praktikum 4](assets/reff/Modul_Pgame_prak_4.pdf)
-5. [Modul Pemrograman Game Praktikum 5](assets/reff/Modul_Pgame_prak_5.pdf)
+1. [Modul Pemrograman Game Praktikum 1](assets/reff/Modul_Pgame_prak_1.pdf){:target="_blank"}
+2. [Modul Pemrograman Game Praktikum 2](assets/reff/Modul_Pgame_prak_2.pdf){:target="_blank"}
+3. [Modul Pemrograman Game Praktikum 3](assets/reff/Modul_Pgame_prak_3.pdf){:target="_blank"}
+4. [Modul Pemrograman Game Praktikum 4](assets/reff/Modul_Pgame_prak_4.pdf){:target="_blank"}
+5. [Modul Pemrograman Game Praktikum 5](assets/reff/Modul_Pgame_prak_5.pdf){:target="_blank"}
+6. [...](#)
 
 
 ### Daftar Tugas :
-> <b>Perhatian !</b>, semua Mahasiswa yang mengikuti praktikum diharuskan menuliskan kembali semua hasil latihan saat mengikuti praktikum di lab menjadi file script atau menuliskan langsung ke  [github.com](https://github.com/){:target="_blank"}, dengan mengikuti aturan penulisan nama file sesuai dengan yang ada di modul (dari praktikum 1 : `code1.py`,`code2.py`,`code3.py`,`code4.py`; praktikum 2 : `code5.py`,`code6.py`; sampai praktikum 3 : `code7.py` sampai `code12.py`), praktikum 4 dan seterusnya format nama filenya silahkan merujuk ke masing-masing modul.
+> **Perhatian !**, semua Mahasiswa yang mengikuti praktikum diharuskan menuliskan kembali semua hasil latihan saat mengikuti praktikum di lab menjadi file script atau menuliskan langsung ke  [github.com](https://github.com/){:target="_blank"}, dengan mengikuti aturan penulisan nama file sesuai dengan yang ada di modul (dari praktikum 1 : `code1.py`,`code2.py`,`code3.py`,`code4.py`; praktikum 2 : `code5.py`,`code6.py`; sampai praktikum 3 : `code7.py` sampai `code12.py`), praktikum 4 dan seterusnya format nama filenya silahkan merujuk ke masing-masing modul.
 
 
 #### Tugas 1, Take Home 
@@ -28,7 +29,7 @@ Kumpulkan / Tulis kembali code yang terdapat pada modul praktikum 2 ke akun anda
 
 #### Tugas 3, Take Home
 
-1. Cari dan Lakukan Fork reporsitory `infoummu/pgame` pada  [github.com](https://github.com/){:target="_blank"} (bagi yang belum fork)
+1. Cari dan Lakukan Fork reporsitory `infoummu/pgame` pada  [github.com](https://github.com/){:target="_blank"} (bagi yang belum fork) atau langsung ke link ini [github.com/infoummu/pgame](https://github.com/infoummu/pgame){:target="_blank"},
 2. Masuk dan buat direktori baru dengan nama `pgame-npm` (contoh `pgame-16000`)
 3. Buat file script python dengan nama `code_tugas3.py`
 4. File script tersebut akan berisi dan menampilkan Nama, NPM, Semester, dan Mata Kuliah pada layar ketika  dijalankan.

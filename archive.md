@@ -4,7 +4,7 @@ title: Archive
 ---
 <!--# Hanya Halaman Contoh, -->
 
-## Archive List
+## All Post
 
 --- 
 
