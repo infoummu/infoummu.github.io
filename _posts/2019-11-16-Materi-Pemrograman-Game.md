@@ -13,7 +13,9 @@ Materi Pemrograman Game modul untuk praktikum, (sementara dan akan selalu diupda
 3. [Modul Pemrograman Game Praktikum 3](assets/reff/Modul_Pgame_prak_3.pdf){:target="_blank"}
 4. [Modul Pemrograman Game Praktikum 4](assets/reff/Modul_Pgame_prak_4.pdf){:target="_blank"}
 5. [Modul Pemrograman Game Praktikum 5](assets/reff/Modul_Pgame_prak_5.pdf){:target="_blank"}
-6. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">......</a>
+6. [Modul Pemrograman Game Praktikum 6](assets/reff/Modul_Pgame_prak_6.pdf){:target="_blank"}
+7. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">?......</a>
+
 
 
 ### Daftar Tugas :
@@ -45,6 +47,13 @@ Masukkan/upload semua file script dari hasil latihan anda dari `code4.1.py` samp
 
 #### Tugas 6, 
 Buat script dengan nama `tugas_code6.py`, Selesaikan tugas menggunakan kondisional : Periksa variabel nilai yang diinput menggunakan kondisional, jika nilai lebih besar atau sama dengan 80 maka cetak kata “Sangat Baik”, jika nilai lebih besar atau sama dengan 65 maka cetak kata “Cukup Baik”, jika nilai lebih besar atau sama dengan 50 maka cetak kata “Baik”, dan nilai selain itu maka cetak kata “Kurang”, tugas ini silahkan upload ke [github.com](https://github.com/){:target="_blank"} anda.
+
+#### Tugas 7, 
+Buat script dengan nama `tugas_code7.py`, isi script tersebut dengan perulangan dan fungsi : 
+1. Buat fungsi yang dapat mencetak nama anda sebanyak 5 kali menggunakan perulangan “while” dan “for”
+2. Buat fungsi perkalian, pembagian, pangkat yang dapat mencetak hasil secara langsung maupun yang akan mengembalikan nilai 
+3. Posting/submit ke github tugas ini (tugas_code7.py) dan semua hasil latihan anda pada praktikum 6
+
 
 #### to be continued...
 ***
