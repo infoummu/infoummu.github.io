@@ -54,7 +54,34 @@ Buat script dengan nama `tugas_code7.py`, isi script tersebut dengan perulangan 
 2. Buat fungsi perkalian, pembagian, pangkat yang dapat mencetak hasil secara langsung maupun yang akan mengembalikan nilai 
 3. Posting/submit ke github tugas ini (tugas_code7.py) dan semua hasil latihan anda pada praktikum 6
 
-
 #### to be continued...
+
+***
+
+### Daftar Code yang masih Error : 
+	-  Error	: pgame-009/code2.py
+	-  Error	: pgame-101/code2.py
+	-  Error	: pgame-16053/code-tugas1.py
+	-  Error	: pgame-16053/code-tugas12.py
+	-  Error	: pgame-16060/code_tugas51.py
+	-  Error	: pgame-16060/code_tugas6.py
+	-  Error	: pgame-16090/code2.py
+	-  Error	: pgame-16090/code4.4.py
+	-  Error	: Pgame-16091/code2.py
+	-  Error	: Pgame-16091/code4.4.py
+	-  Error	: Pgame-16091/TGS_Praktikum5.py
+	-  Error	: Pgame-16092/code2.py
+	-  Error	: Pgame-16092/code4.4.py
+	-  Error	: pgame16103/code4.4.py
+	-  Error	: pgame16103/TGS_Praktikum5.py
+	-  Error	: pgame-16113/code2.py
+	-  Error	: pgame-16113/code4.4.py
+	-  Error	: pgame-16113/latihan 5&6.py
+	-  Error	: pgame-16113/TGS_Praktikum5.py
+	-  Error	: pgame-16113/tugas_code6.py
+	-  Error	: pgame-16123/code4.4.py
+	-  Error	: pgame-16123/TGS_Praktikum5.py
+
+
 ***
 
