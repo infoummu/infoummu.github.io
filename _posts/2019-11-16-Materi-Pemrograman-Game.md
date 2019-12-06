@@ -54,6 +54,10 @@ Buat script dengan nama `tugas_code7.py`, isi script tersebut dengan perulangan 
 2. Buat fungsi perkalian, pembagian, pangkat yang dapat mencetak hasil secara langsung maupun yang akan mengembalikan nilai 
 3. Posting/submit ke github tugas ini (tugas_code7.py) dan semua hasil latihan anda pada praktikum 6
 
+#### Tugas 8,
+Tugas 8, upload/kirim/submit code dari latihan 7.1 pada praktikum 7 diatas ke akun github anda, dan beri nama code71.py.
+
+
 #### to be continued...
 
 ***
