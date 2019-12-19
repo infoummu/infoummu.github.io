@@ -65,7 +65,7 @@ Tugas 9 anda, upload/kirim semua code latihan praktikum 8 (`code81.py` dan `code
 
 ### Tugas 10, 
 Tugas 10 anda :
-1. Upload semua code latihan praktikum 9 ( `code91.py` dan `code92.py` ) ke akun github anda !.
+1. Upload semua code latihan praktikum 9 ( `code91.py`, `code92.py` dan `code93.py` ) ke akun github anda !.
 2. Buatlah 4 garis yang membentuk gambar kotak, beri nama code tugas anda dengan `tugas_code10.py` dan submit ke github.
  
 #### to be continued...
