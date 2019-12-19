@@ -16,7 +16,8 @@ Materi Pemrograman Game modul untuk praktikum, (sementara dan akan selalu diupda
 6. [Modul Pemrograman Game Praktikum 6](assets/reff/Modul_Pgame_prak_6.pdf){:target="_blank"}
 7. [Modul Pemrograman Game Praktikum 7](assets/reff/Modul_Pgame_prak_7.pdf){:target="_blank"}
 8. [Modul Pemrograman Game Praktikum 8](assets/reff/Modul_Pgame_prak_8.pdf){:target="_blank"}
-9. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">?......</a>
+9. [Modul Pemrograman Game Praktikum 9](assets/reff/Modul_Pgame_prak_9.pdf){:target="_blank"}
+10. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">?......</a>
 
 
 
@@ -57,11 +58,16 @@ Buat script dengan nama `tugas_code7.py`, isi script tersebut dengan perulangan 
 3. Posting/submit ke github tugas ini (tugas_code7.py) dan semua hasil latihan anda pada praktikum 6
 
 ### Tugas 8,
-Tugas 8, upload/kirim/submit code dari latihan 7.1 pada praktikum 7 diatas ke akun github anda, dan beri nama `code71.py` dan `code72.py`.
+Tugas 8, upload/submit code dari latihan 7.1 pada praktikum 7 diatas ke akun github anda, dan beri nama `code71.py` dan `code72.py`.
 
 ### Tugas 9, 
-Tugas 9 anda, upload/submit/kirim semua code latihan praktikum 8 (`code81.py` dan `code82.py`) ke akun [github.com](https://github.com/){:target="_blank"} anda !.
+Tugas 9 anda, upload/kirim semua code latihan praktikum 8 (`code81.py` dan `code82.py`) ke akun [github.com](https://github.com/){:target="_blank"} anda !.
 
+### Tugas 10, 
+Tugas 10 anda :
+1. Upload semua code latihan praktikum 9 ( `code91.py` dan `code92.py` ) ke akun github anda !.
+2. Buatlah 4 garis yang membentuk gambar kotak, beri nama code tugas anda dengan `tugas_code10.py` dan submit ke github.
+ 
 #### to be continued...
 
 ***
