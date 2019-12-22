@@ -1,5 +1,5 @@
 ---
-title: PGame - Hasil Tugas UTS 
+title: PGame - Yang Kerjakan UTS 
 published: true
 ---
 ***
@@ -20,7 +20,7 @@ published: true
 
 <!--11. [CLICK ME](extmd/seminar_16113.md.html){: #custom-id onclick="myJsFunc();" target="uts_show"}-->
 
-<iframe allowtransparency="true" style="background-color: Snow;" name="uts_show" width="100%" height="400" src="" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe allowtransparency="true" style="background-color: Snow;" name="uts_show" width="100%" height="400" src="extmd/seminar_16001.md.html" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
 
