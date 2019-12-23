@@ -20,7 +20,6 @@ Materi Pemrograman Game, modul untuk praktikum, (sementara dan akan selalu diupd
 10. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">?......</a>
 
 
-
 ### Daftar Tugas :
 > **Perhatian !**, semua Mahasiswa yang mengikuti praktikum diharuskan menuliskan kembali semua hasil latihan saat mengikuti praktikum di lab menjadi file script atau menuliskan langsung ke  [github.com](https://github.com/){:target="_blank"}, dengan mengikuti aturan penulisan nama file sesuai dengan yang ada di modul (dari praktikum 1 : `code1.py`,`code2.py`,`code3.py`,`code4.py`; praktikum 2 : `code5.py`,`code6.py`; sampai praktikum 3 : `code7.py` sampai `code12.py`), praktikum 4 dan seterusnya format nama filenya silahkan merujuk ke masing-masing modul.
 
