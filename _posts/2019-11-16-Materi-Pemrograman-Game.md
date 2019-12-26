@@ -17,7 +17,8 @@ Materi Pemrograman Game, modul untuk praktikum, (sementara dan akan selalu diupd
 7. [Modul Pemrograman Game Praktikum 7](assets/reff/Modul_Pgame_prak_7.pdf){:target="_blank"}
 8. [Modul Pemrograman Game Praktikum 8](assets/reff/Modul_Pgame_prak_8.pdf){:target="_blank"}
 9. [Modul Pemrograman Game Praktikum 9](assets/reff/Modul_Pgame_prak_9.pdf){:target="_blank"}
-10. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">?......</a>
+10. [Modul Pemrograman Game Praktikum 10](assets/reff/Modul_Pgame_prak_10.pdf){:target="_blank"} : Take Home 
+11. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">?......</a>
 
 
 ### Daftar Tugas :
@@ -66,7 +67,15 @@ Tugas 9 anda, upload/kirim semua code latihan praktikum 8 (`code81.py` dan `code
 Tugas 10 anda :
 1. Upload semua code latihan praktikum 9 ( `code91.py`, `code92.py` dan `code93.py` ) ke akun github anda !.
 2. Buatlah 4 garis yang membentuk gambar kotak, beri nama code tugas anda dengan `tugas_code10.py` dan submit ke github.
- 
+
+### Tugas 11,
+
+* <b>Catatan : </b>Untuk Praktikum ke-10, anda diminta untuk mengerjakan materi praktikumnya dirumah masing-masing, silahkan ketikkan code latihan 10.1 dan 10.2 setelah itu jalankan dan pastikan berjalan tanpa error, lalu upload ke akun github.com anda. Jangan lupa untuk memberikan nama file sesuaikan dengan nama file yang diinstruksikan dalam modul praktikum ke-10..
+
+Tugas 11 anda :
+1. Upload semua code latihan praktikum 10 ( `code101.py` dan `code102.py` ) ke akun github anda !.
+
+
 #### to be continued...
 
 ***
