@@ -18,6 +18,7 @@ Materi Pemrograman Game, modul untuk praktikum, (sementara dan akan selalu diupd
 8. [Modul Pemrograman Game Praktikum 8](assets/reff/Modul_Pgame_prak_8.pdf){:target="_blank"}
 9. [Modul Pemrograman Game Praktikum 9](assets/reff/Modul_Pgame_prak_9.pdf){:target="_blank"}
 10. [Modul Pemrograman Game Praktikum 10](assets/reff/Modul_Pgame_prak_10.pdf){:target="_blank"} : Take Home 
+10. [Modul Pemrograman Game Praktikum 11](assets/reff/Modul_Pgame_prak_11.pdf){:target="_blank"}
 11. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">?......</a>
 
 
