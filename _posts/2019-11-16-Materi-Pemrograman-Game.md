@@ -76,6 +76,10 @@ Tugas 10 anda :
 Tugas 11 anda :
 1. Upload semua code latihan praktikum 10 ( `code101.py` dan `code102.py` ) ke akun github anda !.
 
+### Tugas 12,
+Tugas 12 anda :
+1. Upload semua code latihan praktikum 11 ( `code111.py` dan `code112.py` ) ke akun github anda !.
+
 
 #### to be continued...
 
