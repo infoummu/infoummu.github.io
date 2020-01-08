@@ -1,5 +1,5 @@
 ---
-title: Informasi UAS 
+title: Informasi yang Ikut UAS 
 published: true
 ---
 # UAS Pemrograman Game 
