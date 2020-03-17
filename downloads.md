@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Extra Modul
+title: Ekstra-Modul
+description:  Ekstra Modul
 ---
 ### Download Materi Tambahan PBO (PDF):
 
-Materi Utama Praktikum Mata Kuliah Perancangan Berorientasi Objek (PBO) menggunakan "Modul Praktikum" (Silahkan Hubungi Ibu GA), untuk modul praktikum kelas Info3 sampai Info5 menggunakan modul yang sama dengan kelas Info1 dan Info2 (dari Ibu GA), dan untuk referensi tambahan berikut adalah file PDF yang dapat dibaca2 serta link materi Python online : 
+Materi Utama Praktikum Mata Kuliah Perancangan Berorientasi Objek (PBO) menggunakan Modul Praktikum (Silahkan Hubungi Ibu GA), untuk modul praktikum kelas Info3 sampai Info5 menggunakan modul yang sama dengan kelas Info1 dan Info2, dan untuk referensi tambahan berikut adalah file PDF yang dapat dibaca2 serta link materi Python online : 
 
 
 #### File PDF : 
