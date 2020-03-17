@@ -14,5 +14,9 @@ Infomasi Seputar MK PBO khususnya untuk Info3 sampai Info5 akan disampaikan mela
 
 * Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari ketiga media tersebut, 
 
+* Untuk Mendapatkan Modul silahkan hubungi Ibu GA,
+
+* Referensi Materi Extra (Materi Tambahan) dapat dilihat di link berikut : [Extra Modul](https://infoummu.github.io/downloads){:target="_blank"}.
+
 * Next... Tugas 1.
 
