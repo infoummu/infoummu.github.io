@@ -100,6 +100,7 @@ Next...
 	* RENCANA untuk Perkuliahan Online hari Rabu, jam 13.00
 	* Persiapkan aplikasi [zoom](https://zoom.us/download){:target="_blank"}, untuk digunakan kuliah online
 	* Info3 sampai Info5 diharap siap-siap pada hari Rabu jam 13.00
+	* Teknis Kuliah Online menggunakan zoom akan digabung jika kondisi (jaringan) mendukung, jika tidak maka dibagi per kelas, dimulai dari Info3 kemudian Info4 dan Terakhir Info5, menyesuaikan situasi dan kondisi.
 	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
 	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
 
