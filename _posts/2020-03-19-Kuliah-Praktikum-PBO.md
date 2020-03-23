@@ -97,11 +97,14 @@ Next...
 * Peserta 	: Info3, Info4 dan Info5
 * Materi 	: Lihat Modul (Kalo sudah ada)
 
-	* Rencana Perkuliahan Online hari Rabu, jam 13.00
+	* RENCANA untuk Perkuliahan Online hari Rabu, jam 13.00
 	* Persiapkan aplikasi [zoom](https://zoom.us/download){:target="_blank"}, untuk digunakan kuliah online
 	* Info3 sampai Info5 diharap siap-siap pada hari Rabu jam 13.00
 	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
 	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+
+***
 
 
 
