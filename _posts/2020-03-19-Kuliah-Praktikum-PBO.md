@@ -2,8 +2,16 @@
 title: Kuliah Praktikum PBO
 published: true
 ---
+## Daftar ISI : 
+* Klik Untuk Menuju Ke Pertemuan : <br />
+	[Ke Pertemuan 1](#pertemuan1) <br />
+	[Ke Pertemuan 2](#pertemuan2) <br />
+	[Ke Pertemuan 3](#pertemuan3) <br />
+	[Ke Pertemuan 4](#pertemuan4) <br />
 
 
+
+<p id="pertemuan1"></p>
 ## Pertemuan ke-1 
 * Date 		: 11-03-2020 : 13.00,
 * Peserta 	: Info3, Info4 dan Info5
@@ -26,7 +34,7 @@ published: true
 
 
 ***
-
+<p id="pertemuan2"></p>
 ## Pertemuan ke-2
 * Date 		: 18-03-2020 : 13.00,
 * Peserta 	: Info3, Info4 dan Info5
@@ -90,22 +98,86 @@ published: true
 
 ***
 
-Next...
+<p id="pertemuan3"></p>
 
 ## Pertemuan ke-3
 * Date 		: 25-03-2020 : 13.00,
 * Peserta 	: Info3, Info4 dan Info5
 * Materi 	: Lihat Modul (Kalo sudah ada)
 
-	* RENCANA untuk Perkuliahan Online hari Rabu, jam 13.00
-	* Persiapkan aplikasi [zoom](https://zoom.us/download){:target="_blank"}, untuk digunakan kuliah online
-	* Info3 sampai Info5 diharap siap-siap pada hari Rabu jam 13.00
-	* Teknis Kuliah Online menggunakan zoom akan digabung jika kondisi (jaringan) mendukung, jika tidak maka dibagi per kelas, dimulai dari Info3 kemudian Info4 dan Terakhir Info5, menyesuaikan situasi dan kondisi.
-	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
-	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+<!--	* RENCANA untuk Perkuliahan Online hari Rabu, jam 13.00-->
+<!--	* Persiapkan aplikasi [zoom](https://zoom.us/download){:target="_blank"}, untuk digunakan kuliah online-->
+<!--	* Info3 sampai Info5 diharap siap-siap pada hari Rabu jam 13.00-->
+<!--	* Teknis Kuliah Online menggunakan zoom akan digabung jika kondisi (jaringan) mendukung, jika tidak maka dibagi per kelas, dimulai dari Info3 kemudian Info4 dan Terakhir Info5, menyesuaikan situasi dan kondisi.-->
+<!--	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, -->
+<!--	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.-->
+
+### Tugas 2 :
+* Tugas 2 dan 1 
+	* Silahkan kerjakan praktikum dirumah masing2, dengan materi `Operator` lihat di modul praktikum ke 2,
+	* Nama File menyesuaikan dengan nama file yang ada di modul
+	* Upload semua file yang sudah dikerjakan ke akun github anda masing2.
+	* Batas Waktu pengumpulan sampai hari Rabu 01-04-2020, jam 13.00, untuk kelas Info3 sampai Info5.
+	* Untuk Tugas 1 waktunya diperpanjang sampai tanggal yang sama dengan waktu untuk Tugas 2.
+
+
+### Daftar yang Telah melakukan "FORK" : 
+1. abuisa
+2. adriansenen
+3. Claudioseptian
+4. daniel8117
+5. Darmawan17
+6. Ekzasaptawibowo16
+7. Fazlur9
+8. mjeiner28
+9. Novakartika
+10. nurhumairaabri21
+11. Nuria2504
+12. origin
+13. qamarnur10
+14. viraditty09
+15. viviyanti
+
+### Daftar yang Mengumpulkan File : 
+1. PBO_18001/profile_18001.md
+2. PBO_1800X/tugas2_1800x.py
+3. PBO_1800X/profile_1800x.md
+4. PBO_18091/Profile_18091.md/tugas_1.py
+5. PBO_18099/profile_18099.md
+6. PBO_18099/Tugas 1 variabel.py
+7. PBO_18102/tugas1_18102.py
+8. PBO_18102/profile_18102.md
+9. PBO_18110/profile_18110.md
+10. PBO_18117/tugas_1.py
+11. PBO_18117/profile_18117.md
+12. PBO_18117/Tugas_11.py
+13. PBO_18126/tugas1_18126.py
+14. PBO_18126/profile_18126.md
+15. PBO_18130/profil_18130.md
+16. PBO_18130/tugas1_18130.py
+17. PBO_18136/tugas1_18136.py
+18. PBO_18141/tugas_18141.py
+19. PBO_18141/tugas1_18141.py
+20. PBO_18141/profile_18141.md
+21. PBO_18154/profile_18154.md
+22. PBO_19188/tugas1_19188.py
+23. PBO_19188/profile_19188.md
+
+
 
 
 ***
+<p id="pertemuan4"></p>
+Next...
+
+## Pertemuan ke-4
+* Date 		: 01-04-2020 : 13.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Lihat Modul (materi praktikum ke 3 di modul)
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Rabu, jam 13.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
 
 
 
