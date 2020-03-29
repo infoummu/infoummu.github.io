@@ -28,13 +28,20 @@
  
 
 <!-- Tambahan baru 21-12-2019 myjs.js -->
-  <script src="js/myjs.js"></script>
+<!--  	<script src="js/myjs.js"></script>-->
+	<script src="js/modulku.js"></script>
+
+<!-- Tambahan baru 26-03-2020 getos.js -->
+	<script src="js/getos.js"></script>
+<!--	<script src="js/jquery.min.js"></script>-->
+	
 </head>
 
 
 <body>
   <div id="wrapper">
-    <header>
+    <p id="topx"></p>
+<header>
   <div>
     <a href="/">
     
@@ -79,10 +86,18 @@
   </div>
 </header>
 
-<div onclick="topFunction()" id="myBtn" title="Go to top" >
-	<img id="imgMyBtn" src="assets/img/top-icon-25-512.png" height="36px" width="36px">
-</div>
+<a href="#topx">
+	<div onclick="" id="myBtn" title="Go to top" >
+		<img id="imgMyBtn" src="assets/img/top-icon-25-512.png" height="36px" width="36px">
+	</div>
+</a>
 
+<!--<div id="myBtnEx" >-->
+<!--	<a href="#pertemuan1" title="pertemuan 1" id="btxx">Pertemuan 1</a><br />-->
+<!--	<a href="#pertemuan2" title="pertemuan 2" id="btxx">Pertemuan 2</a><br />-->
+<!--	<a href="#pertemuan3" title="pertemuan 3" id="btxx">Pertemuan 3</a><br />-->
+<!--	<a href="#pertemuan4" title="pertemuan 4" id="btxx">Pertemuan 4</a><br />-->
+<!--</div>-->
 
 
     <div class="container">
@@ -104,12 +119,17 @@
 <ul>
   <li>Date 		: 11-03-2020 : 13.00,</li>
   <li>Peserta 	: Info3, Info4 dan Info5</li>
-  <li>
-    <p>Materi 	: Kontrak Kuliah</p>
+  <li>Materi 	:
+    <ul>
+      <li>Kontrak Kuliah</li>
+      <li>Rencana Studi
+        <blockquote>
 
-    <p>Rencana Studi <br /></p>
-
-    <p>Variabel dan Persentase Penilaian : <br /></p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+  <li>Variabel dan Persentase Penilaian : <br />
     <ul>
       <li>Absen  : 40 % </li>
       <li>Tugas  : 40 % </li>
@@ -190,7 +210,7 @@
 <ul>
   <li>Date 		: 25-03-2020 : 13.00,</li>
   <li>Peserta 	: Info3, Info4 dan Info5</li>
-  <li>Materi 	: Lihat Modul (Kalo sudah ada)</li>
+  <li>Materi 	: Evaluasi Tugas 1 dan Pembahasan Tugas 2 (Online)</li>
 </ul>
 
 <!--	* RENCANA untuk Perkuliahan Online hari Rabu, jam 13.00-->
@@ -214,52 +234,471 @@
 </ul>
 
 <h3 id="daftar-yang-telah-melakukan-fork-">Daftar yang Telah melakukan “FORK” :</h3>
-<ol>
-  <li>abuisa</li>
-  <li>adriansenen</li>
-  <li>Claudioseptian</li>
-  <li>daniel8117</li>
-  <li>Darmawan17</li>
-  <li>Ekzasaptawibowo16</li>
-  <li>Fazlur9</li>
-  <li>mjeiner28</li>
-  <li>Novakartika</li>
-  <li>nurhumairaabri21</li>
-  <li>Nuria2504</li>
-  <li>origin</li>
-  <li>qamarnur10</li>
-  <li>viraditty09</li>
-  <li>viviyanti</li>
-</ol>
 
-<h3 id="daftar-yang-mengumpulkan-file-">Daftar yang Mengumpulkan File :</h3>
-<ol>
-  <li>PBO_18001/profile_18001.md</li>
-  <li>PBO_1800X/tugas2_1800x.py</li>
-  <li>PBO_1800X/profile_1800x.md</li>
-  <li>PBO_18091/Profile_18091.md/tugas_1.py</li>
-  <li>PBO_18099/profile_18099.md</li>
-  <li>PBO_18099/Tugas 1 variabel.py</li>
-  <li>PBO_18102/tugas1_18102.py</li>
-  <li>PBO_18102/profile_18102.md</li>
-  <li>PBO_18110/profile_18110.md</li>
-  <li>PBO_18117/tugas_1.py</li>
-  <li>PBO_18117/profile_18117.md</li>
-  <li>PBO_18117/Tugas_11.py</li>
-  <li>PBO_18126/tugas1_18126.py</li>
-  <li>PBO_18126/profile_18126.md</li>
-  <li>PBO_18130/profil_18130.md</li>
-  <li>PBO_18130/tugas1_18130.py</li>
-  <li>PBO_18136/tugas1_18136.py</li>
-  <li>PBO_18141/tugas_18141.py</li>
-  <li>PBO_18141/tugas1_18141.py</li>
-  <li>PBO_18141/profile_18141.md</li>
-  <li>PBO_18154/profile_18154.md</li>
-  <li>PBO_19188/tugas1_19188.py</li>
-  <li>PBO_19188/profile_19188.md</li>
-</ol>
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Nama Mahasiswa</th>
+      <th>Akun</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td>Claudioseptian</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td>daniel8117</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>DARMAWAN SALIM (Info4)</td>
+      <td>Darmawan17</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>EKZA SAPTA WIBOWO (Info4)</td>
+      <td>Ekzasaptawibowo16</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
+      <td>Fazlur9</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td> </td>
+      <td>ifanamirudin</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td>mjeiner28</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>NUR HUMAIRA ABRI (Info4)</td>
+      <td>nurhumairaabri21</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>NURIA RINDAH (Info4)</td>
+      <td>Nuria2504</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>NUR QAMAR BUAMONA (Info3)</td>
+      <td>qamarnur10</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td> </td>
+      <td>rosnialabania</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>SEVTRIAN MAKARONGGALA (Info4)</td>
+      <td>Sevtrian</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td>viraditty09</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td>viviyanti</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td> </td>
+      <td>adriansenen</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td> </td>
+      <td>M-RIFAY-UMAMIT</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td> </td>
+      <td>Novakartika</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td> </td>
+      <td>okhysillia</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Daftar diatas yang sudah “FORK”, yang Namanya kosong berarti belum buat folder <code class="highlighter-rouge">PBO_NPM</code> dan file <code class="highlighter-rouge">profil_npm.md</code>, silahkan lengkapi sebelum jam 13.00 hari Rabu 1-04-2020.</li>
+</ul>
+
+<h3 id="daftar-yang-buat-profile-">Daftar yang Buat Profile :</h3>
+
+<p>Berikut Daftar Mahasiswa (<code class="highlighter-rouge">Info3</code>, <code class="highlighter-rouge">Info4</code>, <code class="highlighter-rouge">Info5</code>) yang membuat file <code class="highlighter-rouge">profile_npm.md</code> :</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Nama Mahasiswa</th>
+      <th>File</th>
+      <th>Size</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO/PBO_18142/profile_18142.md.txt" target="_blank">PBO/PBO_18142/profile_18142.md</a></td>
+      <td>4/9/66</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/profile_18099.md.txt" target="_blank">PBO_18099/profile_18099.md</a></td>
+      <td>13/39/239</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td><a href="assets/pbo/PBO_18102/profile_18102.md.txt" target="_blank">PBO_18102/profile_18102.md</a></td>
+      <td>5/17/95</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>NUR QAMAR BUAMONA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18110/profile_18110.md.txt" target="_blank">PBO_18110/profile_18110.md</a></td>
+      <td>5/17/68</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/profile_18117.md.txt" target="_blank">PBO_18117/profile_18117.md</a></td>
+      <td>5/17/73</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>NUR HUMAIRA ABRI (Info4)</td>
+      <td><a href="assets/pbo/PBO_18126/profile_18126.md.txt" target="_blank">PBO_18126/profile_18126.md</a></td>
+      <td>4/8/86</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>SEVTRIAN MAKARONGGALA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18129/profile_18129.md.txt" target="_blank">PBO_18129/profile_18129.md</a></td>
+      <td>5/15/88</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>NURIA RINDAH (Info4)</td>
+      <td><a href="assets/pbo/PBO_18141/profile_18141.md.txt" target="_blank">PBO_18141/profile_18141.md</a></td>
+      <td>5/18/108</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18142/profile_18142.md.txt" target="_blank">PBO_18142/profile_18142.md</a></td>
+      <td>4/9/66</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>EKZA SAPTA WIBOWO (Info4)</td>
+      <td><a href="assets/pbo/PBO_18154/profile_18154.md.txt" target="_blank">PBO_18154/profile_18154.md</a></td>
+      <td>5/16/101</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
+      <td><a href="assets/pbo/PBO_19188/profile_19188.md.txt" target="_blank">PBO_19188/profile_19188.md</a></td>
+      <td>5/19/129</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td> </td>
+      <td><a href="assets/pbo/PBO_8081/profile_8081.md.txt" target="_blank">PBO_8081/profile_8081.md</a></td>
+      <td>5/10/76</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Bagi yang telah membuat file <code class="highlighter-rouge">profile_npm.md</code> dan Namanya tidak ada di daftar segera perbaiki dan harap mengikuti KETENTUAN.</li>
+  <li>Bagi yang BELUM MENGERTI cara mengumpulkan tugas lewat github.com silahkan BERTANYA KE TEMAN-TEMAN yang SUDAH BISA yang ada dalam daftar diatas !.</li>
+</ul>
+
+<h3 id="daftar-yang-kumpul-tugas-1-dan-tugas-2">Daftar yang Kumpul Tugas 1 dan Tugas 2:</h3>
+
+<p>Berikut Daftar Mahasiswa (<code class="highlighter-rouge">Info3</code>, <code class="highlighter-rouge">Info4</code>, <code class="highlighter-rouge">Info5</code>) yang mengumpulkan <code class="highlighter-rouge">Tugas 1</code> dan <code class="highlighter-rouge">Tugas 2</code> :</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Hasil</th>
+      <th>Nama Mahasiswa</th>
+      <th>File</th>
+      <th>Size</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>OK</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO/PBO_18142/tugas1.py.txt" target="_blank">PBO/PBO_18142/tugas1.py</a></td>
+      <td>40/82/818</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Error</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/tugas2penjumlahan.py.txt" target="_blank">PBO_18091/tugas2penjumlahan.py</a></td>
+      <td>41/99/575</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>OK</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/Tugas2.py.txt" target="_blank">PBO_18091/Tugas2.py</a></td>
+      <td>1/0/1</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Error</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/tugas2operatorpenugasan.py.txt" target="_blank">PBO_18091/tugas2operatorpenugasan.py</a></td>
+      <td>29/85/500</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Error</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/tugas2perbandingan.py.txt" target="_blank">PBO_18091/tugas2perbandingan.py</a></td>
+      <td>27/118/636</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Error</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/Profile_18091.md/tugas_1.py.txt" target="_blank">PBO_18091/Profile_18091.md/tugas_1.py</a></td>
+      <td>6/25/134</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Error</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Tugas1variabel.py.txt" target="_blank">PBO_18099/Tugas1variabel.py</a></td>
+      <td>26/97/647</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>OK</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Tugas2_18099.py.txt" target="_blank">PBO_18099/Tugas2_18099.py</a></td>
+      <td>92/244/1969</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>OK</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Tugas1_18099.py.txt" target="_blank">PBO_18099/Tugas1_18099.py</a></td>
+      <td>21/46/339</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>OK</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td><a href="assets/pbo/PBO_18102/tugas1_18102.py.txt" target="_blank">PBO_18102/tugas1_18102.py</a></td>
+      <td>6/12/115</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>OK</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/tugas_1.py.txt" target="_blank">PBO_18117/tugas_1.py</a></td>
+      <td>1/2/21</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>OK</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/Tugas_11.py.txt" target="_blank">PBO_18117/Tugas_11.py</a></td>
+      <td>1/4/32</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>OK</td>
+      <td>NUR HUMAIRA ABRI (Info4)</td>
+      <td><a href="assets/pbo/PBO_18126/tugas1_18126.py.txt" target="_blank">PBO_18126/tugas1_18126.py</a></td>
+      <td>40/81/813</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>OK</td>
+      <td>SEVTRIAN MAKARONGGALA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18129/tugas1_18129.py.txt" target="_blank">PBO_18129/tugas1_18129.py</a></td>
+      <td>17/53/330</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_35_tenary.py.txt" target="_blank">PBO_18130/latihan_35_tenary.py</a></td>
+      <td>5/9/88</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_36_tenari2.py.txt" target="_blank">PBO_18130/latihan_36_tenari2.py</a></td>
+      <td>7/19/157</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/tugas_31.py.txt" target="_blank">PBO_18130/tugas_31.py</a></td>
+      <td>22/44/323</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_33_logika.py.txt" target="_blank">PBO_18130/latihan_33_logika.py</a></td>
+      <td>12/26/185</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_34_bitwise.py.txt" target="_blank">PBO_18130/latihan_34_bitwise.py</a></td>
+      <td>20/51/334</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_32_penugasan.py.txt" target="_blank">PBO_18130/latihan_32_penugasan.py</a></td>
+      <td>21/21/131</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/tugas1_18130.py.txt" target="_blank">PBO_18130/tugas1_18130.py</a></td>
+      <td>26/30/296</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_31_aritmatika.py.txt" target="_blank">PBO_18130/latihan_31_aritmatika.py</a></td>
+      <td>20/15/153</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Error</td>
+      <td>DARMAWAN SALIM (Info4)</td>
+      <td><a href="assets/pbo/PBO_18136/tugas1_18136.py.txt" target="_blank">PBO_18136/tugas1_18136.py</a></td>
+      <td>32/67/491</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Error</td>
+      <td>NURIA RINDAH (Info4)</td>
+      <td><a href="assets/pbo/PBO_18141/tugas_18141.py.txt" target="_blank">PBO_18141/tugas_18141.py</a></td>
+      <td>31/57/475</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Error</td>
+      <td>NURIA RINDAH (Info4)</td>
+      <td><a href="assets/pbo/PBO_18141/tugas1_18141.py.txt" target="_blank">PBO_18141/tugas1_18141.py</a></td>
+      <td>31/57/475</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>OK</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18142/tugas1.py.txt" target="_blank">PBO_18142/tugas1.py</a></td>
+      <td>40/82/818</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>OK</td>
+      <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
+      <td><a href="assets/pbo/PBO_19188/tugas1_19188.py.txt" target="_blank">PBO_19188/tugas1_19188.py</a></td>
+      <td>39/79/840</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Error</td>
+      <td> </td>
+      <td><a href="assets/pbo/PBO_8081/tugasPBO1.py.txt" target="_blank">PBO_8081/tugasPBO1.py</a></td>
+      <td>26/95/700</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Bagi yang telah mengumpulkan dan Namanya tidak ada di daftar segera perbaiki dan mengikuti KETENTUAN yang dibuat.</li>
+  <li>Batas mengumpulkan file <code class="highlighter-rouge">Tugas 1</code> dan <code class="highlighter-rouge">Tugas 2</code> tanggal ‘01-04-2020 jam 13.00’.</li>
+  <li>Perhatikan Hasil <code class="highlighter-rouge">code</code> yang masih <code class="highlighter-rouge">error</code>, perbaiki !.</li>
+</ul>
 
 <hr />
+
 <p id="pertemuan4"></p>
 <p>Next…</p>
 
@@ -277,6 +716,8 @@
     </ul>
   </li>
 </ul>
+
+<hr />
 
 
 </article>

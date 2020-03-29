@@ -195,7 +195,8 @@ th {
   padding: 5px 10px; }
 
 td {
-  padding: 5px 10px; }
+  padding: 0px 8px;
+  border-bottom: 0.7px dashed #888; }
 
 hr {
   height: 0;
@@ -267,3 +268,41 @@ a:active, a:focus {
 
 #wrapper {
   min-height: calc(100vh - 100px); }
+
+/* TAMBAHAN UNTUK TOMBOL "GO TOP" */
+/* =====Untuk Button go to top==== */
+#myBtn {
+  display: block;
+  position: fixed;
+  bottom: 12px;
+  right: 16px;
+  border: none;
+  outline: none;
+  background-color: gray;
+  opacity: 0.4;
+  color: black;
+  cursor: pointer;
+  border-radius: 7px; }
+
+#myBtn:hover {
+  background-color: #6699ff;
+  opacity: 0.4; }
+
+#imgMyBtn {
+  padding: 2px;
+  align: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto; }
+
+#myBtnEx {
+  display: black;
+  position: fixed;
+  bottom: 66px;
+  right: 6px;
+  border: none;
+  outline: none;
+  color: black;
+  cursor: pointer;
+  text-align: right; }
