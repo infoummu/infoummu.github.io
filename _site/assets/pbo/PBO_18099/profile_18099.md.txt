@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-Nama     : Viviyanti Iksan Sangadji
-Npm      : 18099
-Info     : 3
-Semester : 4
-MK       : PBO
-=======
 Nama : Viviyanti Iksan Sangadji
 NPM : 18099
 Info : 3
 Semester : 4
 MK : PBO
->>>>>>> cabc02584903493d60cac213b2096ab4b4f6b019

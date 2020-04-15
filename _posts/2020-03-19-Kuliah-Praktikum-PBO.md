@@ -8,6 +8,8 @@ published: true
 	[Ke Pertemuan 2](#pertemuan2) <br />
 	[Ke Pertemuan 3](#pertemuan3) <br />
 	[Ke Pertemuan 4](#pertemuan4) <br />
+	[Ke Pertemuan 5](#pertemuan5) <br />
+	[Ke Pertemuan 6](#pertemuan6) <br />
 
 
 
@@ -120,99 +122,9 @@ published: true
 	* Untuk Tugas 1 waktunya diperpanjang sampai tanggal yang sama dengan waktu untuk Tugas 2.
 
 
-### Daftar yang Telah melakukan "FORK" : 
-
-|   No |                   Nama Mahasiswa |  Akun             |
-|------|----------------------------------|-------------------|
-|    1 |   CLAUDIO SEPTIAN POETRA (Info3) | Claudioseptian    |
-|    2 |      DANIEL SILOAM BUNGA (Info3) | daniel8117        |
-|    3 |           DARMAWAN SALIM (Info4) | Darmawan17        |
-|    4 |        EKZA SAPTA WIBOWO (Info4) | Ekzasaptawibowo16 |
-|    5 |    FAZLUR MARIF MUHAMMAD (Info5) | Fazlur9           |
-|    6 |                                  | ifanamirudin      |
-|    7 | MUHAMAD JEINER SUMAMPOUW (Info3) | mjeiner28         |
-|    8 |         NUR HUMAIRA ABRI (Info4) | nurhumairaabri21  |
-|    9 |             NURIA RINDAH (Info4) | Nuria2504         |
-|   10 |        NUR QAMAR BUAMONA (Info3) | qamarnur10        |
-|   11 |                                  | rosnialabania     |
-|   12 |    SEVTRIAN MAKARONGGALA (Info4) | Sevtrian          |
-|   13 |        VIRA JUNIAR DITTY (Info4) | viraditty09       |
-|   14 | VIVIYANTI IKSAN SANGADJI (Info3) | viviyanti         |
-|   15 |                                  | adriansenen       |
-|   16 |                                  | M-RIFAY-UMAMIT    |
-|   17 |                                  | Novakartika       |
-|   18 |                                  | okhysillia        |
-
-* Daftar diatas yang sudah "FORK", yang Namanya kosong berarti belum buat folder `PBO_NPM` dan file `profil_npm.md`, silahkan lengkapi sebelum jam 13.00 hari Rabu 1-04-2020. 
-
-### Daftar yang Buat Profile : 
-
-Berikut Daftar Mahasiswa (`Info3`, `Info4`, `Info5`) yang membuat file `profile_npm.md` :
-
-|   No |                   Nama Mahasiswa | File                                                                                              | Size      |    |
-|------|----------------------------------|---------------------------------------------------------------------------------------------------|-----------|----|
-|    1 |          ROSNIA LA BANIA (Info4) | [PBO/PBO_18142/profile_18142.md](assets/pbo/PBO/PBO_18142/profile_18142.md.txt){:target='_blank'} | 4/9/66    |    |
-|    2 | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/profile_18099.md](assets/pbo/PBO_18099/profile_18099.md.txt){:target='_blank'}         | 13/39/239 |    |
-|    3 | MUHAMAD JEINER SUMAMPOUW (Info3) | [PBO_18102/profile_18102.md](assets/pbo/PBO_18102/profile_18102.md.txt){:target='_blank'}         | 5/17/95   |    |
-|    4 |        NUR QAMAR BUAMONA (Info3) | [PBO_18110/profile_18110.md](assets/pbo/PBO_18110/profile_18110.md.txt){:target='_blank'}         | 5/17/68   |    |
-|    5 |      DANIEL SILOAM BUNGA (Info3) | [PBO_18117/profile_18117.md](assets/pbo/PBO_18117/profile_18117.md.txt){:target='_blank'}         | 5/17/73   |    |
-|    6 |         NUR HUMAIRA ABRI (Info4) | [PBO_18126/profile_18126.md](assets/pbo/PBO_18126/profile_18126.md.txt){:target='_blank'}         | 4/8/86    |    |
-|    7 |    SEVTRIAN MAKARONGGALA (Info4) | [PBO_18129/profile_18129.md](assets/pbo/PBO_18129/profile_18129.md.txt){:target='_blank'}         | 5/15/88   |    |
-|    8 |             NURIA RINDAH (Info4) | [PBO_18141/profile_18141.md](assets/pbo/PBO_18141/profile_18141.md.txt){:target='_blank'}         | 5/18/108  |    |
-|    9 |          ROSNIA LA BANIA (Info4) | [PBO_18142/profile_18142.md](assets/pbo/PBO_18142/profile_18142.md.txt){:target='_blank'}         | 4/9/66    |    |
-|   10 |        EKZA SAPTA WIBOWO (Info4) | [PBO_18154/profile_18154.md](assets/pbo/PBO_18154/profile_18154.md.txt){:target='_blank'}         | 5/16/101  |    |
-|   11 |    FAZLUR MARIF MUHAMMAD (Info5) | [PBO_19188/profile_19188.md](assets/pbo/PBO_19188/profile_19188.md.txt){:target='_blank'}         | 5/19/129  |    |
-|   12 |                                  | [PBO_8081/profile_8081.md](assets/pbo/PBO_8081/profile_8081.md.txt){:target='_blank'}             | 5/10/76   |    |
-
-
-* Bagi yang telah membuat file `profile_npm.md` dan Namanya tidak ada di daftar segera perbaiki dan harap mengikuti KETENTUAN.
-* Bagi yang BELUM MENGERTI cara mengumpulkan tugas lewat github.com silahkan BERTANYA KE TEMAN-TEMAN yang SUDAH BISA yang ada dalam daftar diatas !.
-
-### Daftar yang Kumpul Tugas 1 dan Tugas 2: 
-
-Berikut Daftar Mahasiswa (`Info3`, `Info4`, `Info5`) yang mengumpulkan `Tugas 1` dan `Tugas 2` : 
-
-|   No |   Hasil | Nama Mahasiswa                   | File                                                                                                            | Size        |    |
-|------|---------|----------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------|----|
-|    1 |      OK | ROSNIA LA BANIA (Info4)          | [PBO/PBO_18142/tugas1.py](assets/pbo/PBO/PBO_18142/tugas1.py.txt){:target='_blank'}                             | 40/82/818   |    |
-|    2 |   Error | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/tugas2penjumlahan.py](assets/pbo/PBO_18091/tugas2penjumlahan.py.txt){:target='_blank'}               | 41/99/575   |    |
-|    3 |      OK | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/Tugas2.py](assets/pbo/PBO_18091/Tugas2.py.txt){:target='_blank'}                                     | 1/0/1       |    |
-|    4 |   Error | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/tugas2operatorpenugasan.py](assets/pbo/PBO_18091/tugas2operatorpenugasan.py.txt){:target='_blank'}   | 29/85/500   |    |
-|    5 |   Error | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/tugas2perbandingan.py](assets/pbo/PBO_18091/tugas2perbandingan.py.txt){:target='_blank'}             | 27/118/636  |    |
-|    6 |   Error | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/Profile_18091.md/tugas_1.py](assets/pbo/PBO_18091/Profile_18091.md/tugas_1.py.txt){:target='_blank'} | 6/25/134    |    |
-|    7 |   Error | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Tugas1variabel.py](assets/pbo/PBO_18099/Tugas1variabel.py.txt){:target='_blank'}                     | 26/97/647   |    |
-|    8 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Tugas2_18099.py](assets/pbo/PBO_18099/Tugas2_18099.py.txt){:target='_blank'}                         | 92/244/1969 |    |
-|    9 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Tugas1_18099.py](assets/pbo/PBO_18099/Tugas1_18099.py.txt){:target='_blank'}                         | 21/46/339   |    |
-|   10 |      OK | MUHAMAD JEINER SUMAMPOUW (Info3) | [PBO_18102/tugas1_18102.py](assets/pbo/PBO_18102/tugas1_18102.py.txt){:target='_blank'}                         | 6/12/115    |    |
-|   11 |      OK | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/tugas_1.py](assets/pbo/PBO_18117/tugas_1.py.txt){:target='_blank'}                                   | 1/2/21      |    |
-|   12 |      OK | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/Tugas_11.py](assets/pbo/PBO_18117/Tugas_11.py.txt){:target='_blank'}                                 | 1/4/32      |    |
-|   13 |      OK | NUR HUMAIRA ABRI (Info4)         | [PBO_18126/tugas1_18126.py](assets/pbo/PBO_18126/tugas1_18126.py.txt){:target='_blank'}                         | 40/81/813   |    |
-|   14 |      OK | SEVTRIAN MAKARONGGALA (Info4)    | [PBO_18129/tugas1_18129.py](assets/pbo/PBO_18129/tugas1_18129.py.txt){:target='_blank'}                         | 17/53/330   |    |
-|   15 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_35_tenary.py](assets/pbo/PBO_18130/latihan_35_tenary.py.txt){:target='_blank'}               | 5/9/88      |    |
-|   16 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_36_tenari2.py](assets/pbo/PBO_18130/latihan_36_tenari2.py.txt){:target='_blank'}             | 7/19/157    |    |
-|   17 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/tugas_31.py](assets/pbo/PBO_18130/tugas_31.py.txt){:target='_blank'}                                 | 22/44/323   |    |
-|   18 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_33_logika.py](assets/pbo/PBO_18130/latihan_33_logika.py.txt){:target='_blank'}               | 12/26/185   |    |
-|   19 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_34_bitwise.py](assets/pbo/PBO_18130/latihan_34_bitwise.py.txt){:target='_blank'}             | 20/51/334   |    |
-|   20 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_32_penugasan.py](assets/pbo/PBO_18130/latihan_32_penugasan.py.txt){:target='_blank'}         | 21/21/131   |    |
-|   21 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/tugas1_18130.py](assets/pbo/PBO_18130/tugas1_18130.py.txt){:target='_blank'}                         | 26/30/296   |    |
-|   22 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_31_aritmatika.py](assets/pbo/PBO_18130/latihan_31_aritmatika.py.txt){:target='_blank'}       | 20/15/153   |    |
-|   23 |   Error | DARMAWAN SALIM (Info4)           | [PBO_18136/tugas1_18136.py](assets/pbo/PBO_18136/tugas1_18136.py.txt){:target='_blank'}                         | 32/67/491   |    |
-|   24 |   Error | NURIA RINDAH (Info4)             | [PBO_18141/tugas_18141.py](assets/pbo/PBO_18141/tugas_18141.py.txt){:target='_blank'}                           | 31/57/475   |    |
-|   25 |   Error | NURIA RINDAH (Info4)             | [PBO_18141/tugas1_18141.py](assets/pbo/PBO_18141/tugas1_18141.py.txt){:target='_blank'}                         | 31/57/475   |    |
-|   26 |      OK | ROSNIA LA BANIA (Info4)          | [PBO_18142/tugas1.py](assets/pbo/PBO_18142/tugas1.py.txt){:target='_blank'}                                     | 40/82/818   |    |
-|   27 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/tugas1_19188.py](assets/pbo/PBO_19188/tugas1_19188.py.txt){:target='_blank'}                         | 39/79/840   |    |
-|   28 |   Error |                                  | [PBO_8081/tugasPBO1.py](assets/pbo/PBO_8081/tugasPBO1.py.txt){:target='_blank'}                                 | 26/95/700   |    |
-
-
-* Bagi yang telah mengumpulkan dan Namanya tidak ada di daftar segera perbaiki dan mengikuti KETENTUAN yang dibuat.
-* Batas mengumpulkan file `Tugas 1` dan `Tugas 2` tanggal '01-04-2020 jam 13.00'.
-* Perhatikan Hasil `code` yang masih `error`, perbaiki !.
-
 ***
 
 <p id="pertemuan4"></p>
-Next...
-
 ## Pertemuan ke-4
 * Date 		: 01-04-2020 : 13.00,
 * Peserta 	: Info3, Info4 dan Info5
@@ -221,7 +133,51 @@ Next...
 * RENCANA untuk Perkuliahan Online (`classroom`) hari Rabu, jam 13.00
 	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
 	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+>
+* Mengerjakan Praktikum ke 4, dengan Materi : List, Tuple, Set dan Dictionary
 
+
+***
+
+<p id="pertemuan5"></p>
+## Pertemuan ke-5
+* Date 		: 08-04-2020 : 13.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Lihat Modul (materi praktikum ke 5 di modul)
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Rabu, jam 13.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+Perkuliahan untuk Pertemuan ke 5: 
+1. Kerjakan Praktikum 5 (PENGULANGAN) yang ada di modul,
+2. Jalankan dan pastikan tidak ERROR, setelah itu kumpul ke github.com
+3. Beri NAMA FILE sesuaikan dengan NAMA FILE di modul, "NAMA FILE TANPA SPASI"
+4. NAMA FILE yang dikumpul ke github.com adalah : 
+	`Latihan_5.1.for-list.py` sampai `Latihan_5.7.while-continue-break.py` 
+	dan ditambah file `Tugas_5.1.py`
+5. Absen Berdasarkan yang kumpul file ke github.com
+
+***
+
+<p id="pertemuan6"></p>
+## Pertemuan ke-6
+* Date 		: 015-04-2020 : 16.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Lihat Modul (materi praktikum ke 6 di modul)
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Rabu, jam 16.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+Perkuliahan untuk Pertemuan ke 5: 
+1. Kerjakan Praktikum 6 (FUNGSI) yang ada di modul,
+2. Jalankan dan pastikan tidak ERROR, setelah itu kumpul ke github.com
+3. Beri NAMA FILE sesuaikan dengan NAMA FILE di modul, "NAMA FILE TANPA SPASI"
+4. NAMA FILE yang dikumpul ke github.com adalah : 
+	`Latihan_6.1.helloword.py` sampai `Latihan_6.6.gaji.py` 
+	dan ditambah file `Tugas_6.1.py`
+5. Absen Berdasarkan yang kumpul file ke github.com
 
 ***
 

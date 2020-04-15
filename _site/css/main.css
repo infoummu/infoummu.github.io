@@ -306,3 +306,6 @@ a:active, a:focus {
   color: black;
   cursor: pointer;
   text-align: right; }
+
+.rd {
+  color: red; }

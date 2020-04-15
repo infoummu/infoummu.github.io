@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ekstra-Modul
+title: EkstraModul
 description:  Ekstra Modul
 ---
 ### Download Materi Tambahan PBO (PDF):
