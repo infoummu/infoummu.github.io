@@ -162,15 +162,15 @@ Perkuliahan untuk Pertemuan ke 5:
 
 <p id="pertemuan6"></p>
 ## Pertemuan ke-6
-* Date 		: 015-04-2020 : 16.00,
+* Date 		: 015-04-2020 : 18.--,
 * Peserta 	: Info3, Info4 dan Info5
 * Materi 	: Lihat Modul (materi praktikum ke 6 di modul)
 
-* RENCANA untuk Perkuliahan Online (`classroom`) hari Rabu, jam 16.00
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Rabu, jam 18.--
 	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
 	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
 
-Perkuliahan untuk Pertemuan ke 5: 
+Perkuliahan untuk Pertemuan ke 6: 
 1. Kerjakan Praktikum 6 (FUNGSI) yang ada di modul,
 2. Jalankan dan pastikan tidak ERROR, setelah itu kumpul ke github.com
 3. Beri NAMA FILE sesuaikan dengan NAMA FILE di modul, "NAMA FILE TANPA SPASI"
