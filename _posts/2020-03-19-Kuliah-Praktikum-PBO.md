@@ -162,7 +162,7 @@ Perkuliahan untuk Pertemuan ke 5:
 
 <p id="pertemuan6"></p>
 ## Pertemuan ke-6
-* Date 		: 015-04-2020 : 18.--,
+* Date 		: 15-04-2020 : 18.--,
 * Peserta 	: Info3, Info4 dan Info5
 * Materi 	: Lihat Modul (materi praktikum ke 6 di modul)
 
@@ -177,7 +177,8 @@ Perkuliahan untuk Pertemuan ke 6:
 4. NAMA FILE yang dikumpul ke github.com adalah : 
 	`Latihan_6.1.helloword.py` sampai `Latihan_6.6.gaji.py` 
 	dan ditambah file `Tugas_6.1.py`
-5. Absen Berdasarkan yang kumpul file ke github.com
+5. BATAS KUMPUL praktikum 6 sampai Rabu 22-04-2020
+6. Absen Berdasarkan yang kumpul file ke github.com
 
 ***
 
