@@ -9,13 +9,13 @@ c= a | b
 print("{} | {}={}". format(a,b,c))
 # operator xOR
 c= a ^ b
-print("{} | {}={}". format(a,b,c))
+print("{} ^ {}={}". format(a,b,c))
 # operator not
 c= ~a 
 print("~{}= {}". format(a,b,c))
 # operator shift left
 c= a << b
 print("{} << {}={}". format(a,b,c))
-# opertaor shift left
+# opertaor shift right
 c= a >> b
 print("{} >> {}={}". format(a,b,c))

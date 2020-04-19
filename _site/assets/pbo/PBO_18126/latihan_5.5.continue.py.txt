@@ -1,12 +1,12 @@
-#statemen continue dan pass
-nama_makanan=["nasi", "sayur", "sambal"]
+#statmen continue dan pass
+nama_makanan = ["nasi", "sayur", "sambal"]
 for pilihan_makanan in nama_makanan:
-    print("pilihan makanan:",pilihan_makanan)
+    print("pilihan makanan : ", pilihan_makanan)
     if pilihan_makanan is "sayur":
-	print("inilah makanan diet")
-	continue
-    #pass
-    print("Selamat Diet!")
+        print("inilah makanan diet")
+        continue
+        #pass
+        print("Selamat Diet!")
 else:
-	print("anada telah keluar dari lopp!")
+    print("anda telah keluar dari loop!")
 print("yah kasiang")

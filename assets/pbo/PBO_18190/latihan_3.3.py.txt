@@ -8,4 +8,4 @@ c= a or b
 print("jika A={} or B={} = {}". format(a,b,c))
 
 c= not a
-print("jika A={} maka not A = {}". format)
+print("jika A={} maka not A = {}". format(a,b,c))
