@@ -4,6 +4,10 @@ title: TheList
 description: The List 
 ---
 # The List
+<b class="rd">
+Untuk Semua Mahasiswa yang di akun githubnya terdapat file dan folder ganda atau tidak diperlukan SEGERA DIHAPUS SAJA !!,
+agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b>
+
 ## Daftar yang Telah melakukan "FORK" : 
 
 |   No |                   Nama Mahasiswa |  Akun             |
@@ -61,8 +65,8 @@ Berikut Daftar Mahasiswa (`Info3`, `Info4`, `Info5`) yang membuat file `profile_
 |   13 |     --- | HARIS SENEN (Info5)              | [PBO_18191/profilee_18191.md](assets/pbo/PBO_18191/profilee_18191.md.txt){:target='_blank'}       | 5/17/72  |    |
 |   14 |     --- | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/profile_19188.md](assets/pbo/PBO_19188/profile_19188.md.txt){:target='_blank'}         | 5/19/129 |    |
 |   15 |     --- |                                  | [PBO_8081/profile_8081.md](assets/pbo/PBO_8081/profile_8081.md.txt){:target='_blank'}             | 5/10/76  |    |
-|   16 |     --- | ROSNIA LA BANIA (Info4)          | [PBO/PBO_18142/profile_18142.md](assets/pbo/PBO/PBO_18142/profile_18142.md.txt){:target='_blank'} | 4/9/66   |    |
 
+* Untuk `ROSNIA LA BANIA`, `DIANA SENEN`, dan `HARIS SENEN` serta LAINNYA, Segera hapus folder dan file yang TIDAK DIPERLUKAN dan YANG GANDA di akun githubnya !!
 * Bagi yang telah membuat file `profile_npm.md` dan Namanya tidak ada di daftar segera perbaiki dan harap mengikuti KETENTUAN.
 * Bagi yang BELUM MENGERTI cara mengumpulkan tugas lewat github.com silahkan BERTANYA KE TEMAN-TEMAN yang SUDAH BISA yang ada dalam daftar diatas !.
 * Lihat kembali Aturan Main yang ada di bagian [pertemuan ke 2](http://0.0.0.0:4000/Kuliah-Praktikum-PBO#pertemuan2){:target='_blank'}
@@ -292,5 +296,5 @@ Berikut Daftar Mahasiswa (`Info3`, `Info4`, `Info5`) yang membuat file `profile_
 
 
 * BAGI YANG TELAH MENGERJAKAN PRAKTIKUM DAN TUGAS, DAN NAMANYA TIDAK ADA DI DAFTAR SEGERA LIHAT KEMBALI `KETENTUAN` YANG BERLAKU UNTUK SETIAP TUGAS DAN PRAKTIKUM !
-* PERINGATAN UNTUK YANG TUGASNYA SAMA (COPAS punyan Orang Lain) !!, Harap Kerjakan Tugas Sendiri-Sendiri !!!
+* <b class="rd">PERINGATAN KERAS UNTUK YANG TUGASNYA SAMA (COPAS punyan Orang Lain) !!, Harap Kerjakan Tugas secara Mandiri !!!</b>
 
