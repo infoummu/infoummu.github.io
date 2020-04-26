@@ -206,7 +206,7 @@ Perkuliahan untuk Pertemuan ke 7:
 4. NAMA FILE yang dikumpul ke github.com adalah : 
 	`Latihan_7.1.class1.py` sampai `Latihan_7.3.str.py` 
 	dan ditambah file `Tugas_7.1.py`
-5. BATAS KUMPUL praktikum 6 sampai Jumat 01-05-2020
+5. BATAS KUMPUL praktikum 6 sampai Jumat 01-05-2020 
 6. Absen Berdasarkan yang kumpul file ke github.com
 
 ***
