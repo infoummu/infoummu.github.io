@@ -10,6 +10,7 @@ published: true
 	[Ke Pertemuan 4](#pertemuan4) <br />
 	[Ke Pertemuan 5](#pertemuan5) <br />
 	[Ke Pertemuan 6](#pertemuan6) <br />
+	[Ke Pertemuan 7](#pertemuan7) <br />
 
 
 
@@ -182,4 +183,30 @@ Perkuliahan untuk Pertemuan ke 6:
 
 ***
 
+<p id="pertemuan7"></p>
+## Pertemuan ke-7
+* Date 		: 26-04-2020 : 18.--,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Lihat Modul (materi praktikum ke 7 di modul)
 
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Ahad, jam 18.--
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+
+>
+
+* Infomasi Untuk UTS, Materinya silahkan pelajari dan latihan dari modul mulai PRAKTIKUM 2 SAMPAI PRAKTIKUM 7
+
+
+Perkuliahan untuk Pertemuan ke 7: 
+1. Kerjakan Praktikum 7 (CLASS) yang ada di modul,
+2. Jalankan dan pastikan tidak ERROR, setelah itu kumpul ke github.com
+3. Beri NAMA FILE sesuaikan dengan NAMA FILE di modul, "NAMA FILE TANPA SPASI"
+4. NAMA FILE yang dikumpul ke github.com adalah : 
+	`Latihan_7.1.class1.py` sampai `Latihan_7.3.str.py` 
+	dan ditambah file `Tugas_7.1.py`
+5. BATAS KUMPUL praktikum 6 sampai Jumat 01-05-2020
+6. Absen Berdasarkan yang kumpul file ke github.com
+
+***
