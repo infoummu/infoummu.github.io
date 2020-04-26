@@ -3,7 +3,7 @@
 //--- Fungsi dibawah merupakan fungsi untuk mendeteksi mobile phone ---
 //--- Jika perangkat merupakan mobile phone maka secara otomatis ubah kolom div menjadi baris ---
 
-	window.onload = function(){
+window.onload = function(){
 	    //alert("TES PESAN-PESAN .........!");
 
 		if( checkm() ) {
@@ -226,15 +226,16 @@ function showhide(id) {
 	
 	function scrollFunction() {
 //		if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-		if (document.body.scrollTop > 90 || document.documentElement.scrollTop > 90) {
-			if (cekos() == false){
+		if (document.body.scrollTop > 190 || document.documentElement.scrollTop > 190) {
+//			if (cekos() == false){
 			// Cek, jika os adalah SELAIN android atau ios maka tampilkan menu myBtnEx
 //		    document.getElementById("myBtnEx").style.display = "block";}
 		    document.getElementById("myBtn").style.display = "block";
-		} else {
-//		    document.getElementById("myBtnEx").style.display = "none";
-		    document.getElementById("myBtn").style.display = "none";
-		}
+			} else {
+//		    	document.getElementById("myBtnEx").style.display = "none";
+				document.getElementById("myBtn").style.display = "none";
+			}
+//		}
 	}
 
 	// When the user clicks on the button, scroll to the top of the document
@@ -268,3 +269,17 @@ function cekosE(){
 	if (cekos() == false){
 		alert("It's False, You aren't phone -Android- or -iOS-");}
 }
+
+//====Tambaah FUngsi Show-Hide Sub Rows===============
+function HideContent(d) {
+	document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+	document.getElementById(d).style.display = "block";
+}
+function ReverseDisplay(d) {
+	if(document.getElementById(d).style.display == "none") {
+	document.getElementById(d).style.display = "block"; }
+	else {document.getElementById(d).style.display = "none"; }
+}
+

@@ -17,16 +17,18 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="The List" />
 <meta property="og:description" content="The List" />
-<link rel="canonical" href="http://localhost:4000/thelist" />
-<meta property="og:url" content="http://localhost:4000/thelist" />
+<link rel="canonical" href="http://10.42.0.1:5000/thelist" />
+<meta property="og:url" content="http://10.42.0.1:5000/thelist" />
 <meta property="og:site_name" content="Info UMMU Ternate" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/thelist","author":{"@type":"Person","name":"Informatika UMMU"},"description":"The List","headline":"TheList","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://10.42.0.1:5000/thelist","author":{"@type":"Person","name":"Informatika UMMU"},"description":"The List","headline":"TheList","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
  
 
 <!-- Tambahan baru 21-12-2019 myjs.js -->
 <!--  	<script src="js/myjs.js"></script>-->
+<!-- myBtn (go top) -- butuh dua library dibawah : -->
+	<script src="js/jquery.min.js"></script> 
 	<script src="js/modulku.js"></script>
 
 <!-- Tambahan baru 26-03-2020 getos.js -->
@@ -88,12 +90,15 @@
   </div>
 </header>
 
-<a href="#topx">
-	<div onclick="" id="myBtn" title="Go to top" >
-		<img id="imgMyBtn" src="assets/img/top-icon-25-512.png" height="36px" width="36px">
-	</div>
-</a>
+<!--<a href="#topx">-->
+<!--	<div onclick="" id="myBtn" title="Go to top" >-->
+<!--		<img id="imgMyBtn" src="assets/img/top-icon-25-512.png" height="36px" width="36px">-->
+<!--	</div>-->
+<!--</a>-->
 
+<div onclick="topFunction()" id="myBtn" title="Go to top !" >
+	<img id="imgMyBtn" src="assets/img//top-icon-25-512.png" height="36px" width="36px">
+</div>
 <!--<div id="myBtnEx" >-->
 <!--	<a href="#pertemuan1" title="pertemuan 1" id="btxx">Pertemuan 1</a><br />-->
 <!--	<a href="#pertemuan2" title="pertemuan 2" id="btxx">Pertemuan 2</a><br />-->
@@ -105,10 +110,15 @@
     <div class="container">
       <section id="main_content">
         <article>
-  <h1 id="the-list">The List</h1>
+  <div class="boxconf" id="x">
+	<div class="close" onclick="ReverseDisplay('x')">close</div>
+	<iframe src="" name="tbox" style="font-size: 26px;"></iframe>
+</div>
+<h1 id="the-list">The List</h1>
 <p><b class="rd">
-Untuk Semua Mahasiswa yang di akun githubnya terdapat file dan folder ganda atau tidak diperlukan SEGERA DIHAPUS SAJA !!,
-agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
+UNTUK SEMUA !,<br />Yang di akun githubnya terdapat FILE dan FOLDER yang GANDA atau yang 
+sudah TIDAK DIPERLUKAN maka SEGERA DIHAPUS SAJA !!, agar tidak terjadi perulangan dalam 
+laporan yang dicetak disini </b></p>
 
 <h2 id="daftar-yang-telah-melakukan-fork-">Daftar yang Telah melakukan “FORK” :</h2>
 
@@ -278,7 +288,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>—</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/profile_18099.md.txt" target="_blank">PBO_18099/profile_18099.md</a></td>
+      <td><a href="assets/pbo/PBO_18099/profile_18099.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/profile_18099.md</a></td>
       <td>5/17/75</td>
       <td> </td>
     </tr>
@@ -286,7 +296,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>—</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/profile_18102.md.txt" target="_blank">PBO_18102/profile_18102.md</a></td>
+      <td><a href="assets/pbo/PBO_18102/profile_18102.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/profile_18102.md</a></td>
       <td>5/17/95</td>
       <td> </td>
     </tr>
@@ -294,7 +304,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>3</td>
       <td>—</td>
       <td>DANDI LAROMBIA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18108/profile_18108.md.txt" target="_blank">PBO_18108/profile_18108.md</a></td>
+      <td><a href="assets/pbo/PBO_18108/profile_18108.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18108/profile_18108.md</a></td>
       <td>1/0/1</td>
       <td> </td>
     </tr>
@@ -302,7 +312,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>4</td>
       <td>—</td>
       <td>NUR QAMAR BUAMONA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18110/profile_18110.md.txt" target="_blank">PBO_18110/profile_18110.md</a></td>
+      <td><a href="assets/pbo/PBO_18110/profile_18110.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18110/profile_18110.md</a></td>
       <td>5/17/68</td>
       <td> </td>
     </tr>
@@ -310,7 +320,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>5</td>
       <td>—</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/profile_18126.md.txt" target="_blank">PBO_18126/profile_18126.md</a></td>
+      <td><a href="assets/pbo/PBO_18126/profile_18126.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/profile_18126.md</a></td>
       <td>4/8/86</td>
       <td> </td>
     </tr>
@@ -318,7 +328,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>6</td>
       <td>—</td>
       <td>SEVTRIAN MAKARONGGALA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18129/profile_18129.md.txt" target="_blank">PBO_18129/profile_18129.md</a></td>
+      <td><a href="assets/pbo/PBO_18129/profile_18129.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18129/profile_18129.md</a></td>
       <td>5/15/88</td>
       <td> </td>
     </tr>
@@ -326,7 +336,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>7</td>
       <td>—</td>
       <td>NURIA RINDAH (Info4)</td>
-      <td><a href="assets/pbo/PBO_18141/profile_18141.md.txt" target="_blank">PBO_18141/profile_18141.md</a></td>
+      <td><a href="assets/pbo/PBO_18141/profile_18141.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18141/profile_18141.md</a></td>
       <td>5/18/108</td>
       <td> </td>
     </tr>
@@ -334,7 +344,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>8</td>
       <td>—</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/profile_18142.md.txt" target="_blank">PBO_18142/profile_18142.md</a></td>
+      <td><a href="assets/pbo/PBO_18142/profile_18142.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/profile_18142.md</a></td>
       <td>4/9/66</td>
       <td> </td>
     </tr>
@@ -342,7 +352,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>9</td>
       <td>—</td>
       <td>EKZA SAPTA WIBOWO (Info4)</td>
-      <td><a href="assets/pbo/PBO_18154/profile_18154.md.txt" target="_blank">PBO_18154/profile_18154.md</a></td>
+      <td><a href="assets/pbo/PBO_18154/profile_18154.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18154/profile_18154.md</a></td>
       <td>5/16/101</td>
       <td> </td>
     </tr>
@@ -350,7 +360,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>10</td>
       <td>—</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/profile_18191.md.txt" target="_blank">PBO_18190/profile_18191.md</a></td>
+      <td><a href="assets/pbo/PBO_18190/profile_18191.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/profile_18191.md</a></td>
       <td>5/17/70</td>
       <td> </td>
     </tr>
@@ -358,7 +368,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>11</td>
       <td>—</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/profilee_18190.md.txt" target="_blank">PBO_18190/profilee_18190.md</a></td>
+      <td><a href="assets/pbo/PBO_18190/profilee_18190.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/profilee_18190.md</a></td>
       <td>5/17/71</td>
       <td> </td>
     </tr>
@@ -366,7 +376,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>12</td>
       <td>—</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/profile_18191.md.txt" target="_blank">PBO_18191/profile_18191.md</a></td>
+      <td><a href="assets/pbo/PBO_18191/profile_18191.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/profile_18191.md</a></td>
       <td>5/16/72</td>
       <td> </td>
     </tr>
@@ -374,7 +384,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>13</td>
       <td>—</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/profilee_18191.md.txt" target="_blank">PBO_18191/profilee_18191.md</a></td>
+      <td><a href="assets/pbo/PBO_18191/profilee_18191.md.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/profilee_18191.md</a></td>
       <td>5/17/72</td>
       <td> </td>
     </tr>
@@ -382,7 +392,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>14</td>
       <td>—</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/profile_19188.md.txt" target="_blank">PBO_19188/profile_19188.md</a></td>
+      <td><a href="assets/pbo/PBO_19188/profile_19188.md.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/profile_19188.md</a></td>
       <td>5/19/129</td>
       <td> </td>
     </tr>
@@ -390,7 +400,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>15</td>
       <td>—</td>
       <td> </td>
-      <td><a href="assets/pbo/PBO_8081/profile_8081.md.txt" target="_blank">PBO_8081/profile_8081.md</a></td>
+      <td><a href="assets/pbo/PBO_8081/profile_8081.md.txt" onclick="ShowContent('x')" target="tbox">PBO_8081/profile_8081.md</a></td>
       <td>5/10/76</td>
       <td> </td>
     </tr>
@@ -422,7 +432,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Tugas1_18099.py.txt" target="_blank">PBO_18099/Tugas1_18099.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Tugas1_18099.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Tugas1_18099.py</a></td>
       <td>21/46/339</td>
       <td> </td>
     </tr>
@@ -430,7 +440,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/tugas1_18102.py.txt" target="_blank">PBO_18102/tugas1_18102.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/tugas1_18102.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/tugas1_18102.py</a></td>
       <td>39/78/830</td>
       <td> </td>
     </tr>
@@ -438,7 +448,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>3</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/tugas1_18126.py.txt" target="_blank">PBO_18126/tugas1_18126.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/tugas1_18126.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/tugas1_18126.py</a></td>
       <td>40/81/813</td>
       <td> </td>
     </tr>
@@ -446,7 +456,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>4</td>
       <td>OK</td>
       <td>SEVTRIAN MAKARONGGALA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18129/tugas1_18129.py.txt" target="_blank">PBO_18129/tugas1_18129.py</a></td>
+      <td><a href="assets/pbo/PBO_18129/tugas1_18129.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18129/tugas1_18129.py</a></td>
       <td>17/53/330</td>
       <td> </td>
     </tr>
@@ -454,7 +464,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>5</td>
       <td>OK</td>
       <td>VIRA JUNIAR DITTY (Info4)</td>
-      <td><a href="assets/pbo/PBO_18130/tugas1_18130.py.txt" target="_blank">PBO_18130/tugas1_18130.py</a></td>
+      <td><a href="assets/pbo/PBO_18130/tugas1_18130.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18130/tugas1_18130.py</a></td>
       <td>26/30/296</td>
       <td> </td>
     </tr>
@@ -462,7 +472,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>6</td>
       <td>OK</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/tugas1_18136.py.txt" target="_blank">PBO_18136/tugas1_18136.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/tugas1_18136.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/tugas1_18136.py</a></td>
       <td>21/68/418</td>
       <td> </td>
     </tr>
@@ -470,7 +480,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>7</td>
       <td>Error</td>
       <td>NURIA RINDAH (Info4)</td>
-      <td><a href="assets/pbo/PBO_18141/tugas1_18141.py.txt" target="_blank">PBO_18141/tugas1_18141.py</a></td>
+      <td><a href="assets/pbo/PBO_18141/tugas1_18141.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18141/tugas1_18141.py</a></td>
       <td>31/57/475</td>
       <td> </td>
     </tr>
@@ -478,7 +488,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>8</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/tugas1.py.txt" target="_blank">PBO_18142/tugas1.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/tugas1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/tugas1.py</a></td>
       <td>40/82/818</td>
       <td> </td>
     </tr>
@@ -486,7 +496,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>9</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/tugas1_18190.py.txt" target="_blank">PBO_18190/tugas1_18190.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/tugas1_18190.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/tugas1_18190.py</a></td>
       <td>4/11/107</td>
       <td> </td>
     </tr>
@@ -494,7 +504,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>10</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/tugas1_18191.py.txt" target="_blank">PBO_18191/tugas1_18191.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/tugas1_18191.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/tugas1_18191.py</a></td>
       <td>4/11/107</td>
       <td> </td>
     </tr>
@@ -502,7 +512,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>11</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/tugas1_19188.py.txt" target="_blank">PBO_19188/tugas1_19188.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/tugas1_19188.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/tugas1_19188.py</a></td>
       <td>39/79/840</td>
       <td> </td>
     </tr>
@@ -535,7 +545,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/tugas_3.1.py.txt" target="_blank">PBO_18126/tugas_3.1.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/tugas_3.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/tugas_3.1.py</a></td>
       <td>16/44/333</td>
       <td> </td>
     </tr>
@@ -543,7 +553,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Tugas_3.1.py.txt" target="_blank">PBO_19188/Tugas_3.1.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Tugas_3.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Tugas_3.1.py</a></td>
       <td>32/116/625</td>
       <td> </td>
     </tr>
@@ -570,7 +580,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Tugas_3.2.py.txt" target="_blank">PBO_19188/Tugas_3.2.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Tugas_3.2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Tugas_3.2.py</a></td>
       <td>20/282/1737</td>
       <td> </td>
     </tr>
@@ -595,7 +605,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_3.2_penugasan.py.txt" target="_blank">PBO_18126/latihan_3.2_penugasan.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_3.2_penugasan.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_3.2_penugasan.py</a></td>
       <td>18/21/146</td>
       <td> </td>
     </tr>
@@ -603,7 +613,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_3.3_logika.py.txt" target="_blank">PBO_18126/latihan_3.3_logika.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_3.3_logika.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_3.3_logika.py</a></td>
       <td>10/26/193</td>
       <td> </td>
     </tr>
@@ -611,7 +621,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>3</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_3.4_bitwise.py.txt" target="_blank">PBO_18126/latihan_3.4_bitwise.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_3.4_bitwise.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_3.4_bitwise.py</a></td>
       <td>19/70/478</td>
       <td> </td>
     </tr>
@@ -619,7 +629,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>4</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_3.5_tenary.py.txt" target="_blank">PBO_18126/latihan_3.5_tenary.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_3.5_tenary.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_3.5_tenary.py</a></td>
       <td>4/11/93</td>
       <td> </td>
     </tr>
@@ -627,7 +637,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>5</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_3.6_tenari2.py.txt" target="_blank">PBO_18126/latihan_3.6_tenari2.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_3.6_tenari2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_3.6_tenari2.py</a></td>
       <td>6/22/165</td>
       <td> </td>
     </tr>
@@ -635,7 +645,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>6</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_3.2_penugasan.py.txt" target="_blank">PBO_18142/latihan_3.2_penugasan.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_3.2_penugasan.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_3.2_penugasan.py</a></td>
       <td>18/28/129</td>
       <td> </td>
     </tr>
@@ -643,7 +653,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>7</td>
       <td>Error</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_3.3_logika.py.txt" target="_blank">PBO_18142/latihan_3.3_logika.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_3.3_logika.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_3.3_logika.py</a></td>
       <td>11/37/197</td>
       <td> </td>
     </tr>
@@ -651,7 +661,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>8</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_3.4_bitwise.py.txt" target="_blank">PBO_18142/latihan_3.4_bitwise.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_3.4_bitwise.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_3.4_bitwise.py</a></td>
       <td>20/66/356</td>
       <td> </td>
     </tr>
@@ -659,7 +669,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>9</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_3.5_tenary.py.txt" target="_blank">PBO_18142/latihan_3.5_tenary.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_3.5_tenary.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_3.5_tenary.py</a></td>
       <td>5/13/98</td>
       <td> </td>
     </tr>
@@ -667,7 +677,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>10</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_3.1.py.txt" target="_blank">PBO_18190/latihan_3.1.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_3.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_3.1.py</a></td>
       <td>18/45/199</td>
       <td> </td>
     </tr>
@@ -675,7 +685,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>11</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_3.2.py.txt" target="_blank">PBO_18190/latihan_3.2.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_3.2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_3.2.py</a></td>
       <td>18/21/147</td>
       <td> </td>
     </tr>
@@ -683,7 +693,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>12</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_3.3.py.txt" target="_blank">PBO_18190/latihan_3.3.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_3.3.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_3.3.py</a></td>
       <td>10/38/205</td>
       <td> </td>
     </tr>
@@ -691,7 +701,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>13</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_3.4.py.txt" target="_blank">PBO_18190/latihan_3.4.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_3.4.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_3.4.py</a></td>
       <td>21/76/476</td>
       <td> </td>
     </tr>
@@ -699,7 +709,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>14</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_3.5.py.txt" target="_blank">PBO_18190/latihan_3.5.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_3.5.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_3.5.py</a></td>
       <td>4/11/99</td>
       <td> </td>
     </tr>
@@ -707,7 +717,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>15</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_3.6.py.txt" target="_blank">PBO_18190/latihan_3.6.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_3.6.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_3.6.py</a></td>
       <td>6/23/177</td>
       <td> </td>
     </tr>
@@ -715,7 +725,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>16</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_3.1.py.txt" target="_blank">PBO_18191/latihan_3.1.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_3.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_3.1.py</a></td>
       <td>18/45/199</td>
       <td> </td>
     </tr>
@@ -723,7 +733,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>17</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_3.2.py.txt" target="_blank">PBO_18191/latihan_3.2.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_3.2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_3.2.py</a></td>
       <td>18/21/147</td>
       <td> </td>
     </tr>
@@ -731,7 +741,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>18</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_3.3.py.txt" target="_blank">PBO_18191/latihan_3.3.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_3.3.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_3.3.py</a></td>
       <td>10/38/198</td>
       <td> </td>
     </tr>
@@ -739,7 +749,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>19</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_3.4.py.txt" target="_blank">PBO_18191/latihan_3.4.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_3.4.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_3.4.py</a></td>
       <td>21/76/475</td>
       <td> </td>
     </tr>
@@ -747,7 +757,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>20</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_3.5.py.txt" target="_blank">PBO_18191/latihan_3.5.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_3.5.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_3.5.py</a></td>
       <td>4/11/99</td>
       <td> </td>
     </tr>
@@ -755,7 +765,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>21</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_3.6.py.txt" target="_blank">PBO_18191/latihan_3.6.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_3.6.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_3.6.py</a></td>
       <td>6/23/177</td>
       <td> </td>
     </tr>
@@ -763,7 +773,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>22</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_3.1_aritmatika.py.txt" target="_blank">PBO_19188/Latihan_3.1_aritmatika.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_3.1_aritmatika.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_3.1_aritmatika.py</a></td>
       <td>19/51/210</td>
       <td> </td>
     </tr>
@@ -771,7 +781,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>23</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_3.2_penugasan.py.txt" target="_blank">PBO_19188/Latihan_3.2_penugasan.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_3.2_penugasan.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_3.2_penugasan.py</a></td>
       <td>18/29/155</td>
       <td> </td>
     </tr>
@@ -779,7 +789,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>24</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_3.3_logika.py.txt" target="_blank">PBO_19188/Latihan_3.3_logika.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_3.3_logika.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_3.3_logika.py</a></td>
       <td>10/37/207</td>
       <td> </td>
     </tr>
@@ -787,7 +797,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>25</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_3.4_bitwise.py.txt" target="_blank">PBO_19188/Latihan_3.4_bitwise.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_3.4_bitwise.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_3.4_bitwise.py</a></td>
       <td>20/66/376</td>
       <td> </td>
     </tr>
@@ -795,7 +805,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>26</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_3.5_tenary.py.txt" target="_blank">PBO_19188/Latihan_3.5_tenary.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_3.5_tenary.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_3.5_tenary.py</a></td>
       <td>4/13/101</td>
       <td> </td>
     </tr>
@@ -803,7 +813,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>27</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_3.6_tenari2.py.txt" target="_blank">PBO_19188/Latihan_3.6_tenari2.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_3.6_tenari2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_3.6_tenari2.py</a></td>
       <td>6/25/180</td>
       <td> </td>
     </tr>
@@ -832,7 +842,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/tugas_4.2.py.txt" target="_blank">PBO_18117/tugas_4.2.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/tugas_4.2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/tugas_4.2.py</a></td>
       <td>17/15/197</td>
       <td> </td>
     </tr>
@@ -840,7 +850,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>Error</td>
       <td>VIRA JUNIAR DITTY (Info4)</td>
-      <td><a href="assets/pbo/PBO_ 18130/tugas_41.py.txt" target="_blank">PBO_ 18130/tugas_41.py</a></td>
+      <td><a href="assets/pbo/PBO_ 18130/tugas_41.py.txt" onclick="ShowContent('x')" target="tbox">PBO_ 18130/tugas_41.py</a></td>
       <td>21/48/440</td>
       <td> </td>
     </tr>
@@ -867,7 +877,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Tugas_4.2_DICTIONARY_18099.py.txt" target="_blank">PBO_18099/Tugas_4.2_DICTIONARY_18099.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Tugas_4.2_DICTIONARY_18099.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Tugas_4.2_DICTIONARY_18099.py</a></td>
       <td>158/437/3405</td>
       <td> </td>
     </tr>
@@ -875,7 +885,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/tugas_4.5_dictionary.py.txt" target="_blank">PBO_18126/tugas_4.5_dictionary.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/tugas_4.5_dictionary.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/tugas_4.5_dictionary.py</a></td>
       <td>158/437/3405</td>
       <td> </td>
     </tr>
@@ -883,7 +893,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>3</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan4.5.dictionary.py.txt" target="_blank">PBO_19188/Latihan4.5.dictionary.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan4.5.dictionary.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan4.5.dictionary.py</a></td>
       <td>86/349/2965</td>
       <td> </td>
     </tr>
@@ -913,7 +923,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_4.1.List1.py.txt" target="_blank">PBO_18099/Latihan_4.1.List1.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_4.1.List1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_4.1.List1.py</a></td>
       <td>2/15/119</td>
       <td> </td>
     </tr>
@@ -921,7 +931,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_4.2.List2.py.txt" target="_blank">PBO_18099/Latihan_4.2.List2.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_4.2.List2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_4.2.List2.py</a></td>
       <td>3/17/184</td>
       <td> </td>
     </tr>
@@ -929,7 +939,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>3</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_4.3.Tupe.py.txt" target="_blank">PBO_18099/Latihan_4.3.Tupe.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_4.3.Tupe.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_4.3.Tupe.py</a></td>
       <td>6/33/207</td>
       <td> </td>
     </tr>
@@ -937,7 +947,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>4</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_4.4.Set.py.txt" target="_blank">PBO_18099/Latihan_4.4.Set.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_4.4.Set.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_4.4.Set.py</a></td>
       <td>4/13/139</td>
       <td> </td>
     </tr>
@@ -945,7 +955,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>5</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_4.1.list1.py.txt" target="_blank">PBO_18117/latihan_4.1.list1.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_4.1.list1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_4.1.list1.py</a></td>
       <td>2/9/123</td>
       <td> </td>
     </tr>
@@ -953,7 +963,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>6</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_4.2.list2.py.txt" target="_blank">PBO_18117/latihan_4.2.list2.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_4.2.list2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_4.2.list2.py</a></td>
       <td>3/9/172</td>
       <td> </td>
     </tr>
@@ -961,7 +971,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>7</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_4.3.tuple.py.txt" target="_blank">PBO_18117/latihan_4.3.tuple.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_4.3.tuple.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_4.3.tuple.py</a></td>
       <td>6/16/190</td>
       <td> </td>
     </tr>
@@ -969,7 +979,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>8</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_4.4.set.py.txt" target="_blank">PBO_18117/latihan_4.4.set.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_4.4.set.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_4.4.set.py</a></td>
       <td>6/11/185</td>
       <td> </td>
     </tr>
@@ -977,7 +987,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>9</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_4.1_list.py.txt" target="_blank">PBO_18126/latihan_4.1_list.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_4.1_list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_4.1_list.py</a></td>
       <td>2/10/123</td>
       <td> </td>
     </tr>
@@ -985,7 +995,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>10</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_4.2_list.py.txt" target="_blank">PBO_18126/latihan_4.2_list.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_4.2_list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_4.2_list.py</a></td>
       <td>3/10/176</td>
       <td> </td>
     </tr>
@@ -993,7 +1003,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>11</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_4.3_tuple.py.txt" target="_blank">PBO_18126/latihan_4.3_tuple.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_4.3_tuple.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_4.3_tuple.py</a></td>
       <td>10/16/204</td>
       <td> </td>
     </tr>
@@ -1001,7 +1011,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>12</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_4.4_set.py.txt" target="_blank">PBO_18126/latihan_4.4_set.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_4.4_set.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_4.4_set.py</a></td>
       <td>6/11/183</td>
       <td> </td>
     </tr>
@@ -1009,7 +1019,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>13</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_4.1.list.py.txt" target="_blank">PBO_18142/latihan_4.1.list.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_4.1.list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_4.1.list.py</a></td>
       <td>3/12/126</td>
       <td> </td>
     </tr>
@@ -1017,7 +1027,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>14</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_4.2.list.py.txt" target="_blank">PBO_18142/latihan_4.2.list.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_4.2.list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_4.2.list.py</a></td>
       <td>4/17/181</td>
       <td> </td>
     </tr>
@@ -1025,7 +1035,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>15</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_4.3.tuple.py.txt" target="_blank">PBO_18142/latihan_4.3.tuple.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_4.3.tuple.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_4.3.tuple.py</a></td>
       <td>7/22/190</td>
       <td> </td>
     </tr>
@@ -1033,7 +1043,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>16</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_4.4.set.py.txt" target="_blank">PBO_18142/latihan_4.4.set.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_4.4.set.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_4.4.set.py</a></td>
       <td>5/11/134</td>
       <td> </td>
     </tr>
@@ -1041,7 +1051,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>17</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_4.1_PBO_18190.py.py.txt" target="_blank">PBO_18190/latihan_4.1_PBO_18190.py.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_4.1_PBO_18190.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_4.1_PBO_18190.py.py</a></td>
       <td>2/10/124</td>
       <td> </td>
     </tr>
@@ -1049,7 +1059,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>18</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td>[PBO_18190/latihan_4.1<em>.py.py](assets/pbo/PBO_18190/latihan_4.1</em>.py.py.txt){:target=’_blank’}</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_4.1.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_4.1.py.py</a></td>
       <td>2/10/124</td>
       <td> </td>
     </tr>
@@ -1057,7 +1067,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>19</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_4.2_PBO_18190.py.py.txt" target="_blank">PBO_18190/latihan_4.2_PBO_18190.py.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_4.2_PBO_18190.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_4.2_PBO_18190.py.py</a></td>
       <td>3/13/179</td>
       <td> </td>
     </tr>
@@ -1065,7 +1075,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>20</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td>[PBO_18190/latihan_4.2<em>.py.py](assets/pbo/PBO_18190/latihan_4.2</em>.py.py.txt){:target=’_blank’}</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_4.2.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_4.2.py.py</a></td>
       <td>3/13/179</td>
       <td> </td>
     </tr>
@@ -1073,7 +1083,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>21</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_4.3_PBO_18190.py.py.txt" target="_blank">PBO_18190/latihan_4.3_PBO_18190.py.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_4.3_PBO_18190.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_4.3_PBO_18190.py.py</a></td>
       <td>6/20/194</td>
       <td> </td>
     </tr>
@@ -1081,7 +1091,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>22</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td>[PBO_18190/latihan_4.3<em>.py.py](assets/pbo/PBO_18190/latihan_4.3</em>.py.py.txt){:target=’_blank’}</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_4.3.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_4.3.py.py</a></td>
       <td>6/20/194</td>
       <td> </td>
     </tr>
@@ -1089,7 +1099,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>23</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_4.4_PBO_18190.py.py.txt" target="_blank">PBO_18190/latihan_4.4_PBO_18190.py.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_4.4_PBO_18190.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_4.4_PBO_18190.py.py</a></td>
       <td>4/11/137</td>
       <td> </td>
     </tr>
@@ -1097,7 +1107,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>24</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td>[PBO_18190/latihan_4.4<em>.py.py](assets/pbo/PBO_18190/latihan_4.4</em>.py.py.txt){:target=’_blank’}</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_4.4.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_4.4.py.py</a></td>
       <td>4/11/137</td>
       <td> </td>
     </tr>
@@ -1105,7 +1115,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>25</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_4.1_PBO_18191.py.py.txt" target="_blank">PBO_18191/latihan_4.1_PBO_18191.py.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_4.1_PBO_18191.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_4.1_PBO_18191.py.py</a></td>
       <td>2/10/124</td>
       <td> </td>
     </tr>
@@ -1113,7 +1123,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>26</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td>[PBO_18191/latihan_4.1<em>.py.py](assets/pbo/PBO_18191/latihan_4.1</em>.py.py.txt){:target=’_blank’}</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_4.1.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_4.1.py.py</a></td>
       <td>2/10/124</td>
       <td> </td>
     </tr>
@@ -1121,7 +1131,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>27</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_4.2_PBO_18191.py.py.txt" target="_blank">PBO_18191/latihan_4.2_PBO_18191.py.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_4.2_PBO_18191.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_4.2_PBO_18191.py.py</a></td>
       <td>3/13/179</td>
       <td> </td>
     </tr>
@@ -1129,7 +1139,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>28</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td>[PBO_18191/latihan_4.2<em>.py.py](assets/pbo/PBO_18191/latihan_4.2</em>.py.py.txt){:target=’_blank’}</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_4.2.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_4.2.py.py</a></td>
       <td>3/13/179</td>
       <td> </td>
     </tr>
@@ -1137,7 +1147,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>29</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_4.3_PBO_18191.py.py.txt" target="_blank">PBO_18191/latihan_4.3_PBO_18191.py.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_4.3_PBO_18191.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_4.3_PBO_18191.py.py</a></td>
       <td>6/20/194</td>
       <td> </td>
     </tr>
@@ -1145,7 +1155,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>30</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td>[PBO_18191/latihan_4.3<em>.py.py](assets/pbo/PBO_18191/latihan_4.3</em>.py.py.txt){:target=’_blank’}</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_4.3.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_4.3.py.py</a></td>
       <td>6/20/194</td>
       <td> </td>
     </tr>
@@ -1153,7 +1163,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>31</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_4.4_PBO_18191.py.py.txt" target="_blank">PBO_18191/latihan_4.4_PBO_18191.py.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_4.4_PBO_18191.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_4.4_PBO_18191.py.py</a></td>
       <td>4/11/137</td>
       <td> </td>
     </tr>
@@ -1161,7 +1171,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>32</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td>[PBO_18191/latihan_4.4<em>.py.py](assets/pbo/PBO_18191/latihan_4.4</em>.py.py.txt){:target=’_blank’}</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_4.4.py.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_4.4.py.py</a></td>
       <td>4/11/137</td>
       <td> </td>
     </tr>
@@ -1169,7 +1179,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>33</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan4.1.list1.py.txt" target="_blank">PBO_19188/Latihan4.1.list1.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan4.1.list1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan4.1.list1.py</a></td>
       <td>2/12/127</td>
       <td> </td>
     </tr>
@@ -1177,7 +1187,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>34</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan4.2.list2.py.txt" target="_blank">PBO_19188/Latihan4.2.list2.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan4.2.list2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan4.2.list2.py</a></td>
       <td>3/17/183</td>
       <td> </td>
     </tr>
@@ -1185,7 +1195,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>35</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan4.3.tuple.py.txt" target="_blank">PBO_19188/Latihan4.3.tuple.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan4.3.tuple.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan4.3.tuple.py</a></td>
       <td>6/22/195</td>
       <td> </td>
     </tr>
@@ -1193,7 +1203,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>36</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan4.4.set.py.txt" target="_blank">PBO_19188/Latihan4.4.set.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan4.4.set.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan4.4.set.py</a></td>
       <td>4/11/137</td>
       <td> </td>
     </tr>
@@ -1201,7 +1211,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>37</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan4.5.dictionary.py.txt" target="_blank">PBO_19188/Latihan4.5.dictionary.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan4.5.dictionary.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan4.5.dictionary.py</a></td>
       <td>86/349/2965</td>
       <td> </td>
     </tr>
@@ -1230,7 +1240,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18091/tugas_5.1.py.txt" target="_blank">PBO_18091/tugas_5.1.py</a></td>
+      <td><a href="assets/pbo/PBO_18091/tugas_5.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18091/tugas_5.1.py</a></td>
       <td>13/34/332</td>
       <td> </td>
     </tr>
@@ -1238,7 +1248,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Tugas_5.1.py.txt" target="_blank">PBO_18099/Tugas_5.1.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Tugas_5.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Tugas_5.1.py</a></td>
       <td>34/90/694</td>
       <td> </td>
     </tr>
@@ -1246,7 +1256,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>3</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/tugas_5.1_18102.py.txt" target="_blank">PBO_18102/tugas_5.1_18102.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/tugas_5.1_18102.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/tugas_5.1_18102.py</a></td>
       <td>13/34/332</td>
       <td> </td>
     </tr>
@@ -1254,7 +1264,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>4</td>
       <td>Error</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/tugas_5.1.for-while.py.txt" target="_blank">PBO_18117/tugas_5.1.for-while.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/tugas_5.1.for-while.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/tugas_5.1.for-while.py</a></td>
       <td>14/64/350</td>
       <td> </td>
     </tr>
@@ -1262,7 +1272,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>5</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/Tugas_5.1.py.txt" target="_blank">PBO_18126/Tugas_5.1.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/Tugas_5.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/Tugas_5.1.py</a></td>
       <td>21/34/277</td>
       <td> </td>
     </tr>
@@ -1270,7 +1280,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>6</td>
       <td>OK</td>
       <td>VIRA JUNIAR DITTY (Info4)</td>
-      <td><a href="assets/pbo/PBO_18130/tugas_51.py.txt" target="_blank">PBO_18130/tugas_51.py</a></td>
+      <td><a href="assets/pbo/PBO_18130/tugas_51.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18130/tugas_51.py</a></td>
       <td>14/31/242</td>
       <td> </td>
     </tr>
@@ -1278,7 +1288,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>7</td>
       <td>OK</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/Tugas_5.1.py.txt" target="_blank">PBO_18136/Tugas_5.1.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/Tugas_5.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/Tugas_5.1.py</a></td>
       <td>19/64/552</td>
       <td> </td>
     </tr>
@@ -1286,7 +1296,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>8</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/tugas_5.1.py.txt" target="_blank">PBO_18142/tugas_5.1.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/tugas_5.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/tugas_5.1.py</a></td>
       <td>19/66/553</td>
       <td> </td>
     </tr>
@@ -1294,16 +1304,8 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>9</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Tugas_5.1.py.txt" target="_blank">PBO_19188/Tugas_5.1.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Tugas_5.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Tugas_5.1.py</a></td>
       <td>35/135/1136</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td> </td>
       <td> </td>
     </tr>
   </tbody>
@@ -1327,7 +1329,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>1</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_5.1.For-List.py.txt" target="_blank">PBO_18099/Latihan_5.1.For-List.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_5.1.For-List.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_5.1.For-List.py</a></td>
       <td>8/33/248</td>
       <td> </td>
     </tr>
@@ -1335,7 +1337,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>2</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_5.2.For2.py.txt" target="_blank">PBO_18099/Latihan_5.2.For2.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_5.2.For2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_5.2.For2.py</a></td>
       <td>6/24/191</td>
       <td> </td>
     </tr>
@@ -1343,7 +1345,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>3</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_5.3.For-Range.py.txt" target="_blank">PBO_18099/Latihan_5.3.For-Range.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_5.3.For-Range.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_5.3.For-Range.py</a></td>
       <td>5/16/162</td>
       <td> </td>
     </tr>
@@ -1351,7 +1353,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>4</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_5.4.For-Break.py.txt" target="_blank">PBO_18099/Latihan_5.4.For-Break.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_5.4.For-Break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_5.4.For-Break.py</a></td>
       <td>10/34/353</td>
       <td> </td>
     </tr>
@@ -1359,7 +1361,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>5</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_5.5.Continue.py.txt" target="_blank">PBO_18099/Latihan_5.5.Continue.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_5.5.Continue.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_5.5.Continue.py</a></td>
       <td>11/37/369</td>
       <td> </td>
     </tr>
@@ -1367,7 +1369,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>6</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_5.6.While-Break.py.txt" target="_blank">PBO_18099/Latihan_5.6.While-Break.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_5.6.While-Break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_5.6.While-Break.py</a></td>
       <td>9/41/332</td>
       <td> </td>
     </tr>
@@ -1375,7 +1377,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>7</td>
       <td>OK</td>
       <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
-      <td><a href="assets/pbo/PBO_18099/Latihan_5.7.While-Continue-Break.py.txt" target="_blank">PBO_18099/Latihan_5.7.While-Continue-Break.py</a></td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_5.7.While-Continue-Break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_5.7.While-Continue-Break.py</a></td>
       <td>19/83/714</td>
       <td> </td>
     </tr>
@@ -1383,7 +1385,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>8</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/Latihan5.1.for-list.py.txt" target="_blank">PBO_18102/Latihan5.1.for-list.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/Latihan5.1.for-list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan5.1.for-list.py</a></td>
       <td>7/22/236</td>
       <td> </td>
     </tr>
@@ -1391,7 +1393,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>9</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/Latihan5.2.for2.py.txt" target="_blank">PBO_18102/Latihan5.2.for2.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/Latihan5.2.for2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan5.2.for2.py</a></td>
       <td>6/15/182</td>
       <td> </td>
     </tr>
@@ -1399,7 +1401,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>10</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/Latihan5.3.for-range.py.txt" target="_blank">PBO_18102/Latihan5.3.for-range.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/Latihan5.3.for-range.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan5.3.for-range.py</a></td>
       <td>5/15/175</td>
       <td> </td>
     </tr>
@@ -1407,7 +1409,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>11</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/Latihan5.4.for-break.py.txt" target="_blank">PBO_18102/Latihan5.4.for-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/Latihan5.4.for-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan5.4.for-break.py</a></td>
       <td>9/26/317</td>
       <td> </td>
     </tr>
@@ -1415,7 +1417,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>12</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/Latihan5.5.continu.py.txt" target="_blank">PBO_18102/Latihan5.5.continu.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/Latihan5.5.continu.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan5.5.continu.py</a></td>
       <td>9/25/319</td>
       <td> </td>
     </tr>
@@ -1423,7 +1425,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>13</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/Latihan5.6.while-break.py.txt" target="_blank">PBO_18102/Latihan5.6.while-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/Latihan5.6.while-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan5.6.while-break.py</a></td>
       <td>8/25/300</td>
       <td> </td>
     </tr>
@@ -1431,7 +1433,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>14</td>
       <td>OK</td>
       <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
-      <td><a href="assets/pbo/PBO_18102/Latihan5.7.while-continue-break.py.txt" target="_blank">PBO_18102/Latihan5.7.while-continue-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18102/Latihan5.7.while-continue-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan5.7.while-continue-break.py</a></td>
       <td>18/73/699</td>
       <td> </td>
     </tr>
@@ -1439,7 +1441,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>15</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_5.1.for-list.py.txt" target="_blank">PBO_18117/latihan_5.1.for-list.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_5.1.for-list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_5.1.for-list.py</a></td>
       <td>9/29/263</td>
       <td> </td>
     </tr>
@@ -1447,7 +1449,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>16</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_5.2.for2.py.txt" target="_blank">PBO_18117/latihan_5.2.for2.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_5.2.for2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_5.2.for2.py</a></td>
       <td>7/24/206</td>
       <td> </td>
     </tr>
@@ -1455,7 +1457,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>17</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_5.3.for-range.py.txt" target="_blank">PBO_18117/latihan_5.3.for-range.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_5.3.for-range.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_5.3.for-range.py</a></td>
       <td>6/16/185</td>
       <td> </td>
     </tr>
@@ -1463,7 +1465,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>18</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_5.4.for-break.py.txt" target="_blank">PBO_18117/latihan_5.4.for-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_5.4.for-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_5.4.for-break.py</a></td>
       <td>10/27/339</td>
       <td> </td>
     </tr>
@@ -1471,7 +1473,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>19</td>
       <td>OK</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_5.5.continu.py.txt" target="_blank">PBO_18117/latihan_5.5.continu.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_5.5.continu.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_5.5.continu.py</a></td>
       <td>13/32/368</td>
       <td> </td>
     </tr>
@@ -1479,7 +1481,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>20</td>
       <td>Error</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_5.6.while-break.py.txt" target="_blank">PBO_18117/latihan_5.6.while-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_5.6.while-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_5.6.while-break.py</a></td>
       <td>11/29/325</td>
       <td> </td>
     </tr>
@@ -1487,7 +1489,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>21</td>
       <td>Error</td>
       <td>DANIEL SILOAM BUNGA (Info3)</td>
-      <td><a href="assets/pbo/PBO_18117/latihan_5.7.while-continue-break.py.txt" target="_blank">PBO_18117/latihan_5.7.while-continue-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18117/latihan_5.7.while-continue-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_5.7.while-continue-break.py</a></td>
       <td>20/70/732</td>
       <td> </td>
     </tr>
@@ -1495,7 +1497,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>22</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_5.1.for-list.py.txt" target="_blank">PBO_18126/latihan_5.1.for-list.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_5.1.for-list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_5.1.for-list.py</a></td>
       <td>8/27/249</td>
       <td> </td>
     </tr>
@@ -1503,7 +1505,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>23</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_5.2.for2.py.txt" target="_blank">PBO_18126/latihan_5.2.for2.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_5.2.for2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_5.2.for2.py</a></td>
       <td>7/17/174</td>
       <td> </td>
     </tr>
@@ -1511,7 +1513,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>24</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_5.3.for-range.py.txt" target="_blank">PBO_18126/latihan_5.3.for-range.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_5.3.for-range.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_5.3.for-range.py</a></td>
       <td>6/16/164</td>
       <td> </td>
     </tr>
@@ -1519,7 +1521,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>25</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_5.4.for-break.py.txt" target="_blank">PBO_18126/latihan_5.4.for-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_5.4.for-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_5.4.for-break.py</a></td>
       <td>11/34/355</td>
       <td> </td>
     </tr>
@@ -1527,7 +1529,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>26</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_5.5.continue.py.txt" target="_blank">PBO_18126/latihan_5.5.continue.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_5.5.continue.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_5.5.continue.py</a></td>
       <td>12/37/371</td>
       <td> </td>
     </tr>
@@ -1535,7 +1537,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>27</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_5.6.while-break.py.txt" target="_blank">PBO_18126/latihan_5.6.while-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_5.6.while-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_5.6.while-break.py</a></td>
       <td>9/28/291</td>
       <td> </td>
     </tr>
@@ -1543,7 +1545,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>28</td>
       <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_5.7.while-continue-break.py.txt" target="_blank">PBO_18126/latihan_5.7.while-continue-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_5.7.while-continue-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_5.7.while-continue-break.py</a></td>
       <td>19/74/638</td>
       <td> </td>
     </tr>
@@ -1551,7 +1553,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>29</td>
       <td>OK</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/latihan_5.1.for-list.py.txt" target="_blank">PBO_18136/latihan_5.1.for-list.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/latihan_5.1.for-list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_5.1.for-list.py</a></td>
       <td>8/25/238</td>
       <td> </td>
     </tr>
@@ -1559,7 +1561,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>30</td>
       <td>OK</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/latihan_5.2.for2.py.txt" target="_blank">PBO_18136/latihan_5.2.for2.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/latihan_5.2.for2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_5.2.for2.py</a></td>
       <td>7/17/171</td>
       <td> </td>
     </tr>
@@ -1567,7 +1569,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>31</td>
       <td>OK</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/latihan_5.3.for-range.py.txt" target="_blank">PBO_18136/latihan_5.3.for-range.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/latihan_5.3.for-range.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_5.3.for-range.py</a></td>
       <td>5/14/155</td>
       <td> </td>
     </tr>
@@ -1575,7 +1577,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>32</td>
       <td>OK</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/latihan_5.4.for-break.py.txt" target="_blank">PBO_18136/latihan_5.4.for-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/latihan_5.4.for-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_5.4.for-break.py</a></td>
       <td>9/25/279</td>
       <td> </td>
     </tr>
@@ -1583,7 +1585,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>33</td>
       <td>OK</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/latihan_5.5.continu.py.txt" target="_blank">PBO_18136/latihan_5.5.continu.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/latihan_5.5.continu.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_5.5.continu.py</a></td>
       <td>9/25/277</td>
       <td> </td>
     </tr>
@@ -1591,7 +1593,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>34</td>
       <td>Error</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/latihan_5.6.while-break.py.txt" target="_blank">PBO_18136/latihan_5.6.while-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/latihan_5.6.while-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_5.6.while-break.py</a></td>
       <td>9/26/258</td>
       <td> </td>
     </tr>
@@ -1599,7 +1601,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>35</td>
       <td>OK</td>
       <td>DARMAWAN SALIM (Info4)</td>
-      <td><a href="assets/pbo/PBO_18136/latihan_5.7.while-continue.py.txt" target="_blank">PBO_18136/latihan_5.7.while-continue.py</a></td>
+      <td><a href="assets/pbo/PBO_18136/latihan_5.7.while-continue.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_5.7.while-continue.py</a></td>
       <td>19/58/612</td>
       <td> </td>
     </tr>
@@ -1607,7 +1609,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>36</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_5.1.for-list.py.txt" target="_blank">PBO_18142/latihan_5.1.for-list.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_5.1.for-list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_5.1.for-list.py</a></td>
       <td>10/28/246</td>
       <td> </td>
     </tr>
@@ -1615,7 +1617,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>37</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_5.2.for2.py.txt" target="_blank">PBO_18142/latihan_5.2.for2.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_5.2.for2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_5.2.for2.py</a></td>
       <td>7/17/181</td>
       <td> </td>
     </tr>
@@ -1623,7 +1625,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>38</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_5.3.for-range.py.txt" target="_blank">PBO_18142/latihan_5.3.for-range.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_5.3.for-range.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_5.3.for-range.py</a></td>
       <td>5/14/158</td>
       <td> </td>
     </tr>
@@ -1631,7 +1633,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>39</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_5.4.for-break.py.txt" target="_blank">PBO_18142/latihan_5.4.for-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_5.4.for-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_5.4.for-break.py</a></td>
       <td>12/28/318</td>
       <td> </td>
     </tr>
@@ -1639,7 +1641,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>40</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_5.5.continu.py.txt" target="_blank">PBO_18142/latihan_5.5.continu.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_5.5.continu.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_5.5.continu.py</a></td>
       <td>10/28/315</td>
       <td> </td>
     </tr>
@@ -1647,7 +1649,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>41</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_5.6.while-break.py.txt" target="_blank">PBO_18142/latihan_5.6.while-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_5.6.while-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_5.6.while-break.py</a></td>
       <td>9/29/305</td>
       <td> </td>
     </tr>
@@ -1655,7 +1657,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>42</td>
       <td>OK</td>
       <td>ROSNIA LA BANIA (Info4)</td>
-      <td><a href="assets/pbo/PBO_18142/latihan_5.7.while-continue-break.py.txt" target="_blank">PBO_18142/latihan_5.7.while-continue-break.py</a></td>
+      <td><a href="assets/pbo/PBO_18142/latihan_5.7.while-continue-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/latihan_5.7.while-continue-break.py</a></td>
       <td>19/77/686</td>
       <td> </td>
     </tr>
@@ -1663,7 +1665,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>43</td>
       <td>OK</td>
       <td>DIANA SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18190/latihan_5..7.py.txt" target="_blank">PBO_18190/latihan_5..7.py</a></td>
+      <td><a href="assets/pbo/PBO_18190/latihan_5..7.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_5..7.py</a></td>
       <td>21/78/724</td>
       <td> </td>
     </tr>
@@ -1671,7 +1673,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>44</td>
       <td>OK</td>
       <td>HARIS SENEN (Info5)</td>
-      <td><a href="assets/pbo/PBO_18191/latihan_5..7.py.txt" target="_blank">PBO_18191/latihan_5..7.py</a></td>
+      <td><a href="assets/pbo/PBO_18191/latihan_5..7.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_5..7.py</a></td>
       <td>21/78/724</td>
       <td> </td>
     </tr>
@@ -1679,7 +1681,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>45</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_5.1.for-list.py.txt" target="_blank">PBO_19188/Latihan_5.1.for-list.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_5.1.for-list.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_5.1.for-list.py</a></td>
       <td>7/28/246</td>
       <td> </td>
     </tr>
@@ -1687,7 +1689,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>46</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_5.2.for2.py.txt" target="_blank">PBO_19188/Latihan_5.2.for2.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_5.2.for2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_5.2.for2.py</a></td>
       <td>6/17/186</td>
       <td> </td>
     </tr>
@@ -1695,7 +1697,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>47</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_5.3.for-range.py.txt" target="_blank">PBO_19188/Latihan_5.3.for-range.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_5.3.for-range.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_5.3.for-range.py</a></td>
       <td>5/14/163</td>
       <td> </td>
     </tr>
@@ -1703,7 +1705,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>48</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_5.4.for-break.py.txt" target="_blank">PBO_19188/Latihan_5.4.for-break.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_5.4.for-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_5.4.for-break.py</a></td>
       <td>9/28/320</td>
       <td> </td>
     </tr>
@@ -1711,7 +1713,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>49</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_5.5.continue.py.txt" target="_blank">PBO_19188/Latihan_5.5.continue.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_5.5.continue.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_5.5.continue.py</a></td>
       <td>10/31/354</td>
       <td> </td>
     </tr>
@@ -1719,7 +1721,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>50</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_5.6.while-break.py.txt" target="_blank">PBO_19188/Latihan_5.6.while-break.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_5.6.while-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_5.6.while-break.py</a></td>
       <td>8/29/312</td>
       <td> </td>
     </tr>
@@ -1727,7 +1729,7 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
       <td>51</td>
       <td>OK</td>
       <td>FAZLUR MARIF MUHAMMAD (Info5)</td>
-      <td><a href="assets/pbo/PBO_19188/Latihan_5.7.while-continue-break.py.txt" target="_blank">PBO_19188/Latihan_5.7.while-continue-break.py</a></td>
+      <td><a href="assets/pbo/PBO_19188/Latihan_5.7.while-continue-break.py.txt" onclick="ShowContent('x')" target="tbox">PBO_19188/Latihan_5.7.while-continue-break.py</a></td>
       <td>18/77/703</td>
       <td> </td>
     </tr>
@@ -1751,49 +1753,489 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
     <tr>
       <td>1</td>
       <td>OK</td>
-      <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_6.1.helloword.py.txt" target="_blank">PBO_18126/latihan_6.1.helloword.py</a></td>
-      <td>3/10/92</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/latihan_6.1_helloword.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18091/latihan_6.1_helloword.py</a></td>
+      <td>3/8/89</td>
       <td> </td>
     </tr>
     <tr>
       <td>2</td>
       <td>OK</td>
-      <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_6.2.parameter1.py.txt" target="_blank">PBO_18126/latihan_6.2.parameter1.py</a></td>
-      <td>5/9/89</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/latihan_6.2_parameter1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18091/latihan_6.2_parameter1.py</a></td>
+      <td>6/6/76</td>
       <td> </td>
     </tr>
     <tr>
       <td>3</td>
       <td>OK</td>
-      <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_6.3.parameter2.py.txt" target="_blank">PBO_18126/latihan_6.3.parameter2.py</a></td>
-      <td>4/9/99</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/latihan_6.3_parameter2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18091/latihan_6.3_parameter2.py</a></td>
+      <td>4/6/69</td>
       <td> </td>
     </tr>
     <tr>
       <td>4</td>
       <td>OK</td>
-      <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_6.4.barang.py.txt" target="_blank">PBO_18126/latihan_6.4.barang.py</a></td>
-      <td>6/21/230</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/latihan_6.4_barang.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18091/latihan_6.4_barang.py</a></td>
+      <td>7/13/185</td>
       <td> </td>
     </tr>
     <tr>
       <td>5</td>
       <td>OK</td>
-      <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_6.5.hitung.py.txt" target="_blank">PBO_18126/latihan_6.5.hitung.py</a></td>
-      <td>6/27/197</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/latihan_6.5_hitung.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18091/latihan_6.5_hitung.py</a></td>
+      <td>7/18/198</td>
       <td> </td>
     </tr>
     <tr>
       <td>6</td>
       <td>OK</td>
+      <td>CLAUDIO SEPTIAN POETRA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18091/latihan_6.6_gaji.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18091/latihan_6.6_gaji.py</a></td>
+      <td>35/71/1009</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>OK</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_6.1.Helloword.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_6.1.Helloword.py</a></td>
+      <td>2/8/83</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>OK</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_6.2.Parameter1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_6.2.Parameter1.py</a></td>
+      <td>5/12/99</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>OK</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_6.3.Parameter2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_6.3.Parameter2.py</a></td>
+      <td>4/9/106</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>OK</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_6.4.Barang.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_6.4.Barang.py</a></td>
+      <td>5/28/196</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>OK</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_6.5.Hitung.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_6.5.Hitung.py</a></td>
+      <td>6/33/212</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>OK</td>
+      <td>VIVIYANTI IKSAN SANGADJI (Info3)</td>
+      <td><a href="assets/pbo/PBO_18099/Latihan_6.6.Gaji.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18099/Latihan_6.6.Gaji.py</a></td>
+      <td>32/118/1037</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>OK</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td><a href="assets/pbo/PBO_18102/Latihan6.1.helloword.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan6.1.helloword.py</a></td>
+      <td>3/9/94</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>OK</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td><a href="assets/pbo/PBO_18102/Latihan6.2.parameter1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan6.2.parameter1.py</a></td>
+      <td>5/9/97</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>OK</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td><a href="assets/pbo/PBO_18102/Latihan6.3.parameter2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan6.3.parameter2.py</a></td>
+      <td>4/8/101</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>OK</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td><a href="assets/pbo/PBO_18102/Latihan6.4.barang.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan6.4.barang.py</a></td>
+      <td>6/20/235</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>OK</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td><a href="assets/pbo/PBO_18102/Latihan6.5.hitung.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan6.5.hitung.py</a></td>
+      <td>6/30/210</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>OK</td>
+      <td>MUHAMAD JEINER SUMAMPOUW (Info3)</td>
+      <td><a href="assets/pbo/PBO_18102/Latihan6.6.gaji.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18102/Latihan6.6.gaji.py</a></td>
+      <td>32/76/1037</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>OK</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/latihan_6.1.helloword.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_6.1.helloword.py</a></td>
+      <td>4/9/96</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>OK</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/latihan_6.2.paramenter1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_6.2.paramenter1.py</a></td>
+      <td>5/9/95</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>OK</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/latihan_6.3.paramenter2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_6.3.paramenter2.py</a></td>
+      <td>4/9/102</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>OK</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/latihan_6.4.barang.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_6.4.barang.py</a></td>
+      <td>7/21/238</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>OK</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/latihan_6.5.hitung.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_6.5.hitung.py</a></td>
+      <td>7/28/204</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>OK</td>
+      <td>DANIEL SILOAM BUNGA (Info3)</td>
+      <td><a href="assets/pbo/PBO_18117/latihan_6.6.gaji.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18117/latihan_6.6.gaji.py</a></td>
+      <td>32/96/1024</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>OK</td>
       <td>NUR HUMAIRA ABRI (Info4)</td>
-      <td><a href="assets/pbo/PBO_18126/latihan_6.6.gaji.py.txt" target="_blank">PBO_18126/latihan_6.6.gaji.py</a></td>
+      <td><a href="assets/pbo/PBO_18126/latihan_6.1.helloword.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_6.1.helloword.py</a></td>
+      <td>3/10/92</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>OK</td>
+      <td>NUR HUMAIRA ABRI (Info4)</td>
+      <td><a href="assets/pbo/PBO_18126/latihan_6.2.parameter1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_6.2.parameter1.py</a></td>
+      <td>5/9/89</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>OK</td>
+      <td>NUR HUMAIRA ABRI (Info4)</td>
+      <td><a href="assets/pbo/PBO_18126/latihan_6.3.parameter2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_6.3.parameter2.py</a></td>
+      <td>4/9/99</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>OK</td>
+      <td>NUR HUMAIRA ABRI (Info4)</td>
+      <td><a href="assets/pbo/PBO_18126/latihan_6.4.barang.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_6.4.barang.py</a></td>
+      <td>6/21/230</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>OK</td>
+      <td>NUR HUMAIRA ABRI (Info4)</td>
+      <td><a href="assets/pbo/PBO_18126/latihan_6.5.hitung.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_6.5.hitung.py</a></td>
+      <td>6/27/197</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>OK</td>
+      <td>NUR HUMAIRA ABRI (Info4)</td>
+      <td><a href="assets/pbo/PBO_18126/latihan_6.6.gaji.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18126/latihan_6.6.gaji.py</a></td>
       <td>33/90/934</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_6.1.helloword.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18130/latihan_6.1.helloword.py</a></td>
+      <td>3/8/79</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_6.2.parameter1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18130/latihan_6.2.parameter1.py</a></td>
+      <td>6/9/85</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_6.3.parameter2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18130/latihan_6.3.parameter2.py</a></td>
+      <td>5/8/92</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_6.4.barang.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18130/latihan_6.4.barang.py</a></td>
+      <td>7/21/223</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_6.5.hitung.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18130/latihan_6.5.hitung.py</a></td>
+      <td>8/26/192</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>OK</td>
+      <td>VIRA JUNIAR DITTY (Info4)</td>
+      <td><a href="assets/pbo/PBO_18130/latihan_6.6.gaji.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18130/latihan_6.6.gaji.py</a></td>
+      <td>34/72/845</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>Error</td>
+      <td>DARMAWAN SALIM (Info4)</td>
+      <td><a href="assets/pbo/PBO_18136/latihan_6.1.helloword.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_6.1.helloword.py</a></td>
+      <td>4/9/96</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Error</td>
+      <td>DARMAWAN SALIM (Info4)</td>
+      <td><a href="assets/pbo/PBO_18136/latihan_6.2.parameter1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_6.2.parameter1.py</a></td>
+      <td>6/9/84</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>Error</td>
+      <td>DARMAWAN SALIM (Info4)</td>
+      <td><a href="assets/pbo/PBO_18136/latihan_6.3.parameter.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_6.3.parameter.py</a></td>
+      <td>5/9/110</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>OK</td>
+      <td>DARMAWAN SALIM (Info4)</td>
+      <td><a href="assets/pbo/PBO_18136/latihan_6.4.barang.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_6.4.barang.py</a></td>
+      <td>8/21/233</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>Error</td>
+      <td>DARMAWAN SALIM (Info4)</td>
+      <td><a href="assets/pbo/PBO_18136/latihan_6.5.hitung.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_6.5.hitung.py</a></td>
+      <td>7/26/196</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>Error</td>
+      <td>DARMAWAN SALIM (Info4)</td>
+      <td><a href="assets/pbo/PBO_18136/latihan_6.6.gaji.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18136/latihan_6.6.gaji.py</a></td>
+      <td>35/80/1098</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>Error</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18142/Latihan_6.2.parameter1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/Latihan_6.2.parameter1.py</a></td>
+      <td>3/3/31</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>Error</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18142/Latihan_6.3parameter2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/Latihan_6.3parameter2.py</a></td>
+      <td>3/4/60</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>Error</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18142/Latihan_6.4.barang.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/Latihan_6.4.barang.py</a></td>
+      <td>9/7/148</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>Error</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18142/Latihan_6.5.hitung.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/Latihan_6.5.hitung.py</a></td>
+      <td>13/22/204</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>Error</td>
+      <td>ROSNIA LA BANIA (Info4)</td>
+      <td><a href="assets/pbo/PBO_18142/Latihan_6.6.gaji.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18142/Latihan_6.6.gaji.py</a></td>
+      <td>38/59/868</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>OK</td>
+      <td>DIANA SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_6.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_6.1.py</a></td>
+      <td>2/7/76</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>OK</td>
+      <td>DIANA SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_6.2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_6.2.py</a></td>
+      <td>7/9/100</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>OK</td>
+      <td>DIANA SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_6.3.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_6.3.py</a></td>
+      <td>4/9/101</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>OK</td>
+      <td>DIANA SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_6.4.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_6.4.py</a></td>
+      <td>5/15/182</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>OK</td>
+      <td>DIANA SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_6.5.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_6.5.py</a></td>
+      <td>7/29/210</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>OK</td>
+      <td>DIANA SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_6.6.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_6.6.py</a></td>
+      <td>21/59/691</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>OK</td>
+      <td>DIANA SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18190/latihan_6.7.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18190/latihan_6.7.py</a></td>
+      <td>11/32/367</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>OK</td>
+      <td>HARIS SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_6.1.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_6.1.py</a></td>
+      <td>2/7/76</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>OK</td>
+      <td>HARIS SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_6.2.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_6.2.py</a></td>
+      <td>7/9/100</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>OK</td>
+      <td>HARIS SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_6.3.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_6.3.py</a></td>
+      <td>4/9/101</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>OK</td>
+      <td>HARIS SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_6.4.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_6.4.py</a></td>
+      <td>5/15/182</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>OK</td>
+      <td>HARIS SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_6.5.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_6.5.py</a></td>
+      <td>7/29/210</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>OK</td>
+      <td>HARIS SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_6.6.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_6.6.py</a></td>
+      <td>21/59/691</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>OK</td>
+      <td>HARIS SENEN (Info5)</td>
+      <td><a href="assets/pbo/PBO_18191/latihan_6.7.py.txt" onclick="ShowContent('x')" target="tbox">PBO_18191/latihan_6.7.py</a></td>
+      <td>11/32/367</td>
       <td> </td>
     </tr>
   </tbody>
@@ -1801,7 +2243,8 @@ agar tidak terjadi perulangan dalam laporan yang dicetak/dibuat disini </b></p>
 
 <ul>
   <li>BAGI YANG TELAH MENGERJAKAN PRAKTIKUM DAN TUGAS, DAN NAMANYA TIDAK ADA DI DAFTAR SEGERA LIHAT KEMBALI <code class="highlighter-rouge">KETENTUAN</code> YANG BERLAKU UNTUK SETIAP TUGAS DAN PRAKTIKUM !</li>
-  <li><b class="rd">PERINGATAN KERAS UNTUK YANG TUGASNYA SAMA (COPAS punyan Orang Lain) !!, Harap Kerjakan Tugas secara Mandiri !!!</b></li>
+  <li><b class="rd">PERINGATAN KERAS UNTUK YANG TUGASNYA SAMA (COPAS punyan Orang Lain) !!, SEGERA HAPUS dan GANTI dengan Punya ANDA SENDIRI !,
+dan Harap Kerjakan Tugas secara Mandiri !!!</b></li>
 </ul>
 
 

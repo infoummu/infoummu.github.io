@@ -1,0 +1,3 @@
+defhelloword () :
+  print (" iniadlahfungsimenampilkanhelloword")
+helloword ()
