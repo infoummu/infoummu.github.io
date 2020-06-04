@@ -353,6 +353,54 @@ Berikut Daftar Mahasiswa (`Info3`, `Info4`, `Info5`) yang membuat file `profile_
 |   61 |      OK | HARIS SENEN (Info5)              | [PBO_18191/latihan_6.7.py](assets/pbo/PBO_18191/latihan_6.7.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}                         | 11/32/367   |    |
 
 
+## Daftar yang kerjakan Praktikum 7 :
+
+|   No |   Hasil | Nama Mahasiswa                   | File                                                                                                                           | Size      |    |
+|------|---------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------|----|
+|    1 |      OK | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/latihan_7.1_class1.py](assets/pbo/PBO_18091/latihan_7.1_class1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 10/18/312 |    |
+|    2 |      OK | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/latihan_7.2_class2.py](assets/pbo/PBO_18091/latihan_7.2_class2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 14/23/344 |    |
+|    3 |      OK | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/latihan_7.3_str.py](assets/pbo/PBO_18091/latihan_7.3_str.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}       | 11/14/223 |    |
+|    4 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Latihan_7.1.Class1.py](assets/pbo/PBO_18099/Latihan_7.1.Class1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 12/33/327 |    |
+|    5 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Latihan_7.2.Class2.py](assets/pbo/PBO_18099/Latihan_7.2.Class2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 12/35/358 |    |
+|    6 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Latihan_7.3.Str.py](assets/pbo/PBO_18099/Latihan_7.3.Str.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}       | 9/24/238  |    |
+|    7 |      OK | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/latihan_7.1.class1.py](assets/pbo/PBO_18117/latihan_7.1.class1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 9/19/308  |    |
+|    8 |      OK | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/latihan_7.2.class2.py](assets/pbo/PBO_18117/latihan_7.2.class2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 9/19/329  |    |
+|    9 |      OK | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/latihan_7.3.strr.py](assets/pbo/PBO_18117/latihan_7.3.strr.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}     | 10/19/303 |    |
+|   10 |      OK | NUR HUMAIRA ABRI (Info4)         | [PBO_18126/latihan_7.1.class1.py](assets/pbo/PBO_18126/latihan_7.1.class1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 11/22/296 |    |
+|   11 |      OK | NUR HUMAIRA ABRI (Info4)         | [PBO_18126/latihan_7.2.class2.py](assets/pbo/PBO_18126/latihan_7.2.class2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 15/25/332 |    |
+|   12 |      OK | NUR HUMAIRA ABRI (Info4)         | [PBO_18126/latihan_7.3.str.py](assets/pbo/PBO_18126/latihan_7.3.str.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}       | 10/27/285 |    |
+|   13 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_7.1.class1.py](assets/pbo/PBO_18130/latihan_7.1.class1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 10/17/271 |    |
+|   14 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_7.2.class2.py](assets/pbo/PBO_18130/latihan_7.2.class2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 14/18/298 |    |
+|   15 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_7.3.str.py](assets/pbo/PBO_18130/latihan_7.3.str.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}       | 7/8/118   |    |
+|   16 |   Error | DARMAWAN SALIM (Info4)           | [PBO_18136/latihan_7.1class1.py](assets/pbo/PBO_18136/latihan_7.1class1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}   | 11/18/321 |    |
+|   17 |   Error | DARMAWAN SALIM (Info4)           | [PBO_18136/latihan_7.3.str.py](assets/pbo/PBO_18136/latihan_7.3.str.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}       | 6/8/129   |    |
+|   18 |      OK | DIANA SENEN (Info5)              | [PBO_18190/latihan_7.1.py](assets/pbo/PBO_18190/latihan_7.1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}               | 10/25/332 |    |
+|   19 |      OK | DIANA SENEN (Info5)              | [PBO_18190/latihan_7.2.py](assets/pbo/PBO_18190/latihan_7.2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}               | 12/29/357 |    |
+|   20 |      OK | DIANA SENEN (Info5)              | [PBO_18190/latihan_7.3.py](assets/pbo/PBO_18190/latihan_7.3.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}               | 5/13/140  |    |
+|   21 |      OK | DIANA SENEN (Info5)              | [PBO_18190/latihan_7.4.py](assets/pbo/PBO_18190/latihan_7.4.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}               | 3/14/151  |    |
+|   22 |      OK | HARIS SENEN (Info5)              | [PBO_18191/latihan_7.1.py](assets/pbo/PBO_18191/latihan_7.1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}               | 10/25/332 |    |
+|   23 |      OK | HARIS SENEN (Info5)              | [PBO_18191/latihan_7.2.py](assets/pbo/PBO_18191/latihan_7.2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}               | 12/29/357 |    |
+|   24 |      OK | HARIS SENEN (Info5)              | [PBO_18191/latihan_7.3.py](assets/pbo/PBO_18191/latihan_7.3.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}               | 5/13/140  |    |
+|   25 |      OK | HARIS SENEN (Info5)              | [PBO_18191/latihan_7.4.py](assets/pbo/PBO_18191/latihan_7.4.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}               | 3/14/151  |    |
+|   26 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_7.1.class1.py](assets/pbo/PBO_19188/Latihan_7.1.class1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 8/24/292  |    |
+|   27 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_7.2.class2.py](assets/pbo/PBO_19188/Latihan_7.2.class2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 8/27/316  |    |
+|   28 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_7.3.str.py](assets/pbo/PBO_19188/Latihan_7.3.str.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}       | 9/30/314  |    |
+
+
+## Daftar yang kerjakan UTS :
+
+|   No |   Hasil | Nama Mahasiswa                   | File                                                                                                                 | Size        |    |
+|------|---------|----------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------|----|
+|    1 |      OK | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/uts_pbo_18091.py](assets/pbo/PBO_18091/uts_pbo_18091.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 10/27/299   |    |
+|    2 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/UTS_18099.py](assets/pbo/PBO_18099/UTS_18099.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}         | 8/59/349    |    |
+|    3 |      OK | MUHAMAD JEINER SUMAMPOUW (Info3) | [PBO_18102/UTS_18102.py](assets/pbo/PBO_18102/UTS_18102.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}         | 13/36/383   |    |
+|    4 |      OK | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/uts_18117.py](assets/pbo/PBO_18117/uts_18117.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}         | 13/36/391   |    |
+|    5 |      OK | NUR HUMAIRA ABRI (Info4)         | [PBO_18126/uts_18126.py](assets/pbo/PBO_18126/uts_18126.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}         | 20/25/279   |    |
+|    6 |      OK | DARMAWAN SALIM (Info4)           | [PBO_18136/uts_118136.py.py](assets/pbo/PBO_18136/uts_118136.py.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 24/52/490   |    |
+|    7 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/uts_19188.py](assets/pbo/PBO_19188/uts_19188.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}         | 53/180/1352 |    |
+
+
+
 
 * BAGI YANG TELAH MENGERJAKAN PRAKTIKUM DAN TUGAS, DAN NAMANYA TIDAK ADA DI DAFTAR SEGERA LIHAT KEMBALI `KETENTUAN` YANG BERLAKU UNTUK SETIAP TUGAS DAN PRAKTIKUM !
 * <b class="rd">PERINGATAN KERAS UNTUK YANG TUGASNYA SAMA (COPAS punyan Orang Lain) !!, SEGERA HAPUS dan GANTI dengan Punya ANDA SENDIRI !,
