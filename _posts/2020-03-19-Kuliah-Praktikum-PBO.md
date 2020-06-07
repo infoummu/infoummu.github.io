@@ -11,6 +11,8 @@ published: true
 	[Ke Pertemuan 5](#pertemuan5) <br />
 	[Ke Pertemuan 6](#pertemuan6) <br />
 	[Ke Pertemuan 7](#pertemuan7) <br />
+	[Ke Pertemuan 8](#pertemuan8) <br />
+	[Ke Pertemuan 9](#pertemuan9) <br />
 
 
 
@@ -207,6 +209,106 @@ Perkuliahan untuk Pertemuan ke 7:
 	`Latihan_7.1.class1.py` sampai `Latihan_7.3.str.py` 
 	dan ditambah file `Tugas_7.1.py`
 5. BATAS KUMPUL praktikum 7 sampai Jumat 01-05-2020 
+6. Absen Berdasarkan yang kumpul file ke github.com
+
+***
+
+<p id="pertemuan8"></p>
+## Pertemuan ke-8
+* Date 		: 02-05-2020 : 18.--,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: UTS
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Ahad, jam 18.--
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+>
+
+* SOAL dan JAWABAN UTS : 
+>
+
+```python
+# Soal UTS : 
+	Slesaikan contoh berikut dengan CLASS dan atau FUNGSI untuk mencetak npm dan 
+	keterangan angka serta nama anda seperti dibawah ini :
+	CONTOH, jika npm yang diinput sesuai dengan npm anda (npm anda sendiri) : 123045, 
+	maka hasil yang keluar seperti dibawah :
+
+	1 : satu
+	2 : dua
+	3 : tiga
+	0 : nol
+	4 : empat
+	5 : lima
+	Npm : 123045
+	Nama : Ikhwan
+
+	namun jika yang dimasukkan (contoh 67890) BUKAN npm anda maka hasil yang keluar seperti bawah ini :
+
+	6 : enam
+	7 : tujuh
+	8 : delapan
+	9 : sembilan
+	0 : nol
+	NPM : 67890, Tidak Dikenali
+
+ 1. Kumpul hasil uts ke email : ikhwan.elyas@gmail.com
+ 2. Beri nama file uts dengan uts_npm.py (contoh : uts_123045.py)
+ 3. Batas Akhir Waktu kumpul 05/05/2020
+
+# JAWABAN : 
+class ceknpm():
+	def __init__(self, npm):
+		self.npm = npm
+		self.dic ={'123045': 'Ikhwan', '1': 'satu', '0': 'nol', '3': 'tiga', '2': 'dua', '5': 'lima', \
+			'4': 'empat', '7': 'tujuh', '6': 'enam', '9': 'sembilan', '8': 'delapan'}
+	
+	def cek(self):
+		for l in str(self.npm):
+			print(" %s : %s " % (l, self.dic[l]))
+		if self.npm in self.dic.keys():
+			print(" Nama : ", self.dic[self.npm])
+			print(" Npm  : ", self.npm)
+		else:
+			print(" %s NPM Tidak Dikenali" % self.npm)
+
+npm=input("NPM ANDA : ")
+p1 = ceknpm(npm)
+p1.cek()
+
+```
+
+
+Perkuliahan untuk Pertemuan ke 8: 
+1. Kerjakan UTS,
+2. Jalankan Hasil UTS dan pastikan tidak ERROR, setelah itu kumpul ke email tercantum
+5. BATAS KUMPUL UTS sampai Tanggal 05-05-2020 
+6. Absen Berdasarkan yang kumpul file UTS ke email
+
+***
+
+
+<p id="pertemuan9"></p>
+## Pertemuan ke-9
+* Date 		: 04-06-2020 : 15.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Lihat Modul (materi praktikum ke 8 di modul)
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Ahad, jam 15.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+
+>
+
+
+Perkuliahan Online untuk Pertemuan ke 9: 
+1. Kerjakan Praktikum 8 (ENCAPSULATION) yang ada di modul,
+2. Jalankan dan pastikan tidak ERROR, setelah itu kumpul ke github.com
+3. Beri NAMA FILE sesuaikan dengan NAMA FILE di modul, "NAMA FILE TANPA SPASI"
+4. NAMA FILE yang dikumpul ke github.com adalah : `Latihan_8.1.encapsulation.py` 
+5. BATAS KUMPUL praktikum 8 sampai Jumat 08-06-2020 
 6. Absen Berdasarkan yang kumpul file ke github.com
 
 ***
