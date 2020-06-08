@@ -219,7 +219,7 @@ Perkuliahan untuk Pertemuan ke 7:
 * Peserta 	: Info3, Info4 dan Info5
 * Materi 	: UTS
 
-* RENCANA untuk Perkuliahan Online (`classroom`) hari Ahad, jam 18.--
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Sabtu, jam 18.--
 	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
 	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
 
@@ -295,7 +295,7 @@ Perkuliahan untuk Pertemuan ke 8:
 * Peserta 	: Info3, Info4 dan Info5
 * Materi 	: Lihat Modul (materi praktikum ke 8 di modul)
 
-* RENCANA untuk Perkuliahan Online (`classroom`) hari Ahad, jam 15.00
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Kamis, jam 15.00
 	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
 	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
 
@@ -308,7 +308,7 @@ Perkuliahan Online untuk Pertemuan ke 9:
 2. Jalankan dan pastikan tidak ERROR, setelah itu kumpul ke github.com
 3. Beri NAMA FILE sesuaikan dengan NAMA FILE di modul, "NAMA FILE TANPA SPASI"
 4. NAMA FILE yang dikumpul ke github.com adalah : `Latihan_8.1.encapsulation.py` 
-5. BATAS KUMPUL praktikum 8 sampai Jumat 08-06-2020 
+5. BATAS KUMPUL praktikum 8 sampai Senin 08-06-2020 
 6. Absen Berdasarkan yang kumpul file ke github.com
 
 ***
