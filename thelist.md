@@ -386,7 +386,11 @@ Berikut Daftar Mahasiswa (`Info3`, `Info4`, `Info5`) yang membuat file `profile_
 |   27 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_7.2.class2.py](assets/pbo/PBO_19188/Latihan_7.2.class2.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 8/27/316  |    |
 |   28 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_7.3.str.py](assets/pbo/PBO_19188/Latihan_7.3.str.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}       | 9/30/314  |    |
 
+<<<<<<< HEAD
 
+=======
+<p id="uts"></p>
+>>>>>>> 76895e1a1da003c58bc679468a7e89dfc8757e79
 ## Daftar yang kerjakan UTS :
 
 |   No |   Hasil | Nama Mahasiswa                   | File                                                                                                                 | Size        |    |
