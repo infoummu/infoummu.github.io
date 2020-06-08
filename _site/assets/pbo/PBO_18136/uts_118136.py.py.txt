@@ -1,0 +1,25 @@
+print("1:satu")
+print("1:satu")
+print("8:delapan")
+print("1:satu")
+print("3:tiga")
+print("6:enam")
+status=False
+batas=2
+NPM =["118136"]
+NAMA =["DARMAWAN SALIM"]
+while batas > 0:
+  pwd1=input("NPM: ")
+  pwd2=input("NAMA: ")
+  for NPM in NPM:
+     for NAMA in NAMA:
+       if pwd1 == NPM and NAMA == NAMA:
+         print("BERHASIL")
+         status=True
+         break
+  if not status:
+    print("NPM tidak di kenali")
+    batas=batas -1
+    continue
+  else:
+    break
