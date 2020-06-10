@@ -13,6 +13,7 @@ published: true
 	[Ke Pertemuan 7](#pertemuan7) <br />
 	[Ke Pertemuan 8](#pertemuan8) <br />
 	[Ke Pertemuan 9](#pertemuan9) <br />
+	[Ke Pertemuan 10](#pertemuan10) <br />
 
 
 
@@ -311,4 +312,33 @@ Perkuliahan Online untuk Pertemuan ke 9:
 5. BATAS KUMPUL praktikum 8 sampai Senin 08-06-2020 
 6. Absen Berdasarkan yang kumpul file ke github.com
 
+
 ***
+
+<p id="pertemuan10"></p>
+## Pertemuan ke-10
+* Date 		: 10-06-2020 : 21.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Lihat Modul (materi praktikum ke 9 di modul)
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari , jam Rabu 21.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+
+>
+
+
+Perkuliahan Online untuk Pertemuan ke 10: 
+1. Kerjakan Praktikum 9 (INHERITANCE) yang ada di modul,
+2. Jalankan dan pastikan tidak ERROR, setelah itu kumpul ke github.com
+3. Beri NAMA FILE sesuaikan dengan NAMA FILE di modul, "NAMA FILE TANPA SPASI"
+4. NAMA FILE yang dikumpul ke github.com adalah : `Latihan_9.1.turunan.py`
+5. TUGAS `TUGAS_9.1.py` dikumpul/kirim ke email : `ikhwan.elyas@gmail.com`
+5. BATAS KUMPUL praktikum 9 dan TUGAS sampai Sabtu 13-06-2020 
+6. Absen Berdasarkan yang kumpul file ke github.com
+
+***
+
+
+

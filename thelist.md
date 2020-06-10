@@ -401,6 +401,20 @@ Berikut Daftar Mahasiswa (`Info3`, `Info4`, `Info5`) yang membuat file `profile_
 |    7 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/uts_19188.py](assets/pbo/PBO_19188/uts_19188.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}         | 53/180/1352 |    |
 
 
+<p id="praktikum8"></p>
+
+## Daftar yang kerjakan Praktikum 8 :
+
+|   No |   Hasil | Nama Mahasiswa                   | File                                                                                                                                         | Size      |    |
+|------|---------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------|----|
+|    1 |      OK | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/latihan_8.1.encapsulation.py](assets/pbo/PBO_18091/latihan_8.1.encapsulation.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 18/25/440 |    |
+|    2 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Latihan_8.1.Encapsulation.py](assets/pbo/PBO_18099/Latihan_8.1.Encapsulation.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 17/49/457 |    |
+|    3 |   Error | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/latihan_8.1.encapsulation.py](assets/pbo/PBO_18117/latihan_8.1.encapsulation.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 15/29/448 |    |
+|    4 |      OK | NUR HUMAIRA ABRI (Info4)         | [PBO_18126/Latihan_8.1.encapsulation.py](assets/pbo/PBO_18126/Latihan_8.1.encapsulation.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 20/30/411 |    |
+|    5 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_8.1_encapsulation.py](assets/pbo/PBO_18130/latihan_8.1_encapsulation.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 16/28/377 |    |
+|    6 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_8.1.encapsulation.py](assets/pbo/PBO_19188/Latihan_8.1.encapsulation.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 15/54/498 |    |
+
+
 
 
 * BAGI YANG TELAH MENGERJAKAN PRAKTIKUM DAN TUGAS, DAN NAMANYA TIDAK ADA DI DAFTAR SEGERA LIHAT KEMBALI `KETENTUAN` YANG BERLAKU UNTUK SETIAP TUGAS DAN PRAKTIKUM !
