@@ -14,7 +14,17 @@ published: true
 	[Ke Pertemuan 8](#pertemuan8) <br />
 	[Ke Pertemuan 9](#pertemuan9) <br />
 	[Ke Pertemuan 10](#pertemuan10) <br />
+	[Ke Pertemuan 11](#pertemuan11) <br />
+	[Ke Pertemuan 12](#pertemuan12) <br />
+	[Ke Pertemuan 13](#pertemuan13) <br />
+	[Ke Pertemuan 14](#pertemuan14) <br />
+	[Ke Pertemuan 15](#pertemuan15) <br />
+	[Ke Pertemuan 16](#pertemuan16) <br />
+	[* Catatan](#note) <br />
 
+
+
+***
 
 
 <p id="pertemuan1"></p>
@@ -341,4 +351,239 @@ Perkuliahan Online untuk Pertemuan ke 10:
 ***
 
 
+<p id="pertemuan11"></p>
+## Pertemuan ke-11
+* Date 		: 16-06-2020 : 15.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Lihat Modul (materi POLYMORPHISM praktikum ke 10 di modul)
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Selasa jam 15.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+
+>
+
+
+Perkuliahan Online untuk Pertemuan ke 11: 
+1. Kerjakan Praktikum 10 (POLYMORPHISM) yang ada di modul,
+2. Jalankan dan pastikan tidak ERROR, setelah itu kumpul ke github.com
+3. Beri NAMA FILE sesuaikan dengan NAMA FILE di modul, "NAMA FILE TANPA SPASI"
+4. NAMA FILE yang dikumpul ke github.com adalah : `Latihan_10.1.poly.py`
+5. TUGAS `TUGAS_10.1.py` dikumpul/kirim ke email : `ikhwan.elyas@gmail.com`
+6. Beri JUDUL/SUBJECT EMAIL dengan : PBO PERTEMUAN KE 11 NAMA-MAHASISWA - NPM (ganti dengan nama dan npm anda)
+7. BATAS KUMPUL praktikum 10 dan TUGAS sampai Kamis 25-06-2020 
+8. Absen Berdasarkan yang kumpul file ke github.com
+
+
+***
+
+<p id="pertemuan12"></p>
+## PERTEMUAN KE 12 :
+* Date 		: 16-06-2020 : 15.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Buat program genap ganjil
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Selasa jam 15.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+
+1. Buat program yang menerima inputan berupa Nama dan npm, 
+1. setelah itu hitung jumlah huruf dari nama yang dinput 
+2. berikan hasilnya dengan keteranga ganjil atau genap jumlah huruf yang dihitung dari inputan
+3. dan ambil angka terakhir dari npm anda dan beri keteranga output berupa ganjil atau genap !
+	
+### CONTOH : 
+
+>
+
+	input nama	: ikhwan
+	input npm	: 18504
+	# maka output akan menjadi seperti : 
+	nama ikhwan, 6 huruf, genap
+	npm 18504, angka terakhir 4, genap
+
+
+1. Beri nama file dengan `Latihan_12_hitunghuruf.py`
+2. Kumpul Tugas kirim ke email : `ikhwan.elyas@gmail.com`
+3. Beri JUDUL/SUBJECT EMAIL dengan : `PBO PERTEMUAN KE 12 NAMA-MAHASISWA - NPM` (ganti dengan nama dan npm anda)
+4. Batas Kumpul Tugas sampai hari Kamis Tgl 25-06-2020
+
+
+
+***
+
+<p id="pertemuan13"></p>
+## PERTEMUAN KE 13 :
+* Date 		: 16-06-2020 : 15.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Buat program angka menjadi terbilang
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Selasa jam 15.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+>
+
+
+Buat fungsi untuk menerjemahkan angka menjadi terbilang
+* MISALKAN data yang diinput :
+ 
+	1. jika angka yang diinput : 6 		-> output menjadi : enam
+	2. jika angka yang diinput : 14		-> output menjadi : empat belas
+	3. jika angka yang diinput : 24		-> output menjadi : dua puluh empat
+	4. jika angka yang diinput : 112	-> output menjadi : seratus dua belas
+	5. jika angka yang diinput : 2020	-> output menjadi : dua ribu dua puluh
+	6. MIRIP dengan output pada soal UTS, 
+
+###  CONTOH :	
+
+	input angka	: 24
+	output		: 24 dua puluh empat 
+
+
+	
+1. Beri nama file dengan `Latihan_13_angkaterbilang.py`
+2. Kumpul Tugas kirim ke email : `ikhwan.elyas@gmail.com` 
+3. Beri JUDUL/SUBJECT EMAIL dengan : `PBO PERTEMUAN KE 13 NAMA-MAHASISWA - NPM` (ganti dengan nama dan npm anda)
+4. Batas Kumpul Tugas sampai hari Kamis Tgl 25-06-2020
+
+
+
+
+***
+
+<p id="pertemuan14"></p>
+## PERTEMUAN KE 14 :
+* Date 		: 16-06-2020 : 15.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Buat program Menghitung Nilai Akhir
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Selasa jam 15.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+> 
+
+
+Buat fungsi untuk menghitung nilai akhir anda !:
+1. Data nila yang diinput adalah Absen, Tugas, UTS, dan UAS, buat sekali input (tidak diinput berulang kali)
+2. Buat 4 fungsi untuk menghitung absen, tugas, uts dan uas, masing2 satu fungsi, sesuaikan dengan persentase penilaian (absen 40%, tugas 40%, uts 20% dan uas 20%).
+3. Data yang akan dimasukkan adalah : total absen, nilai tugas, nilai uts, dan nila uas.
+4. Hasil Output berupa Nilai Akhir Huruf dan Nilai Akhir Angka
+
+### CONTOH : 
+
+> 
+
+	input nilai (Absen, Tugas, UTS, UAS) : 15 85 90 95
+	output : score 90, A
+
+
+5. Beri nama file dengan `Latihan_14_hitungnilai.py`
+6. Beri JUDUL/SUBJECT EMAIL dengan : `PBO PERTEMUAN KE 14 NAMA-MAHASISWA - NPM` (ganti dengan nama dan npm anda)
+6. Kumpul Tugas kirim ke email : `ikhwan.elyas@gmail.com` 
+7. Batas Kumpul Tugas sampai hari Kamis Tgl 25-06-2020
+
+
+
+***
+
+<p id="pertemuan15"></p>
+## PERTEMUAN KE 15 :
+* Date 		: 16-06-2020 : 15.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: Buat program Koleksi Semua Hasil Praktikum
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Selasa jam 15.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+
+
+Rangkumlah semua Hasil Praktikum anda menjadi satu file, Jadikan setiap file praktikum anda menjadi sebuah fungsi yang siap dipanggil, kemudia Tambahkan Sebuah fungsi utama yang berisi daftar menu nama2 fungsi yang telah dibuat sebelumnya, dan sebuah inputan yang digunakan untuk memilih fungsi yang akan dipanggil : 
+
+
+### CONTOH FILE KOLEKSI PRAKTIKUM 
+* Nama File : `Latihan_15_kumpulanlatihan.py`
+* Buat setiap file menjadi fungsi, mulai dari file praktikum pertama beserta file tugas2nya sampai terakhir, atau Ubah setiap satu file menjadi satu Fungsi 
+* Jika dalam Satu Pertemuanan terdapa lebih dari satu file "latihan*" maka buat setiap file satu fungsi, seperti contoh berikut : 
+
+> 
+
+	CONTOH, Ubah file "latihan1.py" dan "latihan2.py" dibuat menjadi fungsi sbb : 
+
+	def pertemuan1_latihan1(): # fungsi pertama - file latihan1.py menjadi fungsi "pertemuan1_latihan1"
+		# Nama fungsi : petemuan1_latihan1
+		# Nama fungsi adalah kombinasi dari PERTEMUAN dan NAMA-FILE
+		# Jika Nama File terdapat titik "." ubah menjadi "_"
+		# isi fungsi : copy isi file latihan1.py ke dalam fungsi ini
+		# Lakukan test/running sebelum melanjutkan ke fungsi berikut agar error terdeteksi dengan mudah
+
+	def pertemuan1_latihan2(): # fungsi kedua,  file latihan2.py menjadi fungsi "pertemuan1_latihan2"
+		# isi fungsi : copy isi file latihan2.py ke dalam fungsi ini
+		# Lakukan sama dengan yang sebelumnya 
+
+
+	def pertemuan?_latihan?(): # silahkan lanjutkan ... !
+		# isi dengan pertemuan ke ? dan file latihan ke ? selanjutnya !
+		
+
+	def menu_utama():
+		# Buat Menu daftar semua fungsi yang bisa dipilih untuk dipanggil
+		# Menerima Inputan dari user/keyboard untuk memilih menu/daftar yang tersedia
+		# Tampilkan Fungsi yang dipilih oleh user
+
+	CONTOH : 
+
+		contoh menu utama : 
+		1. pertemuan 1 latihan 1
+		2. pertemuan 1 latihan 2
+		3. pertemuan 1 tugas 1
+		4. pertemuan 2 latihan 1
+		5. pertemuan 2 latihan 2
+		6. pertemuan 2 latihan 3
+		... (dan seterusnya..)
+			
+		Lihat Latihan No ? : 2	
+		# ( contoh panggil no 2, : fungsi pertemuan 1 latihan 2)
+		# (Hail output berupa fungsi no 2)
+	
+	.	
+
+
+1. Beri nama file dengan `Latihan_15_kumpulanlatihan.py`
+2. Kumpul Tugas kirim ke email : `ikhwan.elyas@gmail.com` 
+3. Beri JUDUL/SUBJECT EMAIL dengan : `PBO PERTEMUAN KE 15 NAMA-MAHASISWA - NPM` (ganti dengan nama dan npm anda)
+4. Batas Kumpul Tugas sampai hari Kamis Tgl 25-06-2020
+
+
+
+***
+
+<p id="pertemuan16"></p>
+## PERTEMUAN KE 16 :
+* Date 		: 16-06-2020 : 15.00,
+* Peserta 	: Info3, Info4 dan Info5
+* Materi 	: UAS
+
+* RENCANA untuk Perkuliahan Online (`classroom`) hari Selasa jam 15.00
+	* Harap selalu perhatikan Informasi dari `WA`, `classroom`, dan `infoummu.github.io`, 
+	* Jika ada Pertanyaan, silahkan lewat `WA` atau `classroom`.
+
+SOAL UAS Menyusul...
+
+
+
+*** 
+
+
+<p id="note"></p>
+## Note : 
+* FILE `Latihan_12_*.py` sampai `Latihan_15_*.py` dapat digabung dalam satu email sekali kirim untuk ke-4 file tersebut,
+* JIKA ke-4 file tersebut dikirim dalam satu email maka ubah JUDUL EMAIL menjadi : `PBO PERTEMUAN KE 12-15 NAMA-MAHASISWA - NPM` (ganti dengan nama dan npm anda)
+
+
+*** 
 
