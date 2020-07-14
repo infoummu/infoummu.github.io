@@ -415,7 +415,151 @@ Berikut Daftar Mahasiswa (`Info3`, `Info4`, `Info5`) yang membuat file `profile_
 |    6 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_8.1.encapsulation.py](assets/pbo/PBO_19188/Latihan_8.1.encapsulation.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 15/54/498 |    |
 
 
+## Daftar yang kerjakan Praktikum 9 :
 
+|   No |   Hasil | Nama Mahasiswa                   | File                                                                                                                             | Size        |    |
+|------|---------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-------------|----|
+|    1 |      OK | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/latihan_9.1.turunan.py](assets/pbo/PBO_18091/latihan_9.1.turunan.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 49/98/1376  |    |
+|    2 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Latihan_9.1.Turunan.py](assets/pbo/PBO_18099/Latihan_9.1.Turunan.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 49/132/1444 |    |
+|    3 |      OK | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/latihan_9.1.turunan.py](assets/pbo/PBO_18117/latihan_9.1.turunan.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 47/89/1377  |    |
+|    4 |      OK | NUR HUMAIRA ABRI (Info4)         | [PBO_18126/Latihan_9.1.turunan.py](assets/pbo/PBO_18126/Latihan_9.1.turunan.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 46/98/1358  |    |
+|    5 |   Error | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_9.1.turunan.py](assets/pbo/PBO_18130/latihan_9.1.turunan.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 49/103/1237 |    |
+|    6 |      OK | DIANA SENEN (Info5)              | [PBO_18190/latihan_9.1.py](assets/pbo/PBO_18190/latihan_9.1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}                 | 45/106/1366 |    |
+|    7 |      OK | HARIS SENEN (Info5)              | [PBO_18191/latihan_9.1.py](assets/pbo/PBO_18191/latihan_9.1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}                 | 45/106/1367 |    |
+|    8 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_9.1.turunan.py](assets/pbo/PBO_19188/Latihan_9.1.turunan.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 40/125/1307 |    |
+
+## Daftar Yang Kerjakan Tugas 9 : 
+
+
+|   No |   Hasil | Nama Mahasiswa                   | File                                                                                                         | Size      |    |
+|------|---------|----------------------------------|--------------------------------------------------------------------------------------------------------------|-----------|----|
+|    1 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Tugas_9.1.py](assets/pbo/PBO_18099/Tugas_9.1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 33/77/739 |    |
+|    2 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Tugas_9.1.py](assets/pbo/PBO_19188/Tugas_9.1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 28/79/755 |    |
+
+## Daftar Yang Kerjakan Tugas 9 (UPDATE) : 
+
+|   NO |                       Nama_Mhs | Email                   | File                                                          | JB          |
+|------|--------------------------------|-------------------------|---------------------------------------------------------------|-------------|
+|    1 |  FAZLUR MARIF MUHAMMAD (Info5) | fazlurmarif@gmail.com   | Tugas_9.1_fazlurmarif@gmail.com_Sat_Jun_13_2020_.py           | 28/79/755   |
+|    2 |       NUR HUMAIRA ABRI (Info4) | irhaabri029@gmail.com   | Tugas_9.1_irhaabri029@gmail.com_Thu_Jun_11_2020_.py           | 50/110/1147 |
+|    3 | CLAUDIO SEPTIAN POETRA (Info3) | dioclasic1709@gmail.com | TUGAS_9.1.turunan_dioclasic1709@gmail.com_Thu_Jun_11_2020_.py | 31/43/641   |
+|    4 |      VIRA JUNIAR DITTY (Info4) | viraditty788@gmail.com  | TUGAS_9.1_viraditty788@gmail.com_Sat_Jun_20_2020_.py          | 29/56/592   |
+|    5 |    DANIEL SILOAM BUNGA (Info3) | siloamdaniel@gmail.com  | tugas_9_siloamdaniel@gmail.com_Sat_Jun_13_2020_.py            | 58/105/1500 |
+
+## Daftar Yang Kerjakan Praktikum 10 :
+
+|   No |   Hasil | Nama Mahasiswa                   | File                                                                                                                         | Size      |    |
+|------|---------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------|----|
+|    1 |      OK | CLAUDIO SEPTIAN POETRA (Info3)   | [PBO_18091/latihan_10.1.poly.py](assets/pbo/PBO_18091/latihan_10.1.poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 29/62/680 |    |
+|    2 |      OK | VIVIYANTI IKSAN SANGADJI (Info3) | [PBO_18099/Latihan_10.1.Poly.py](assets/pbo/PBO_18099/Latihan_10.1.Poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 24/80/689 |    |
+|    3 |      OK | MUHAMAD JEINER SUMAMPOUW (Info3) | [PBO_18102/Latihan_10.1.poly.py](assets/pbo/PBO_18102/Latihan_10.1.poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 28/68/684 |    |
+|    4 |      OK | DANIEL SILOAM BUNGA (Info3)      | [PBO_18117/latihan_10.1.poly.py](assets/pbo/PBO_18117/latihan_10.1.poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 28/68/684 |    |
+|    5 |      OK | NUR HUMAIRA ABRI (Info4)         | [PBO_18126/Latihan_10.1.poly.py](assets/pbo/PBO_18126/Latihan_10.1.poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 31/66/612 |    |
+|    6 |      OK | VIRA JUNIAR DITTY (Info4)        | [PBO_18130/latihan_10.1.poly.py](assets/pbo/PBO_18130/latihan_10.1.poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 31/66/602 |    |
+|    7 |      OK | DARMAWAN SALIM (Info4)           | [PBO_18136/latihan_10.1.poly.py](assets/pbo/PBO_18136/latihan_10.1.poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 25/80/666 |    |
+|    8 |      OK | DARMAWAN SALIM (Info4)           | [PBO_18136/latihan_10.1poly.py](assets/pbo/PBO_18136/latihan_10.1poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}   | 25/80/666 |    |
+|    9 |      OK | DIANA SENEN (Info5)              | [PBO_18190/latihan_10.1.py](assets/pbo/PBO_18190/latihan_10.1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}           | 28/68/688 |    |
+|   10 |      OK | HARIS SENEN (Info5)              | [PBO_18191/latihan_10.1.py](assets/pbo/PBO_18191/latihan_10.1.py.txt){:onclick="ShowContent('x')"}{:target='tbox'}           | 28/68/688 |    |
+|   11 |      OK | FAZLUR MARIF MUHAMMAD (Info5)    | [PBO_19188/Latihan_10.1.poly.py](assets/pbo/PBO_19188/Latihan_10.1.poly.py.txt){:onclick="ShowContent('x')"}{:target='tbox'} | 28/66/704 |    |
+
+
+## Daftar Yang Kerjakan Tugas 10 : 
+
+|   NO |                         Nama Mhs | File                                                                                                                           |  JB          |
+|------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------|
+|    2 |    FAZLUR MARIF MUHAMMAD (Info5) | Tugas_10.1FazlurMarifPBOPERTEMUANKE11FAZLURMA'RIF-19188fazlurmarif@gmail.comThuJun252020.py                                    | 107/291/2713 |
+|    3 | MUHAMAD JEINER SUMAMPOUW (Info3) | Tugas_10.1.M.JeinerSumampouwPBOPERTEMUANKE11NAMA:MJEINERSUMAMPOUW-NPM:121055520118102mjainer28@gmail.comThuJun252020.py        | 22/45/564    |
+|    7 |        VIRA JUNIAR DITTY (Info4) | TUGAS_10.1ViraDittyPBOPERTEMUANKE11VirajuniardittyNpm.18130viraditty788@gmail.comSatJun202020.py                               | 61/154/1618  |
+|    8 | VIVIYANTI IKSAN SANGADJI (Info3) | Tugas_10.1ViviyantiIksanSangadjiPBOPertemuanKe-11ViviyantiIksanSangadji-18099viviyantiiksansangadji21@gmail.comWedJun242020.py | 73/232/2357  |
+
+## Daftar Yang Kerjakan Tugas 10 (UPDATE) : 
+
+|   NO | Nama Mhs 							| Email                              | File                                                              |  JB          |
+|------|------------------------------------|------------------------------------|-------------------------------------------------------------------|--------------|
+|    1 | DANDI LAROMBIA (Info3) 			| dandilarombia1118@gmail.com        | TUGAS_10.1_dandilarombia1118@gmail.com_Thu_Jun_25_2020_.py        | 51/108/1112  |
+|    2 | CLAUDIO SEPTIAN POETRA (Info3) 	| dioclasic1709@gmail.com            | TUGAS_10.1_dioclasic1709@gmail.com_Thu_Jun_25_2020_.py            | 51/108/1112  |
+|    3 | FAZLUR MARIF MUHAMMAD (Info5) 		| fazlurmarif@gmail.com              | Tugas_10.1_fazlurmarif@gmail.com_Thu_Jun_25_2020_.py              | 107/291/2713 |
+|    4 | NUR HUMAIRA ABRI (Info4)			| irhaabri029@gmail.com              | Tugas_10.1_irhaabri029@gmail.com_Wed_Jun_24_2020_.py              | 49/157/1465  |
+|    5 | MUHAMAD JEINER SUMAMPOUW (Info3) 	| mjainer28@gmail.com                | Tugas_10.1._mjainer28@gmail.com_Thu_Jun_25_2020_.py               | 22/45/564    |
+|    6 | DANIEL SILOAM BUNGA (Info3) 		| siloamdaniel@gmail.com             | tugas_10.1.poly_siloamdaniel@gmail.com_Thu_Jun_25_2020_.py        | 22/45/564    |
+|    7 | VIRA JUNIAR DITTY (Info4)			| viraditty788@gmail.com             | TUGAS_10.1_viraditty788@gmail.com_Sat_Jun_20_2020_.py             | 61/154/1618  |
+|    8 | VIVIYANTI IKSAN SANGADJI (Info3) 	| viviyantiiksansangadji21@gmail.com | Tugas_10.1_viviyantiiksansangadji21@gmail.com_Wed_Jun_24_2020_.py | 73/232/2357  |
+
+## Daftar Yang Kerjakan Latihan_12 : 
+
+|   NO |                         Nama_Mhs | Email                              | File                                                                          | JB          |
+|------|----------------------------------|------------------------------------|-------------------------------------------------------------------------------|-------------|
+|    1 |              DIANA SENEN (Info5) | diyanasenen190@gmail.com           | latihan_12_diyanasenen190@gmail.com_Mon_Jun_29_2020_.py                       | 8/41/291    |
+|    2 |              HARIS SENEN (Info5) | harissenen11@gmail.com             | latihan_12_harissenen11@gmail.com_Mon_Jun_29_2020_.py                         | 8/40/284    |
+|    3 |           DARMAWAN SALIM (Info4) | darmawansalim41@gmail.com          | latihan_12_hitunghuruf_darmawansalim41@gmail.com_Thu_Jun_25_2020_.py          | 4/21/168    |
+|    4 |    FAZLUR MARIF MUHAMMAD (Info5) | fazlurmarif@gmail.com              | Latihan_12_hitunghuruf_fazlurmarif@gmail.com_Thu_Jun_25_2020_.py              | 26/75/818   |
+|    5 |          ROSNIA LA BANIA (Info4) | rosnialabania7@gmail.com           | latihan_12_hitunghuruf_rosnialabania7@gmail.com_Thu_Jun_25_2020_.py           | 4/21/168    |
+|    6 |        VIRA JUNIAR DITTY (Info4) | viraditty788@gmail.com             | latihan_12_hitunghuruf_viraditty788@gmail.com_Sat_Jun_20_2020_.py             | 6/23/220    |
+|    7 | VIVIYANTI IKSAN SANGADJI (Info3) | viviyantiiksansangadji21@gmail.com | Latihan_12_Hitunghuruf_viviyantiiksansangadji21@gmail.com_Wed_Jun_24_2020_.py | 53/290/1726 |
+
+
+## Daftar Yang Kerjakan Latihan_13 :
+
+|   NO |                         Nama_Mhs | Email                              | File                                                                             | JB          |
+|------|----------------------------------|------------------------------------|----------------------------------------------------------------------------------|-------------|
+|    1 |           DANDI LAROMBIA (Info3) | dandilarombia1118@gmail.com        | latihan_13_angkaterbilang_dandilarombia1118@gmail.com_Thu_Jun_25_2020_.py        | 49/186/1489 |
+|    2 |           DARMAWAN SALIM (Info4) | darmawansalim41@gmail.com          | latihan_13_angkaterbilang_darmawansalim41@gmail.com_Thu_Jun_25_2020_.py          | 12/53/370   |
+|    3 |   CLAUDIO SEPTIAN POETRA (Info3) | dioclasic1709@gmail.com            | latihan_13_angkaterbilang_dioclasic1709@gmail.com_Thu_Jun_25_2020_.py            | 49/186/1489 |
+|    4 |    FAZLUR MARIF MUHAMMAD (Info5) | fazlurmarif@gmail.com              | Latihan_13_angkaterbilang_fazlurmarif@gmail.com_Thu_Jun_25_2020_.py              | 23/109/762  |
+|    5 |         NUR HUMAIRA ABRI (Info4) | irhaabri029@gmail.com              | Latihan_13_angkaterbilang_irhaabri029@gmail.com_Wed_Jun_24_2020_.py              | 56/212/1676 |
+|    6 | MUHAMAD JEINER SUMAMPOUW (Info3) | mjainer28@gmail.com                | Latihan_13_angkaterbilang_mjainer28@gmail.com_Thu_Jun_25_2020_.py                | 49/186/1489 |
+|    7 |          ROSNIA LA BANIA (Info4) | rosnialabania7@gmail.com           | Latihan_13_angkaterbilang_rosnialabania7@gmail.com_Fri_Jun_26_2020_.py           | 56/212/1676 |
+|    8 |          ROSNIA LA BANIA (Info4) | rosnialabania7@gmail.com           | Latihan_13_angkaterbilang_rosnialabania7@gmail.com_Thu_Jun_25_2020_.py           | 56/212/1676 |
+|    9 |        VIRA JUNIAR DITTY (Info4) | viraditty788@gmail.com             | latihan_13_angkaterbilang_viraditty788@gmail.com_Thu_Jun_25_2020_.py             | 2/4/38      |
+|   10 | VIVIYANTI IKSAN SANGADJI (Info3) | viviyantiiksansangadji21@gmail.com | Latihan_13_Angkaterbilang_viviyantiiksansangadji21@gmail.com_Wed_Jun_24_2020_.py | 49/212/1661 |
+
+## Daftar Yang Kerjakan Latihan_14 :
+
+|   NO |                         Nama_Mhs | Email                              | File                                                                          | JB          |
+|------|----------------------------------|------------------------------------|-------------------------------------------------------------------------------|-------------|
+|    1 | MUHAMAD JEINER SUMAMPOUW (Info3) | mjainer28@gmail.com                | Latihan_14_hitunglahnilai_mjainer28@gmail.com_Thu_Jun_25_2020_.py             | 30/103/795  |
+|    2 |           DANDI LAROMBIA (Info3) | dandilarombia1118@gmail.com        | latihan_14_hitungnilai_dandilarombia1118@gmail.com_Thu_Jun_25_2020_.py        | 33/103/801  |
+|    3 |           DARMAWAN SALIM (Info4) | darmawansalim41@gmail.com          | latihan_14_hitungnilai_darmawansalim41@gmail.com_Thu_Jun_25_2020_.py          | 23/66/676   |
+|    4 |   CLAUDIO SEPTIAN POETRA (Info3) | dioclasic1709@gmail.com            | latihan_14_hitungnilai_dioclasic1709@gmail.com_Thu_Jun_25_2020_.py            | 33/103/801  |
+|    5 |    FAZLUR MARIF MUHAMMAD (Info5) | fazlurmarif@gmail.com              | Latihan_14_hitungnilai_fazlurmarif@gmail.com_Thu_Jun_25_2020_.py              | 20/82/695   |
+|    6 |         NUR HUMAIRA ABRI (Info4) | irhaabri029@gmail.com              | Latihan_14_hitungnilai_irhaabri029@gmail.com_Wed_Jun_24_2020_.py              | 39/149/1139 |
+|    7 |          ROSNIA LA BANIA (Info4) | rosnialabania7@gmail.com           | Latihan_14_hitungnilai_rosnialabania7@gmail.com_Fri_Jun_26_2020_.py           | 39/149/1139 |
+|    8 |          ROSNIA LA BANIA (Info4) | rosnialabania7@gmail.com           | Latihan_14_hitungnilai_rosnialabania7@gmail.com_Thu_Jun_25_2020_.py           | 39/149/1139 |
+|    9 |        VIRA JUNIAR DITTY (Info4) | viraditty788@gmail.com             | latihan_14_hitungnilai_viraditty788@gmail.com_Thu_Jun_25_2020_.py             | 2/7/55      |
+|   10 | VIVIYANTI IKSAN SANGADJI (Info3) | viviyantiiksansangadji21@gmail.com | Latihan_14_Hitungnilai_viviyantiiksansangadji21@gmail.com_Wed_Jun_24_2020_.py | 25/62/635   |
+
+
+## Daftar Yang Kerjakan Latihan_15 :
+
+
+|   NO |                         Nama_Mhs | Email                              | File                                                                              | JB              |
+|------|----------------------------------|------------------------------------|-----------------------------------------------------------------------------------|-----------------|
+|    1 |           DANDI LAROMBIA (Info3) | dandilarombia1118@gmail.com        | latihan_15_kumpulanlatihan_dandilarombia1118@gmail.com_Thu_Jun_25_2020_.py        | 414/818/9918    |
+|    2 |   CLAUDIO SEPTIAN POETRA (Info3) | dioclasic1709@gmail.com            | latihan_15_kumpulanlatihan_dioclasic1709@gmail.com_Thu_Jun_25_2020_.py            | 414/818/9918    |
+|    3 |    FAZLUR MARIF MUHAMMAD (Info5) | fazlurmarif@gmail.com              | Latihan_15_kumpulanlatihan_fazlurmarif@gmail.com_Thu_Jun_25_2020_.py              | 1041/3399/38852 |
+|    4 | MUHAMAD JEINER SUMAMPOUW (Info3) | mjainer28@gmail.com                | Latihan_15_kumpulanlatihan._mjainer28@gmail.com_Thu_Jun_25_2020_.py               | 414/818/9915    |
+|    5 |        VIRA JUNIAR DITTY (Info4) | viraditty788@gmail.com             | latihan_15_kumpulanlatihan_viraditty788@gmail.com_Fri_Jun_26_2020_.py             | 661/1756/16455  |
+|    6 | VIVIYANTI IKSAN SANGADJI (Info3) | viviyantiiksansangadji21@gmail.com | Latihan_15_Kumpulanlatihan_viviyantiiksansangadji21@gmail.com_Wed_Jun_24_2020_.py | 1466/4184/48676 |
+
+## Daftar Yang Kerjakan Latihan_16 UAS :
+
+|   NO |                         Nama_Mhs | Email                              | File                                                                  | JB          |
+|------|----------------------------------|------------------------------------|-----------------------------------------------------------------------|-------------|
+|    1 |           DARMAWAN SALIM (Info4) | darmawansalim41@gmail.com          | latihan_16_UAS_darmawansalim41@gmail.com_Fri_Jul_03_2020_.py          | 9/27/233    |
+|    2 |   CLAUDIO SEPTIAN POETRA (Info3) | dioclasic1709@gmail.com            | latihan_16_UAS_dioclasic1709@gmail.com_Fri_Jul_03_2020_.py            | 28/80/768   |
+|    3 |              DIANA SENEN (Info5) | diyanasenen190@gmail.com           | Latihan_16_UAS_diyanasenen190@gmail.com_Sun_Jul_05_2020_.py           | 37/131/1146 |
+|    4 |    FAZLUR MARIF MUHAMMAD (Info5) | fazlurmarif@gmail.com              | Latihan_16_UAS_fazlurmarif@gmail.com_Fri_Jul_03_2020_.py              | 69/212/2464 |
+|    5 |              HARIS SENEN (Info5) | harissenen11@gmail.com             | Latihan_16_UAS_harissenen11@gmail.com_Sun_Jul_05_2020_.py             | 37/131/1146 |
+|    6 |         NUR HUMAIRA ABRI (Info4) | irhaabri029@gmail.com              | Latihan_16_UAS_irhaabri029@gmail.com_Thu_Jul_02_2020_.py              | 21/58/485   |
+|    7 |          ROSNIA LA BANIA (Info4) | nia.sumaidi@gmail.com              | Latihan_16_UAS_nia.sumaidi@gmail.com_Fri_Jul_03_2020_-1.py            | 20/57/475   |
+|    8 |          ROSNIA LA BANIA (Info4) | nia.sumaidi@gmail.com              | Latihan_16_UAS_nia.sumaidi@gmail.com_Fri_Jul_03_2020_.py              | 20/57/475   |
+|    9 |          RAHMAWANI IRWAN (Info4) | rahmawani100600@gmail.com          | Latihan_16_UAS_rahmawani100600@gmail.com_Sun_Jul_05_2020_.py          | 20/57/475   |
+|   10 |      DANIEL SILOAM BUNGA (Info3) | siloamdaniel@gmail.com             | latihan_16_uas_siloamdaniel@gmail.com_Fri_Jul_03_2020_.py             | 30/84/900   |
+|   11 |        VIRA JUNIAR DITTY (Info4) | viraditty788@gmail.com             | latihan_16_UAS_viraditty788@gmail.com_Fri_Jul_03_2020_.py             | 5/21/175    |
+|   12 | VIVIYANTI IKSAN SANGADJI (Info3) | viviyantiiksansangadji21@gmail.com | Latihan_16_UAS_viviyantiiksansangadji21@gmail.com_Thu_Jul_02_2020_.py | 16/50/420   |
+|   13 |        VIRA JUNIAR DITTY (Info4) | viraditty788@gmail.com             | latihan_16_viraditty788@gmail.com_Fri_Jun_26_2020_.py                 | 16/37/355   |
+
+## --- SELESAI ---
 
 * BAGI YANG TELAH MENGERJAKAN PRAKTIKUM DAN TUGAS, DAN NAMANYA TIDAK ADA DI DAFTAR SEGERA LIHAT KEMBALI `KETENTUAN` YANG BERLAKU UNTUK SETIAP TUGAS DAN PRAKTIKUM !
 * <b class="rd">PERINGATAN KERAS UNTUK YANG TUGASNYA SAMA (COPAS punyan Orang Lain) !!, SEGERA HAPUS dan GANTI dengan Punya ANDA SENDIRI !,
