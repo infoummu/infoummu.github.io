@@ -31,6 +31,7 @@
 <loc>http://localhost:4000/thelist</loc>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/assets/reff/Beginning_Programming_with_Python_for_Dummies.pdf</loc>
 <lastmod>2020-07-12T06:15:06+00:00</lastmod>
 </url>
@@ -45,5 +46,21 @@
 <url>
 <loc>http://localhost:4000/assets/reff/python-dasar-poss-upi.pdf</loc>
 <lastmod>2020-07-12T06:15:05+00:00</lastmod>
+=======
+<loc>https://infoummu.github.io/assets/reff/Beginning_Programming_with_Python_for_Dummies.pdf</loc>
+<lastmod>2020-06-16T21:35:18+09:00</lastmod>
+</url>
+<url>
+<loc>https://infoummu.github.io/assets/reff/Buku_Pengenalan_Python.pdf</loc>
+<lastmod>2020-06-16T21:35:18+09:00</lastmod>
+</url>
+<url>
+<loc>https://infoummu.github.io/assets/reff/cepat-mahir-python-kuliahkomputer.pdf</loc>
+<lastmod>2020-06-16T21:35:17+09:00</lastmod>
+</url>
+<url>
+<loc>https://infoummu.github.io/assets/reff/python-dasar-poss-upi.pdf</loc>
+<lastmod>2020-06-16T21:35:17+09:00</lastmod>
+>>>>>>> eefaa68b9afb25a7c9f388a42a7aa6ac17463c39
 </url>
 </urlset>
