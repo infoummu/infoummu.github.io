@@ -42,8 +42,8 @@ published: true
     2. Page [infoummu.github.io](https://infoummu.github.io/){:target="_blank"}
 
 1. Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari Kedua media tersebut, 
-2. Modul akan disharing saat post per pertemuan (Modul Sementara Baru Tersedia Untuk MK Pemrograman Game) 
-3. Referensi Materi Extra (Materi Tambahan) dapat dilihat di link berikut : [Extra Modul](https://infoummu.github.io/downloads){:target="_blank"}.
+2. Modul akan disharing saat post per pertemuan ([Modul Sementara Baru Tersedia Untuk MK Pemrograman Game](downloads){:target="_blank"}) 
+3. Referensi Materi Extra (Materi Tambahan) dapat dilihat di link berikut : [Extra Modul](Reff){:target="_blank"}.
 
 ***
 By : Ikhwan 
