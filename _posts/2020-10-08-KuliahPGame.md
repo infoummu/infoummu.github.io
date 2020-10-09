@@ -1,0 +1,45 @@
+---
+title: Kuliah Pemrograman Game
+published: true
+---
+
+## PERTEMUAN PERTAMA 01 : 
+
+|Status  | : Online                   |
+|Scedule | : Online                   |
+|Waktu   | : 10/10/2020               |
+|Tema    | : Arahan dan Kontrak Kuliah|
+
+
+
+### Variabel dan Persentase Penilaian :
+- Absen  : 40 % 
+    - Absen Untuk Pertemuan Online dihitung berdasarkan yang mengumpulkan file praktikum 
+- Tugas  : 40 % 
+    - Tugas yang AKAN DINILAI adalah tugas yang dikerjakan dan dikumpulkan SESUAI DENGAN KETENTUAN,
+    - Setiap tugas akan disampaikan ketentuan apa saja yang harus dipenuhi, dari format penulisan sampai dengan ketentuan pengumpulan tugas
+    - Umumnya ketentuan yang harus selalu diperhatikan adalah ISI TUGAS, BATAS WAKTU PENGUMPULAN TUGAS dan PENAMAAN FILE TUGAS, serta FORMAT atau TEMPLATE TUGAS.
+- UTS dan UAS : 20 % (UTS 10% dan UAS 10%)
+
+### Yang Harus Dipersiapkan : 
+1. Semua Mahasiswa diminta membuat akun di [`dropbox`](https://www.dropbox.com/){:target="_blank"} (bagi yang belum memiliki akun), yang akan digunakan sebagai wadah mengumpulkan tugas anda, (gunakan email anda sebagai username agar lebih mudah)
+2. Segera kumpul  username dropbox, Nama dan NPM melalui WA grup mata kuliah Pemrograman Game
+3. Segera Install Python 3.x di komputernya masing2, bisa download di [python.org](https://www.python.org/){:target="_blank"} bagi yang belum punya,
+4. Install Juga modul python yang akan kita gunakan untuk pemrograman game yaitu pygame, cara install dan dowload bisa lihat di [pygame](https://www.pygame.org/wiki/GettingStarted){:target="_blank"}
+
+***
+
+## INFO Kuliah : 
+
+Infomasi Seputar MK Pemrograman Game akan disampaikan melalui media : 
+1. WA (WhatsApp) di grup Pemrograman Game atau melalui KETING (Ketua Tingkat)
+2. [infoummu.github.io](https://infoummu.github.io/){:target="_blank"}
+
+*** 
+
+1. Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari Kedua media tersebut, 
+2. Modul akan disharing saat post per pertemuan (Modul Sementara Hanya Tersedia Untuk MK Pemrograman Game) 
+3. Referensi Materi Extra (Materi Tambahan) dapat dilihat di link berikut : [Extra Modul](https://infoummu.github.io/downloads){:target="_blank"}.
+
+***
+By : Ikhwan 
