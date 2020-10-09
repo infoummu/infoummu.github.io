@@ -15,10 +15,10 @@ Materi Utama Praktikum Mata Kuliah Pemrograman Game menggunakan Modul, dan untuk
 4. [Beginning Programming With Python For Dummies - John Paul Mueller - PDF](assets/reff/Beginning_Programming_with_Python_for_Dummies.pdf){:target="_blank"}
 
 
-#### Online Link : 
+#### Online  : 
 1. [www.w3schools.com](https://www.w3schools.com/python/python_variables.asp){:target="_blank"}
 2. [www.learnpython.org](https://www.learnpython.org/){:target="_blank"}
 3. [www.tutorialspoint.com](https://www.tutorialspoint.com/python/index.htm){:target="_blank"}
-
+4. [https://realpython.com/pygame-a-primer/](https://realpython.com/pygame-a-primer/){:target="_blank"}
 ***
 
