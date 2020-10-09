@@ -1,9 +1,0 @@
-def npm ():
-    npm = (input ("Masukkan Npm : "))
-    if npm == "18099":
-        print("1 : Satu \n8 : Delapan \n0 : Nol \n9 : Sembilan \n9 : sembilan \nNpm : 18099 \nNama : Viviyanti")
-    else:
-        print("1 : Satu \n8 : Delapan \n0 : Nol \n8: Delapan \n2: Dua \nNpm : 18082. Tidak Dikenali")
-
-print("SILAHKAN MASUKKAN DATA ANDA")
-npm()

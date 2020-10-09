@@ -276,6 +276,42 @@ a:active, a:focus {
 }
 
 
+<<<<<<< HEAD
+/*  ======================== */
+/* https://stackoverflow.com/questions/54453235/how-do-i-stack-two-divs-on-mobile-but-arrange-side-by-side-on-desktop  */
+
+.myDiv {
+  // height: 150px;
+  // width: 150px;
+  // border:1px solid gold;
+  // height: 45%;
+  width: 42%;    
+  display: inline-block;
+  // background-color: rgb(93, 130, 160);
+  margin-bottom: 25px;
+  padding: 10px 32px;
+}
+
+/* 
+  The block of code below tells the browsers what to do on a screen
+  that has a width of 320px or less 
+*/
+
+@media screen and (max-width: 420px) {
+  
+  .myDiv {
+  width: 98%;
+  display: block; /* Stops it from floating */
+  // margin: auto; /* Ensures that it is centered */
+  margin-bottom: 25px; /* Space between the stacked elements */
+    
+  }
+  
+}
+.myDiv:hover {
+  cursor: pointer;
+  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
+=======
 /* TAMBAHAN UNTUK TOMBOL "GO TOP" */
 /* =====Untuk Button go to top==== */
 //#myBtn {
@@ -390,4 +426,5 @@ iframe {
 }
 .isibox{
 padding: 12px 10px 10px 10px;
+>>>>>>> 7d33dd989d5b17747f4f754cb212432f1e5a5dbd
 }
