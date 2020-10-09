@@ -1,0 +1,10 @@
+jekyll serve --incremental --host=0.0.0.0
+jekyll build --watch
+jekyll serve --incremental --host=0.0.0.0
+jekyll build --watch
+jekyll serve --incremental --host=0.0.0.0
+jekyll build --watch
+jekyll serve --incremental --host=0.0.0.0
+jekyll build --watch
+jekyll serve --incremental --host=0.0.0.0
+jekyll build --watch
