@@ -25,7 +25,13 @@ published: true
 1. Semua Mahasiswa diminta membuat akun di [`dropbox`](https://www.dropbox.com/){:target="_blank"} (bagi yang belum memiliki akun), yang akan digunakan sebagai wadah mengumpulkan tugas anda, (gunakan email anda sebagai username agar lebih mudah)
 2. Segera kumpul  username dropbox, Nama dan NPM melalui WA grup mata kuliah Pemrograman Game
 3. Segera Install Python 3.x di komputernya masing2, bisa download di [python.org](https://www.python.org/){:target="_blank"} bagi yang belum punya,
-4. Install Juga modul python yang akan kita gunakan untuk pemrograman game yaitu pygame, cara install dan dowload bisa lihat di [pygame](https://www.pygame.org/wiki/GettingStarted){:target="_blank"}
+4. Install Juga modul python yang akan kita gunakan untuk pemrograman game yaitu pygame, cara install dan dowload bisa lihat di [pygame](https://www.pygame.org/wiki/GettingStarted){:target="_blank"} (yang ini bisa nanti,)
+5. Bantu Infokan dan share ke Teman2 bagi yang lebih dulu membaca infomasi yang dibagi di sini,
+6. Untuk Mahasiswa yang belum paham agar bertanya, bisa ke grup WA ataupun ke teman2 anda yang lain, dan bagi Teman2 Mahasiswa yang sudah paham agar membantu teman2 yang belum paham.
+
+
+### Waktu Pengumpulan User Name dropbox :
+1. Diharapkan untuk semua mahasiswa sudah melaporkan/mengumpulkan akun dropboxnya selambat-lambatna hari Ahad 11/10/2020
 
 ***
 
@@ -35,7 +41,7 @@ Infomasi Seputar MK Pemrograman Game akan disampaikan melalui media :
 1. WA (WhatsApp) di grup Pemrograman Game atau melalui KETING (Ketua Tingkat)
 2. [infoummu.github.io](https://infoummu.github.io/){:target="_blank"}
 
-*** 
+
 
 1. Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari Kedua media tersebut, 
 2. Modul akan disharing saat post per pertemuan (Modul Sementara Hanya Tersedia Untuk MK Pemrograman Game) 
