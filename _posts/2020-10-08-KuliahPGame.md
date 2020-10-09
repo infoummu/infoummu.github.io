@@ -30,21 +30,19 @@ published: true
 6. Untuk Mahasiswa yang belum paham agar bertanya, bisa ke grup WA ataupun ke teman2 anda yang lain, dan bagi Teman2 Mahasiswa yang sudah paham agar membantu teman2 yang belum paham.
 
 
-### Waktu Pengumpulan User Name dropbox :
-1. Diharapkan untuk semua mahasiswa sudah melaporkan/mengumpulkan akun dropboxnya selambat-lambatna hari Ahad 11/10/2020
+### Waktu Pengumpulan UserName dropbox :
+* Diharapkan untuk semua mahasiswa sudah melaporkan/mengumpulkan akun dropboxnya selambat-lambatna hari Ahad 11/10/2020
 
 ***
 
 ## INFO Kuliah : 
 
-Infomasi Seputar MK Pemrograman Game akan disampaikan melalui media : 
-1. WA (WhatsApp) di grup Pemrograman Game atau melalui KETING (Ketua Tingkat)
-2. [infoummu.github.io](https://infoummu.github.io/){:target="_blank"}
-
-
+1. Infomasi Seputar MK Pemrograman Game akan disampaikan melalui media : 
+    1. Melalui WA (WhatsApp) di grup Pemrograman Game atau melalui KETING (Ketua Tingkat), dan
+    2. Page [infoummu.github.io](https://infoummu.github.io/){:target="_blank"}
 
 1. Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari Kedua media tersebut, 
-2. Modul akan disharing saat post per pertemuan (Modul Sementara Hanya Tersedia Untuk MK Pemrograman Game) 
+2. Modul akan disharing saat post per pertemuan (Modul Sementara Baru Tersedia Untuk MK Pemrograman Game) 
 3. Referensi Materi Extra (Materi Tambahan) dapat dilihat di link berikut : [Extra Modul](https://infoummu.github.io/downloads){:target="_blank"}.
 
 ***
