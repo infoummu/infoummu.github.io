@@ -31,7 +31,7 @@ published: true
 
 
 ### Waktu Pengumpulan UserName dropbox :
-* Diharapkan untuk semua mahasiswa sudah melaporkan/mengumpulkan akun dropboxnya selambat-lambatna hari Ahad 11/10/2020
+* Diharapkan untuk semua mahasiswa sudah melaporkan/mengumpulkan akun dropboxnya Paling Lambat pada hari <b>`Senin 12/10/2020`</b>
 
 ***
 
