@@ -1,0 +1,56 @@
+I"ø<!--# Hanya Halaman Contoh, -->
+
+<h2 id="all-post">All Post</h2>
+
+<hr />
+
+<section>
+  
+
+    
+    
+    
+        <h3>This year's posts</h3>
+    
+
+    
+      
+        <ul>
+      
+        <li><time>14 Oct - </time>
+          <a href="/KuliahPJaringan">
+            Kuliah Pemrograman Jaringan
+          </a>
+        </li>
+    
+      
+        
+        
+        
+      
+        <li><time>08 Oct - </time>
+          <a href="/KuliahPGame">
+            Kuliah Pemrograman Game
+          </a>
+        </li>
+    
+      
+        
+        
+        
+          </ul>
+          <h3>2017</h3>
+          <ul>
+        
+      
+        <li><time>12 Dec - </time>
+          <a href="/Sample-Page">
+            Sample Page
+          </a>
+        </li>
+    
+    </ul>
+
+  
+</section>
+:ET

@@ -3,6 +3,56 @@ title: Kuliah Pemrograman Game
 published: true
 ---
 
+## PERTEMUAN TIGA 03 : 
+
+|Status  | : Online                    |
+|Scedule | : Online                    |
+|Waktu   | : 23/10/2020                 |
+|Tema    | : Praktikum 2 Pemrograman Game|
+
+### Praktikum 2
+
+1. Doanload Modul berikut : [Modul Praktikum 2](assets/reff/pgame/Modul_Pgame_prak_2.pdf){:target="_blank"}
+2. Lakukan Praktikum mengikuti arahan yang ada di modul tersebut !. 
+
+
+### HASIL Praktukum Kumpul ke dropbox
+
+1. Lakukan praktikum dari `code5` dan `code6`
+2. Tuliskan kembali semua code `code5` dan `code6` ke file script python dengan nama fil `code5_npm.py` dan `code6_npm.py`, ATAU,
+3. ATAU bisa dengan menggabungkan semua code code5 dan code6 menjadi SATU FILE SAJA, dan beri nama dengan `praktikum2_npm.py`
+4. Jalankan pada CMD atau Terminal, dan pastikan tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
+
+
+### Waktu Kumpul Praktikum 1 dan Praktikum 2
+- Hasil Praktikum 1 masih banyak mahasiswa yang belum kumpul haril praktikumnya, harap segera yang belum !,
+- Diharapkan Kepada Mahasiswa agar sudah menyelesaikan praktikum 1 dan praktikum 2 Pemrograman Game serta mengumpulkannya ke folder `PGame` di `dropbox` nya masing2 paling lambat hari `Senin 26/10/2020 23.59`
+
+***
+***
+
+## PERTEMUAN DUA 02 : 
+
+|Status  | : Offline                    |
+|Scedule | : Offline                    |
+|Waktu   | : 16/10/2020                 |
+|Tema    | : Praktikum 1 Pemrograman Game |
+
+
+### Praktikum 1 
+1. Doanload Modul berikut : [Modul Praktikum 1](assets/reff/pgame/Modul_Pgame_prak_1.pdf){:target="_blank"}
+2. Lakukan Praktikum mengikuti arahan yang ada di modul 
+
+
+### HASIL Praktukum 1 Kumpul ke dropbox
+1. Tuliskan code1 sampai code4 ke file simpan dengan nama file `praktikum1_npm.py` (contoh : `praktikum1_17000.py`)
+2. Jalankan dengan perintah : `python praktikum1_17000.py` 
+3. Pastikan tidak error, setelah itu kumpul ke folder `PGame` yang ada di akun `dropbox` anda masing-masing
+
+
+***
+***
+
 ## PERTEMUAN PERTAMA 01 : 
 
 |Status  | : Online                   |
