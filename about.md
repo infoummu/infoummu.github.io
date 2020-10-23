@@ -21,4 +21,7 @@ title: About
 	Email: ummuternate@gmail.com
 	Website: www.ummu.ac.id
 	
-#### **[[ Website ini sifatnya Unofficial dari Prodi Informatika UMMU Ternate ]]**
+
+***
+
+#### [[ Website ini sifatnya Unofficial dari Prodi Informatika UMMU Ternate ]]
