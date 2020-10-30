@@ -4,13 +4,12 @@ published: true
 ---
 
 
-
 ## PERTEMUAN EMPAT 04 : 
 
 |Status  | : Online                      |
 |Scedule | : Offline                     |
 |Waktu   | : 30/10/2020                  |
-|Tema    | : Praktikum 2 Pemrograman Game|
+|Tema    | : Praktikum 3 Pemrograman Game|
 
 ### Modul Praktikum 3
 
