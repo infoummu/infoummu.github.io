@@ -3,6 +3,38 @@ title: Kuliah Pemrograman Game
 published: true
 ---
 
+
+
+## PERTEMUAN EMPAT 04 : 
+
+|Status  | : Online                      |
+|Scedule | : Offline                     |
+|Waktu   | : 30/10/2020                  |
+|Tema    | : Praktikum 2 Pemrograman Game|
+
+### Modul Praktikum 3
+
+1. Doanload Modul berikut : [Modul Praktikum 3](assets/reff/pgame/Modul_Pgame_prak_3.pdf){:target="_blank"}
+
+### HASIL Praktukum Kumpul ke dropbox
+
+1. Mahasiswa diharapkan membaca Modul dan lakukan praktikum sesuai dengan arahan yang ada di modul,
+
+2. Kerjakan praktikum bersama teman2 lebih bagus sehingga bisa bertanya bagian yang tidak dipahami ke teman belajarnya,
+
+3. Setelah praktikum usahakan sampai hasil testingnya tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
+
+
+### Waktu Kumpul
+
+- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Jumat 06/11/2020`
+
+
+***
+***
+
+
+
 ## PERTEMUAN TIGA 03 : 
 
 |Status  | : Online                    |
@@ -28,8 +60,11 @@ published: true
 - Hasil Praktikum 1 masih banyak mahasiswa yang belum kumpul haril praktikumnya, harap segera yang belum !,
 - Diharapkan Kepada Mahasiswa agar sudah menyelesaikan praktikum 1 dan praktikum 2 Pemrograman Game serta mengumpulkannya ke folder `PGame` di `dropbox` nya masing2 paling lambat hari `Senin 26/10/2020 23.59`
 
+
+
 ***
 ***
+
 
 ## PERTEMUAN DUA 02 : 
 
