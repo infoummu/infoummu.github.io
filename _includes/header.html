@@ -4,20 +4,43 @@
     {% assign owner_first_name = site.owner | split: " " %}
     <h1>{{ owner_first_name[0] | downcase }}@home:~$</h1>
     </a>
-    
+
 <!-- Menu dibawah judul bagian atas -->
     <div class="header-links">
-    
-<!--      {% include links.html %} 
-    
-    
+
+<!-- MANUAL TAMBAH LINK  -->
+        <a href="/Reff" title="Reff" ><h2 class="header-link">Reff</h2></a> |
+        <a href="/archive" title="Archive" ><h2 class="header-link">Archive</h2></a> |
+        <a href="/thelist" title="TheList" ><h2 class="header-link">TheList</h2></a> |
+        <a href="/downloads" title="Downloads" ><h2 class="header-link">Downloads</h2></a> |    
+        <a href="/about" title="About" ><h2 class="header-link">About</h2></a>
+
+
+<!--      {% include links.html %}
+
+
 <!--    Tambahan Begin -->
       <!-- Nav pages -->
-	   {% for page in site.pages %}
-	      {% if page.layout == "page" %}
-	        <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.title }}" ><h2 class="header-link">{{ page.title }}</h2></a>  |
-        {% endif %}
-	    {% endfor %}
+	   <!-- {% for page in site.pages %}
+
+            {% if forloop.last == true %}
+                {% if page.layout == "page" %}
+                  <a href="{% if site.baseurl == "/" %}
+                    {{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}
+                    {% endif %}" title="{{ page.title }}" ><h2 class="header-link">{{ page.title }}</h2></a>
+                {% endif %}
+            {% else %}
+                {% if page.layout == "page" %}
+                <a href="{% if site.baseurl == "/" %}
+                  {{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}
+                  {% endif %}" title="{{ page.title }}" ><h2 class="header-link">{{ page.title }}</h2></a> |
+              {% endif %}
+
+            {% endif %}
+
+	    {% endfor %} -->
+
+
 <!--    End Tambahan -->
 
 	</div>

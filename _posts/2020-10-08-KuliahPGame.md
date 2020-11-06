@@ -2,9 +2,35 @@
 title: Kuliah Pemrograman Game
 published: true
 ---
+## PERTEMUAN LIMA 05 :
+
+|Status  | : Online                      |
+|Scedule | : Online                      |
+|Waktu   | : 06/11/2020                  |
+|Tema    | : Praktikum 4 Pemrograman Game|
+
+### Modul Praktikum 4
+
+1. Doanload Modul berikut : [Modul Praktikum 4](assets/reff/pgame/Modul_Pgame_prak_4.pdf){:target="_blank"}
+
+### HASIL Praktukum Kumpul ke dropbox
+
+1. Mahasiswa diharapkan membaca Modul dan melakukan praktikum sesuai dengan arahan yang ada di modul,
+
+2. Kerjakan praktikum bersama teman2 lebih bagus sehingga bisa bertanya bagian materi yang tidak dipahami ke teman belajarnya, atau bisa juga bertanya langsung ke saya bisa lewat grup WA atau langsung WA personal...
+
+3. Lakukan praktikum dan usahakan hasil praktikum tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
 
 
-## PERTEMUAN EMPAT 04 : 
+### Waktu Kumpul
+
+- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Jumat 13/11/2020`
+
+
+***
+***
+
+## PERTEMUAN EMPAT 04 :
 
 |Status  | : Online                      |
 |Scedule | : Offline                     |
@@ -34,7 +60,7 @@ published: true
 
 
 
-## PERTEMUAN TIGA 03 : 
+## PERTEMUAN TIGA 03 :
 
 |Status  | : Online                    |
 |Scedule | : Online                    |
@@ -44,7 +70,7 @@ published: true
 ### Praktikum 2
 
 1. Doanload Modul berikut : [Modul Praktikum 2](assets/reff/pgame/Modul_Pgame_prak_2.pdf){:target="_blank"}
-2. Lakukan Praktikum mengikuti arahan yang ada di modul tersebut !. 
+2. Lakukan Praktikum mengikuti arahan yang ada di modul tersebut !.
 
 
 ### HASIL Praktukum Kumpul ke dropbox
@@ -65,7 +91,7 @@ published: true
 ***
 
 
-## PERTEMUAN DUA 02 : 
+## PERTEMUAN DUA 02 :
 
 |Status  | : Offline                    |
 |Scedule | : Offline                    |
@@ -73,21 +99,21 @@ published: true
 |Tema    | : Praktikum 1 Pemrograman Game |
 
 
-### Praktikum 1 
+### Praktikum 1
 1. Doanload Modul berikut : [Modul Praktikum 1](assets/reff/pgame/Modul_Pgame_prak_1.pdf){:target="_blank"}
-2. Lakukan Praktikum mengikuti arahan yang ada di modul 
+2. Lakukan Praktikum mengikuti arahan yang ada di modul
 
 
 ### HASIL Praktukum 1 Kumpul ke dropbox
 1. Tuliskan code1 sampai code4 ke file simpan dengan nama file `praktikum1_npm.py` (contoh : `praktikum1_17000.py`)
-2. Jalankan dengan perintah : `python praktikum1_17000.py` 
+2. Jalankan dengan perintah : `python praktikum1_17000.py`
 3. Pastikan tidak error, setelah itu kumpul ke folder `PGame` yang ada di akun `dropbox` anda masing-masing
 
 
 ***
 ***
 
-## PERTEMUAN PERTAMA 01 : 
+## PERTEMUAN PERTAMA 01 :
 
 |Status  | : Online                   |
 |Scedule | : Online                   |
@@ -97,15 +123,15 @@ published: true
 
 
 ### Variabel dan Persentase Penilaian :
-- Absen  : 40 % 
-    - Absen Untuk Pertemuan Online dihitung berdasarkan yang mengumpulkan file praktikum 
-- Tugas  : 40 % 
+- Absen  : 40 %
+    - Absen Untuk Pertemuan Online dihitung berdasarkan yang mengumpulkan file praktikum
+- Tugas  : 40 %
     - Tugas yang AKAN DINILAI adalah tugas yang dikerjakan dan dikumpulkan SESUAI DENGAN KETENTUAN,
     - Setiap tugas akan disampaikan ketentuan apa saja yang harus dipenuhi, dari format penulisan sampai dengan ketentuan pengumpulan tugas
     - Umumnya ketentuan yang harus selalu diperhatikan adalah ISI TUGAS, BATAS WAKTU PENGUMPULAN TUGAS dan PENAMAAN FILE TUGAS, serta FORMAT atau TEMPLATE TUGAS.
 - UTS dan UAS : 20 % (UTS 10% dan UAS 10%)
 
-### Yang Harus Dipersiapkan : 
+### Yang Harus Dipersiapkan :
 1. Semua Mahasiswa diminta membuat akun di [`dropbox`](https://www.dropbox.com/){:target="_blank"} (bagi yang belum memiliki akun), yang akan digunakan sebagai wadah mengumpulkan tugas anda, (gunakan email anda sebagai username agar lebih mudah)
 2. Segera kumpul  username dropbox, Nama dan NPM melalui WA grup mata kuliah Pemrograman Game
 3. Segera Install Python 3.x di komputernya masing2, bisa download di [python.org](https://www.python.org/){:target="_blank"} bagi yang belum punya,
@@ -119,15 +145,16 @@ published: true
 
 ***
 
-## INFO Kuliah : 
+## INFO Kuliah :
 
-1. Infomasi Seputar MK Pemrograman Game akan disampaikan melalui media : 
+1. Infomasi Seputar MK Pemrograman Game akan disampaikan melalui media :
     1. Melalui WA (WhatsApp) di grup Pemrograman Game atau melalui KETING (Ketua Tingkat), dan
     2. Page [infoummu.github.io](https://infoummu.github.io/){:target="_blank"}
 
-1. Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari Kedua media tersebut, 
-2. Modul akan disharing saat post per pertemuan ([Modul Sementara Baru Tersedia Untuk MK Pemrograman Game](downloads){:target="_blank"}) 
+1. Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari Kedua media tersebut,
+2. Modul akan disharing saat post per pertemuan ([Modul Sementara Baru Tersedia Untuk MK Pemrograman Game](downloads){:target="_blank"})
 3. Referensi Materi Extra (Materi Tambahan) dapat dilihat di link berikut : [Extra Modul](Reff){:target="_blank"}.
 
+
 ***
-By : Ikhwan 
+By : Ikhwan
