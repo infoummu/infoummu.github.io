@@ -4,12 +4,54 @@ title: TheList
 ---
 
 * Daftar Nama2 yang mengumpulkan hasil praktikum ke dropbox, daftar nama2 ini akan selalu di update...
+* Hasil Test terhadap script yang dikirim ke dropbox, hasil test script banyak yang sudah `OK`, tapi masih ada yang `Error`.
+
+## Nama2 Praktikum 2 PJaringan [11/11/2020]
+
+|   Test |                        Nama_Mahasiswa | File                                                      | Size      |
+|--------|---------------------------------------|-----------------------------------------------------------|-----------|
+|     OK |                 IRAWATI IKMAL (Info1) | Box_17040/PJaringan/praktikum2_client_17040.py            | 24/43/490 |
+|     OK |                 IRAWATI IKMAL (Info1) | Box_17040/PJaringan/praktikum2_server_17040.py            | 22/63/521 |
+|     OK |               IRFIANA SAFITRI (Info2) | Box_17071/PJaringan/praktikum2_client_17071.py            | 21/38/451 |
+|     OK |               IRFIANA SAFITRI (Info2) | Box_17071/PJaringan/praktikum2_server_17071.py            | 20/64/486 |
+|     OK | MAZHRUR RAHMAN KUSUMA WARDANI (Info1) | Box_20076/PJaringan/praktikum2/praktikum2_20076_client.py | 19/42/562 |
+|     OK | MAZHRUR RAHMAN KUSUMA WARDANI (Info1) | Box_20076/PJaringan/praktikum2/praktikum2_20076_server.py | 22/63/608 |
+|     OK |                  MUHLIS JAMIL (Info1) | Box_17010/PJaringan/praktikum2_17010_client.py            | 24/45/533 |
+|     OK |                  MUHLIS JAMIL (Info1) | Box_17010/PJaringan/praktikum2_17010_server.py            | 23/62/536 |
+|     OK |                 SUKUR MASIANA (Info1) | Box_17006/PJaringan/praktikum2_121055520117006_client.py  | 21/47/535 |
+|     OK |                 SUKUR MASIANA (Info1) | Box_17006/PJaringan/praktikum2_121055520117006_server.py  | 18/59/564 |
+|     OK |                 YOLKI HARSONO (Info1) | Box_17119/PJaringan/praktikum2_client_17119.py            | 24/43/490 |
+|     OK |                 YOLKI HARSONO (Info1) | Box_17119/PJaringan/praktikum2_server_17119.py            | 22/63/521 |
+
+
+#### Praktikum 1 PJaringan [Update 11/11/2020]
+
+|   Test   |                  Nama_Mahasiswa       | File                                                            | Size        |
+|----------|---------------------------------------|-----------------------------------------------------------------|-------------|
+|    Error |                 SUKUR MASIANA (Info1) | Box_17006/PJaringan/praktikum1_121055520117006_server.py        | 13/30/264   |
+|       OK |                 SUKUR MASIANA (Info1) | Box_17006/PJaringan/praktikum1_121055520117006_client.py        | 9/17/160    |
+|       OK |              ARISKA ABD KADIR (Info2) | Box_17066/PJaringan/praktikum1_17066_client.py                  | 7/17/188    |
+|       OK |              ARISKA ABD KADIR (Info2) | Box_17066/PJaringan/praktikum1_17066_server.py                  | 10/28/262   |
+|       OK |                 IRAWATI IKMAL (Info1) | Box_17040/PJaringan/praktikum1_17040_client.py                  | 7/17/163    |
+|       OK |                 IRAWATI IKMAL (Info1) | Box_17040/PJaringan/praktikum1_17040_server.py                  | 10/28/226   |
+|       OK |               IRFIANA SAFITRI (Info2) | Box_17071/PJaringan/praktikum1_17071_client.py                  | 7/17/163    |
+|       OK |               IRFIANA SAFITRI (Info2) | Box_17071/PJaringan/praktikum1_17071_server.py                  | 10/28/226   |
+|       OK |                KASMIL PAPALIA (Info1) | Box_17008/PJaringan/praktikum1_17008_client.py                  | 7/17/163    |
+|       OK |                KASMIL PAPALIA (Info1) | Box_17008/PJaringan/praktikum1_17008_server.py                  | 10/28/226   |
+|       OK | MAZHRUR RAHMAN KUSUMA WARDANI (Info1) | Box_20076/PJaringan/praktikum1/praktikum1_20076_client.py       | 9/18/184    |
+|       OK | MAZHRUR RAHMAN KUSUMA WARDANI (Info1) | Box_20076/PJaringan/praktikum1/praktikum1_20076_server.py       | 12/29/247   |
+|       OK |                  MUHLIS JAMIL (Info1) | Box_17010/PJaringan/praktikum1_17010_client.py                  | 10/20/188   |
+|       OK |                  MUHLIS JAMIL (Info1) | Box_17010/PJaringan/praktikum1_17010_server.py                  | 12/28/246   |
+|       OK |                 YOLKI HARSONO (Info1) | Box_17119/PJaringan/praktikum1_17119_client.py                  | 8/18/174    |
+|       OK |                 YOLKI HARSONO (Info1) | Box_17119/PJaringan/praktikum1_17119_server.py                  | 11/29/234   |
+|   Error  |       GILANG PRATAMA MALAGAPI (Info2) | Box_17058/PJaringan/pratikum1_17058_client.py                   | 10/17/185   |
+|      OK  |       GILANG PRATAMA MALAGAPI (Info2) | Box_17058/PJaringan/pratikum1_17058_server.py                   | 11/29/245   |
+
 
 
 ## Nama2 Praktikum 1 PJaringan
-* Hasil Test terhadap script yang dikirim ke dropbox, hasil test script banyak yang sudah `OK`, tapi masih ada yang `Error`.
 
-|   Test |                  Nama_Mahasiswa | File                                           | Size      |
+|   Test  |                  Nama_Mahasiswa | File                                           | Size      |
 |---------|---------------------------------|------------------------------------------------|-----------|
 |   Error | GILANG PRATAMA MALAGAPI (Info2) | Box_17058/PJaringan/pratikum1_17058_client.py  | 10/17/185 |
 |      OK | GILANG PRATAMA MALAGAPI (Info2) | Box_17058/PJaringan/pratikum1_17058_server.py  | 11/29/245 |
@@ -28,11 +70,35 @@ title: TheList
 ***
 ***
 
+## Nama2 Praktikum 3 PGame [11/11/2020]
+
+|     Test |          Nama_Mahasiswa | File                                       | Size        |
+|----------|-------------------------|--------------------------------------------|-------------|
+|       OK |   IRAWATI IKMAL (Info1) | Box_17040/PGame/praktikum3_code9_17040.py  | 17/32/233   |
+|       OK |   IRAWATI IKMAL (Info1) | Box_17040/PGame/praktikum3_code8_17040.py  | 25/43/214   |
+|       OK |   IRAWATI IKMAL (Info1) | Box_17040/PGame/praktikum3_code7_17040.py  | 29/127/559  |
+|       OK |   IRAWATI IKMAL (Info1) | Box_17040/PGame/praktikum3_code12_17040.py | 7/37/219    |
+|       OK |   IRAWATI IKMAL (Info1) | Box_17040/PGame/praktikum3_code11_17040.py | 27/111/489  |
+|       OK |   IRAWATI IKMAL (Info1) | Box_17040/PGame/praktikum3_code10_17040.py | 18/82/312   |
+|       OK | NURSALIMA ISHAK (Info2) | Box_17062/PGame/praktikum3_17062.py        | 68/234/1417 |
+|       OK | IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum3_code9_17071.py  | 7/32/167    |
+|       OK | IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum3_code8_17071.py  | 6/28/155    |
+|       OK | IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum3_code7_17071.py  | 8/32/193    |
+|       OK | IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum3_code12_17071.py | 4/11/73     |
+|       OK | IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum3_code11_17071.py | 3/13/62     |
+|       OK | IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum3_code10_17071.py | 7/29/162    |
+|       OK |   YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum3_code9_17119.py  | 17/32/233   |
+|       OK |   YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum3_code8_17119.py  | 25/43/214   |
+|       OK |   YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum3_code7_17119.py  | 29/127/559  |
+|       OK |   YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum3_code12_17119.py | 7/37/219    |
+|       OK |   YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum3_code11_17119.py | 27/111/489  |
+|       OK |   YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum3_code10_17119.py | 18/82/312   |
+
 
 ## Nama2 Praktikum 1 dan 2 PGame
-* Hasil Test terhadap script yang dikirim ke dropbox, hasil test script banyak yang sudah `OK`, tapi masih ada yang `Error`.
 
-|   Test |                  Nama_Mahasiswa | File                                                            | Size        |
+
+|   Test |                  Nama_Mahasiswa | File                                                             | Size        |
 |---------|---------------------------------|-----------------------------------------------------------------|-------------|
 |      OK |           SUKUR MASIANA (Info1) | Box_17006/PGame/code5_121055520117006.py                        | 38/101/624  |
 |      OK |           SUKUR MASIANA (Info1) | Box_17006/PGame/code6_121055520117006.py                        | 73/334/1980 |
