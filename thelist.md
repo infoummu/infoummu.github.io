@@ -6,7 +6,7 @@ title: TheList
 * Daftar Nama2 yang mengumpulkan hasil praktikum ke dropbox, daftar nama2 ini akan selalu di update...
 * Hasil Test terhadap script yang dikirim ke dropbox, hasil test script banyak yang sudah `OK`, tapi masih ada yang `Error`.
 
-## Nama2 Praktikum 2 PJaringan [11/11/2020]
+## Nama2 Praktikum 2 PJaringan [Update 11/11/2020]
 
 |   Test |                        Nama_Mahasiswa | File                                                      | Size      |
 |--------|---------------------------------------|-----------------------------------------------------------|-----------|
@@ -70,7 +70,7 @@ title: TheList
 ***
 ***
 
-## Nama2 Praktikum 3 PGame [11/11/2020]
+## Nama2 Praktikum 3 PGame [Update 11/11/2020]
 
 |     Test |          Nama_Mahasiswa | File                                       | Size        |
 |----------|-------------------------|--------------------------------------------|-------------|
