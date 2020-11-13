@@ -20,7 +20,8 @@ Materi Tambahan untuk Praktikum Mata Kuliah `Pemrograman Game` dan `Pemrograman 
 2. [www.learnpython.org](https://www.learnpython.org/){:target="_blank"}
 3. [www.tutorialspoint.com](https://www.tutorialspoint.com/python/index.htm){:target="_blank"}
 4. [https://realpython.com/pygame-a-primer/](https://realpython.com/pygame-a-primer/){:target="_blank"}
-
-
+4. [https://realpython.com/pygame-a-primer/](https://kopiding.in/tutorial-python-3/){:target="_blank"}
+4. [https://www.pythonindo.com/](https://www.pythonindo.com/){:target="_blank"}
+4. [https://belajarpython.com/](https://belajarpython.com/){:target="_blank"}
 
 ***

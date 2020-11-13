@@ -2,6 +2,29 @@
 title: Kuliah Pemrograman Jaringan
 published: true
 ---
+## PERTEMUAN KeLIMA 05 :
+
+|Status  | : Online                   |
+|Scedule | : Offline                  |
+|Waktu   | : 13/11/2020               |
+|Tema    | : Praktikum 4              |
+
+### File PDF Praktikum 4 :
+1. Silahkan ambil/download file praktikum berikut ini, baca dan lakukan praktikum, [Download File Praktikum 4](assets/reff/pjar/Praktikum_PJar_4.pdf){:target="_blank"}
+
+
+### Arahan Untuk Praktikum 4 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Jumat 20/11/2020`
+
+
+***
+***
 
 ## PERTEMUAN KeEMPAT 04 :
 
