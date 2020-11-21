@@ -4,6 +4,58 @@ published: true
 ---
 
 
+## netifaces to scapy [praktikum 4]
+
+Materi ini atau script dibawah cukup lakukan praktikum untuk tambahan saja dan tidak harus dikumpuk/upload ke dropbox,
+tapi yang mau upload boleh dan akan dipertimbangkan sebagai nilai tambahan...
+
+
+
+Pada Materi Praktikum 4 Untuk teman2 yang menggunakan Windows dan gagal install `netifaces` pada praktikum 4
+bisa mencoba modul lain yaitu `scapy`,
+#### Install `scapy`
+    - pip3 install scapy
+    - atau : pip3 install --user scapy
+
+#### The Script :
+
+```py
+
+# ----------------------------
+# Informatika UMMU Ternate
+# Script Praktikum 4 PJaringan
+# * Get Network Interface Name
+# * Get IP From Network Interface
+# * Simpan : praktikum4_net-win_npm.py
+# ----------------------------
+import scapy.all as sc
+
+print("")
+for l in sc.get_windows_if_list():
+    try:
+        print(" {:<20} : {}".format("Nama Interface",l["name"]))
+        print(" {:<20} : {}".format("IP Address",l["ips"][1]))
+        print(" {:<20} : {}".format("MAC Address",l["mac"]))
+        print(" {:<20} : {}".format("Deskripsi",l["description"]))
+        print("-"*35)
+    except:
+        pass
+
+```
+
+#### Hasil Screenshot :
+
+Hasil dari Script diatas saat dijalankan pada mesin Windows 10 dalam tangkapan layar (screenshot) :
+
+![Screenshot Get Interface](assets/reff/pjar/sc_get_net_iface.png)
+
+
+***
+***
+
+
+
+
 ## PERTEMUAN KeENAM 06 :
 
 |Status  | : Online                   |

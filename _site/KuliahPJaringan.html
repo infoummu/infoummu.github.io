@@ -15,8 +15,8 @@
 <meta property="og:title" content="Kuliah Pemrograman Jaringan" />
 <meta name="author" content="Informatika UMMU" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="PERTEMUAN KeENAM 06 :" />
-<meta property="og:description" content="PERTEMUAN KeENAM 06 :" />
+<meta name="description" content="netifaces to scapy [praktikum 4]" />
+<meta property="og:description" content="netifaces to scapy [praktikum 4]" />
 <link rel="canonical" href="http://localhost:4001/KuliahPJaringan" />
 <meta property="og:url" content="http://localhost:4001/KuliahPJaringan" />
 <meta property="og:site_name" content="Info UMMU Ternate" />
@@ -25,7 +25,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Kuliah Pemrograman Jaringan" />
 <script type="application/ld+json">
-{"url":"http://localhost:4001/KuliahPJaringan","@type":"BlogPosting","headline":"Kuliah Pemrograman Jaringan","dateModified":"2020-10-14T00:00:00+09:00","datePublished":"2020-10-14T00:00:00+09:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4001/KuliahPJaringan"},"author":{"@type":"Person","name":"Informatika UMMU"},"description":"PERTEMUAN KeENAM 06 :","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4001/KuliahPJaringan","@type":"BlogPosting","headline":"Kuliah Pemrograman Jaringan","dateModified":"2020-10-14T00:00:00+09:00","datePublished":"2020-10-14T00:00:00+09:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4001/KuliahPJaringan"},"author":{"@type":"Person","name":"Informatika UMMU"},"description":"netifaces to scapy [praktikum 4]","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
  
 
@@ -153,7 +153,53 @@
         <article>
   <h2>Kuliah Pemrograman Jaringan</h2>
   <time datetime="2020-10-14T00:00:00+09:00" class="by-line">14 Oct 2020</time>
-  <h2 id="pertemuan-keenam-06-">PERTEMUAN KeENAM 06 :</h2>
+  <h2 id="netifaces-to-scapy-praktikum-4">netifaces to scapy [praktikum 4]</h2>
+
+<p>Materi ini atau script dibawah cukup lakukan praktikum untuk tambahan saja dan tidak harus dikumpuk/upload ke dropbox,
+tapi yang mau upload boleh dan akan dipertimbangkan sebagai nilai tambahan…</p>
+
+<p>Pada Materi Praktikum 4 Untuk teman2 yang menggunakan Windows dan gagal install <code class="highlighter-rouge">netifaces</code> pada praktikum 4
+bisa mencoba modul lain yaitu <code class="highlighter-rouge">scapy</code>,</p>
+<h4 id="install-scapy">Install <code class="highlighter-rouge">scapy</code></h4>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- pip3 install scapy
+- atau : pip3 install --user scapy
+</code></pre></div></div>
+
+<h4 id="the-script-">The Script :</h4>
+
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c1"># ----------------------------
+# Informatika UMMU Ternate
+# Script Praktikum 4 PJaringan
+# * Get Network Interface Name
+# * Get IP From Network Interface
+# * Simpan : praktikum4_net-win_npm.py
+# ----------------------------
+</span><span class="kn">import</span> <span class="nn">scapy.all</span> <span class="k">as</span> <span class="n">sc</span>
+
+<span class="k">print</span><span class="p">(</span><span class="s">""</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">l</span> <span class="ow">in</span> <span class="n">sc</span><span class="o">.</span><span class="n">get_windows_if_list</span><span class="p">():</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">" {:&lt;20} : {}"</span><span class="o">.</span><span class="nb">format</span><span class="p">(</span><span class="s">"Nama Interface"</span><span class="p">,</span><span class="n">l</span><span class="p">[</span><span class="s">"name"</span><span class="p">]))</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">" {:&lt;20} : {}"</span><span class="o">.</span><span class="nb">format</span><span class="p">(</span><span class="s">"IP Address"</span><span class="p">,</span><span class="n">l</span><span class="p">[</span><span class="s">"ips"</span><span class="p">][</span><span class="mi">1</span><span class="p">]))</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">" {:&lt;20} : {}"</span><span class="o">.</span><span class="nb">format</span><span class="p">(</span><span class="s">"MAC Address"</span><span class="p">,</span><span class="n">l</span><span class="p">[</span><span class="s">"mac"</span><span class="p">]))</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">" {:&lt;20} : {}"</span><span class="o">.</span><span class="nb">format</span><span class="p">(</span><span class="s">"Deskripsi"</span><span class="p">,</span><span class="n">l</span><span class="p">[</span><span class="s">"description"</span><span class="p">]))</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">"-"</span><span class="o">*</span><span class="mi">35</span><span class="p">)</span>
+    <span class="k">except</span><span class="p">:</span>
+        <span class="k">pass</span>
+
+</code></pre></div></div>
+
+<h4 id="hasil-screenshot-">Hasil Screenshot :</h4>
+
+<p>Hasil dari Script diatas saat dijalankan pada mesin Windows 10 dalam tangkapan layar (screenshot) :</p>
+
+<p><img src="assets/reff/pjar/sc_get_net_iface.png" alt="Screenshot Get Interface" /></p>
+
+<hr />
+<hr />
+
+<h2 id="pertemuan-keenam-06-">PERTEMUAN KeENAM 06 :</h2>
 
 <table>
   <tbody>
