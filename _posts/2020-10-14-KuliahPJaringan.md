@@ -2,6 +2,38 @@
 title: Kuliah Pemrograman Jaringan
 published: true
 ---
+
+
+## PERTEMUAN KeENAM 06 :
+
+|Status  | : Online                   |
+|Scedule | : Online                   |
+|Waktu   | : 21/11/2020               |
+|Tema    | : Praktikum 5              |
+
+### File PDF Praktikum 5 :
+
+Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 5](assets/reff/pjar/Praktikum_PJar_5.pdf){:target="_blank"}
+
+### Materi Praktikum
+
+Telnet, Telnet merupakan perintah yang digunakan untuk komunikasi interaktife dengan host lainnya menggunakan protokol TELNET. Lebih lanjut silahkan baca di modul...
+
+
+### Arahan Untuk Praktikum 5 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Sabtu 28/11/2020`
+
+
+***
+***
+
+
 ## PERTEMUAN KeLIMA 05 :
 
 |Status  | : Online                   |
