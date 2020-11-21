@@ -6,7 +6,42 @@ title: TheList
 * Daftar Nama2 yang mengumpulkan hasil praktikum ke dropbox, daftar nama2 ini akan selalu di update...
 * Hasil Test terhadap script yang dikirim ke dropbox, hasil test script banyak yang sudah `OK`, tapi masih ada yang `Error`.
 
-## Nama2 Praktikum 2 PJaringan [Update 11/11/2020]
+### Nama2 Praktikum 4 PJaringan [Update 21/11/2020]
+
+| Hasil   | Nama Mahasiswa             | File                                                             | Size        |    |
+|---------|----------------------------|------------------------------------------------------------------|-------------|----|
+| OK      | SUKUR MASIANA (Info1)      | Box_17006/PJaringan/praktikum4/praktikum4_net_121055520117006.py | 34/84/988   |    |
+| OK      | GUNAWAN HASIM (Info1)      | Box_17009/PJaringan/praktikum4_17009_netifac.py                  | 57/211/1975 |    |
+| OK      | MUHLIS JAMIL (Info1)       | Box_17010/PJaringan/praktikum4_17010_netifac.py                  | 57/211/1975 |    |
+| OK      | FAJRIANI A LOLINGA (Info2) | Box_17051/PJaringan/praktikum4_net_121055520117051.py            | 34/84/988   |    |
+| OK      | SUPRIYADIN HIDAYAT (Info2) | Box_17054/PJaringan/praktikum4_net.17054.py                      | 58/185/1962 |    |
+| OK      | LAURA EVITA DISINI (Info2) | Box_17056/PJaringan/praktikum4_net_121055520117056.py            | 34/84/988   |    |
+| OK      | NURSALIMA ISHAK (Info2)    | Box_17062/PJaringan/praktikum4_net_17062.py                      | 58/185/1962 |    |
+| OK      | ARISKA ABD KADIR (Info2)   | Box_17066/PJaringan/praktikum4_net_17066.py                      | 34/101/953  |    |
+| OK      | IRFIANA SAFITRI (Info2)    | Box_17071/PJaringan/praktikum4_net_17071.py                      | 67/214/1946 |    |
+| OK      | YOLKI HARSONO (Info1)      | Box_17119/PJaringan/praktikum4_net_17119.py                      | 66/214/1945 |    |
+
+
+### Nama2 Praktikum 3 PJaringan [Update 19/11/2020]
+
+|   Test |                        Nama_Mahasiswa | File                                                                   | Size        |    |
+|--------|---------------------------------------|------------------------------------------------------------------------|-------------|----|
+|     OK |                 SUKUR MASIANA (Info1) | Box_17006/PJaringan/praktikum3/praktikum3_sc_server_101255520117006.py | 54/148/1567 |    |
+|     OK |                 SUKUR MASIANA (Info1) | Box_17006/PJaringan/praktikum3/praktikum3_sc_client_101255520117006.py | 54/147/1563 |    |
+|     OK |                  MUHLIS JAMIL (Info1) | Box_17010/PJaringan/praktikum3_17010_sc.py                             | 58/149/1689 |    |
+|     OK |          MUHAJJIR AKBAR SADEK (Info1) | Box_17027/PJaringan/praktikum3_17027_sc.py                             | 58/149/1691 |    |
+|     OK |            SUPRIYADIN HIDAYAT (Info2) | Box_17054/PJaringan/praktikum3_sc_17054.py                             | 58/149/1689 |    |
+|     OK |               NURSALIMA ISHAK (Info2) | Box_17062/PJaringan/praktikum3_sc_17062.py                             | 58/149/1689 |    |
+|     OK |              ARISKA ABD KADIR (Info2) | Box_17066/PJaringan/praktikum3_sc_17066.py                             | 57/148/1671 |    |
+|     OK |               IRFIANA SAFITRI (Info2) | Box_17071/PJaringan/praktikum3_sc_17071.py                             | 60/158/1564 |    |
+|     OK |                 YOLKI HARSONO (Info1) | Box_17119/PJaringan/praktikum3_sc_17119.py                             | 62/159/1574 |    |
+|     OK | MAZHRUR RAHMAN KUSUMA WARDANI (Info1) | Box_20076/PJaringan/praktikum3/praktikum3_sc_20076.py                  | 62/149/1621 |    |
+|     OK |                 GUNAWAN HASIM (Info1) | Box_17009/PJaringan/praktikum3_17009_sc.py                             | 58/149/1691 |    |
+
+
+
+
+### Nama2 Praktikum 2 PJaringan [Update 11/11/2020]
 
 |   Test |                        Nama_Mahasiswa | File                                                      | Size      |
 |--------|---------------------------------------|-----------------------------------------------------------|-----------|
@@ -24,7 +59,7 @@ title: TheList
 |     OK |                 YOLKI HARSONO (Info1) | Box_17119/PJaringan/praktikum2_server_17119.py            | 22/63/521 |
 
 
-#### Praktikum 1 PJaringan [Update 11/11/2020]
+### Praktikum 1 PJaringan [Update 11/11/2020]
 
 |   Test   |                  Nama_Mahasiswa       | File                                                            | Size        |
 |----------|---------------------------------------|-----------------------------------------------------------------|-------------|
@@ -49,7 +84,7 @@ title: TheList
 
 
 
-## Nama2 Praktikum 1 PJaringan
+### Nama2 Praktikum 1 PJaringan
 
 |   Test  |                  Nama_Mahasiswa | File                                           | Size      |
 |---------|---------------------------------|------------------------------------------------|-----------|
@@ -70,7 +105,92 @@ title: TheList
 ***
 ***
 
-## Nama2 Praktikum 3 PGame [Update 11/11/2020]
+### Nama2 Praktikum 5 PGame [Update 21/11/2020]
+
+| Hasil   | Nama Mahasiswa             | File                                                                                           | Size       |    |
+|---------|----------------------------|------------------------------------------------------------------------------------------------|------------|----|
+| OK      | SUKUR MASIANA (Info1)      | Box_17006/PGame/praktikum5/praktikum5_code21_121055520117006.py | 15/55/271  |    |
+| OK      | SUKUR MASIANA (Info1)      | Box_17006/PGame/praktikum5/praktikum5_code20_121055520117006.py | 3/17/176   |    |
+| OK      | SUKUR MASIANA (Info1)      | Box_17006/PGame/praktikum5/praktikum5_code19_121055520117006.py | 7/18/184   |    |
+| OK      | SUKUR MASIANA (Info1)      | Box_17006/PGame/praktikum5/praktikum5_code18_121055520117006.py | 15/49/458  |    |
+| OK      | SUKUR MASIANA (Info1)      | Box_17006/PGame/praktikum5/praktikum5_code17_121055520117006.py | 5/15/211   |    |
+| OK      | FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum5_code21_121055520117051.py            | 15/55/271  |    |
+| OK      | FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum5_code20_121055520117051.py            | 3/17/176   |    |
+| OK      | FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum5_code19_121055520117051.py            | 7/18/184   |    |
+| OK      | FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum5_code18_121055520117051.py            | 15/49/458  |    |
+| OK      | FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum5_code17_121055520117051.py            | 5/15/211   |    |
+| OK      | SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum5_code21_17054.py                      | 24/76/566  |    |
+| OK      | SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum5_code20_17054.py                      | 14/47/371  |    |
+| OK      | SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum5_code19_17054.py                      | 16/42/418  |    |
+| OK      | SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum5_code18_17054.py                      | 24/81/616  |    |
+| OK      | SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum5_code17_17054.py                      | 17/50/429  |    |
+| OK      | LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum5_code21_121055520117056.py            | 15/55/271  |    |
+| OK      | LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum5_code20_121055520117056.py            | 3/17/176   |    |
+| OK      | LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum5_code19_121055520117056.py            | 7/18/184   |    |
+| OK      | LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum5_code18_121055520117056.py            | 15/49/458  |    |
+| OK      | LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum5_code17_121055520117056.py            | 5/15/211   |    |
+| OK      | NURSALIMA ISHAK (Info2)    | Box_17062/PGame/praktikum5_code21_17062.py                      | 24/76/566  |    |
+| OK      | NURSALIMA ISHAK (Info2)    | Box_17062/PGame/praktikum5_code20_17062.py                      | 14/47/371  |    |
+| OK      | NURSALIMA ISHAK (Info2)    | Box_17062/PGame/praktikum5_code19_17062.py                      | 16/42/418  |    |
+| OK      | NURSALIMA ISHAK (Info2)    | Box_17062/PGame/praktikum5_code18_17062.py                      | 24/81/616  |    |
+| OK      | NURSALIMA ISHAK (Info2)    | Box_17062/PGame/praktikum5_code17_17062.py                      | 17/50/429  |    |
+| OK      | ARISKA ABD KADIR (Info2)   | Box_17066/PGame/praktikum5_code21_17066.py                      | 21/55/280  |    |
+| OK      | ARISKA ABD KADIR (Info2)   | Box_17066/PGame/praktikum5_code20_17066.py                      | 5/17/181   |    |
+| OK      | ARISKA ABD KADIR (Info2)   | Box_17066/PGame/praktikum5_code19_17066.py                      | 6/17/188   |    |
+| OK      | ARISKA ABD KADIR (Info2)   | Box_17066/PGame/praktikum5_code18_17066.py                      | 9/28/288   |    |
+| OK      | ARISKA ABD KADIR (Info2)   | Box_17066/PGame/praktikum5_code17_17066.py                      | 7/17/222   |    |
+| OK      | IRFIANA SAFITRI (Info2)    | Box_17071/PGame/praktikum5_code21_17071.py                      | 25/91/536  |    |
+| OK      | IRFIANA SAFITRI (Info2)    | Box_17071/PGame/praktikum5_code20_17071.py                      | 15/50/393  |    |
+| OK      | IRFIANA SAFITRI (Info2)    | Box_17071/PGame/praktikum5_code19_17071.py                      | 14/48/414  |    |
+| OK      | IRFIANA SAFITRI (Info2)    | Box_17071/PGame/praktikum5_code18_17071.py                      | 23/81/636  |    |
+| OK      | IRFIANA SAFITRI (Info2)    | Box_17071/PGame/praktikum5_code17_17071.py                      | 17/54/461  |    |
+| OK      | YOLKI HARSONO (Info1)      | Box_17119/PGame/praktikum5_code21_17119.py                      | 31/122/644 |    |
+| OK      | YOLKI HARSONO (Info1)      | Box_17119/PGame/praktikum5_code20_17119.py                      | 14/68/468  |    |
+| OK      | YOLKI HARSONO (Info1)      | Box_17119/PGame/praktikum5_code19_17119.py                      | 15/73/521  |    |
+| OK      | YOLKI HARSONO (Info1)      | Box_17119/PGame/praktikum5_code18_17119.py                      | 22/108/754 |    |
+| OK      | YOLKI HARSONO (Info1)      | Box_17119/PGame/praktikum5_code17_17119.py                      | 15/76/531  |    |
+
+
+### Nama2 Praktikum 4 PGame [Update 19/11/2020]
+
+|   Test |                Nama_Mahasiswa | File                                                            | Size        |    |
+|--------|-------------------------------|-----------------------------------------------------------------|-------------|----|
+|     OK |         SUKUR MASIANA (Info1) | Box_17006/PGame/praktikum4/praktikum4_code16_121055520117006.py | 33/82/874   |    |
+|     OK |         SUKUR MASIANA (Info1) | Box_17006/PGame/praktikum4/praktikum4_code15_121055520117006.py | 35/125/1032 |    |
+|     OK |         SUKUR MASIANA (Info1) | Box_17006/PGame/praktikum4/praktikum4_code14_121055520117006.py | 32/87/674   |    |
+|     OK |         SUKUR MASIANA (Info1) | Box_17006/PGame/praktikum4/praktikum4_code13_121055520117006.py | 60/107/1063 |    |
+|     OK | MUHAMMAD ZAKRI NURDIN (Info1) | Box_17025/PGame/praktikum4_121055520117025_netifac.py           | 57/211/1975 |    |
+|     OK |    FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum4_code16_121055520117051.py            | 33/82/874   |    |
+|     OK |    FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum4_code15_121055520117051.py            | 35/125/1032 |    |
+|     OK |    FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum4_code14_121055520117051.py            | 32/87/674   |    |
+|     OK |    FAJRIANI A LOLINGA (Info2) | Box_17051/PGame/praktikum4_code13_121055520117051.py            | 60/107/1063 |    |
+|     OK |    SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum4_code16_17054.py                      | 64/244/1759 |    |
+|     OK |    SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum4_code15_17054.py                      | 60/224/1501 |    |
+|     OK |    SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum4_code14_17054.py                      | 24/89/495   |    |
+|     OK |    SUPRIYADIN HIDAYAT (Info2) | Box_17054/PGame/praktikum4_code13_17054.py                      | 55/97/815   |    |
+|     OK |    LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum4_code16_121055520117056.py            | 33/82/874   |    |
+|     OK |    LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum4_code15_121055520117056.py            | 35/125/1032 |    |
+|     OK |    LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum4_code14_121055520117056.py            | 32/87/674   |    |
+|     OK |    LAURA EVITA DISINI (Info2) | Box_17056/PGame/praktikum4_code13_121055520117056.py            | 60/107/1063 |    |
+|     OK |       NURSALIMA ISHAK (Info2) | Box_17062/PGame/praktikum4_code16_17062.py                      | 64/244/1759 |    |
+|     OK |       NURSALIMA ISHAK (Info2) | Box_17062/PGame/praktikum4_code15_17062.py                      | 60/224/1501 |    |
+|     OK |       NURSALIMA ISHAK (Info2) | Box_17062/PGame/praktikum4_code14_17062.py                      | 24/89/495   |    |
+|     OK |       NURSALIMA ISHAK (Info2) | Box_17062/PGame/praktikum4_code13_17062.py                      | 55/97/815   |    |
+|     OK |      ARISKA ABD KADIR (Info2) | Box_17066/PGame/praktikum4_code16_17066.py                      | 35/130/1066 |    |
+|     OK |      ARISKA ABD KADIR (Info2) | Box_17066/PGame/praktikum4_code15_17066.py                      | 31/103/752  |    |
+|     OK |      ARISKA ABD KADIR (Info2) | Box_17066/PGame/praktikum4_code14_17066.py                      | 17/53/276   |    |
+|     OK |      ARISKA ABD KADIR (Info2) | Box_17066/PGame/praktikum4_code13_17066.py                      | 55/83/767   |    |
+|     OK |       IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum4_code16_17071.py                      | 60/220/1621 |    |
+|     OK |       IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum4_code15_17071.py                      | 61/205/1473 |    |
+|     OK |       IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum4_code14_17071.py                      | 23/92/510   |    |
+|     OK |       IRFIANA SAFITRI (Info2) | Box_17071/PGame/praktikum4_code13_17071.py                      | 52/75/740   |    |
+|     OK |         YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum4_code16_17119.py                      | 44/243/1590 |    |
+|     OK |         YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum4_code15_17119.py                      | 52/247/1536 |    |
+|     OK |         YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum4_code14_17119.py                      | 24/104/561  |    |
+|     OK |         YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum4_code13_17119.py                      | 62/103/763  |    |
+
+
+### Nama2 Praktikum 3 PGame [Update 11/11/2020]
 
 |     Test |          Nama_Mahasiswa | File                                       | Size        |
 |----------|-------------------------|--------------------------------------------|-------------|
@@ -95,7 +215,7 @@ title: TheList
 |       OK |   YOLKI HARSONO (Info1) | Box_17119/PGame/praktikum3_code10_17119.py | 18/82/312   |
 
 
-## Nama2 Praktikum 1 dan 2 PGame
+### Nama2 Praktikum 1 dan 2 PGame
 
 
 |   Test |                  Nama_Mahasiswa | File                                                             | Size        |
@@ -135,7 +255,7 @@ title: TheList
 ***
 ***
 
-## Nama2 dan Akun Dropbox
+### Nama2 dan Akun Dropbox
 
 |   No |   NPM |  Dropbox_Akun                   |  Nama_Mahasiswa                       |
 |------|-------|---------------------------------|---------------------------------------|
