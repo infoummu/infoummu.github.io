@@ -4,10 +4,45 @@ published: true
 ---
 
 
+## PERTEMUAN DELAPAN 08 :
+
+|Status  | : Online                      |
+|Schedule| : Online                      |
+|Waktu   | : 28/11/2020                  |
+|Tema    | : Praktikum 7 Pemrograman Game|
+
+### INFO `UTS`
+
+<b> DIINFORMASIKAN KEPADA SEMUA MAHASISWA, INSYA-ALLAH MINGGU DEPAN (sabtu 05/12/2020) `UTS UNTUK PGAME` </b>
+
+### Modul Praktikum 7
+
+1. Diharapkan Mahasiswa mengikuti arahan yang ada di modul dalam mengerjakan praktikum setelah mendownload modulnya pada tautan dibawah ini
+2. Doanload Modul berikut : [Modul Praktikum 7](assets/reff/pgame/Modul_Pgame_prak_7.pdf){:target="_blank"}
+
+
+### HASIL Praktukum Kumpul ke dropbox
+
+1. Mahasiswa diharapkan membaca Modul dan melakukan praktikum sesuai dengan arahan yang ada di modul,
+
+2. Kerjakan praktikum bersama teman2 lebih bagus sehingga bisa bertanya bagian materi yang tidak dipahami ke teman belajarnya, atau bisa juga bertanya langsung ke saya bisa lewat grup WA atau langsung WA personal...
+
+3. Lakukan praktikum dan usahakan hasil praktikum tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
+
+
+### Waktu Kumpul
+
+- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Sabtu 05/12/2020`
+
+
+***
+***
+
+
 ## PERTEMUAN TUJUH 07 :
 
 |Status  | : Online                      |
-|Scedule | : Online                      |
+|Schedule | : Online                      |
 |Waktu   | : 21/11/2020                  |
 |Tema    | : Praktikum 6 Pemrograman Game|
 
@@ -38,7 +73,7 @@ published: true
 ## PERTEMUAN ENAM 06 :
 
 |Status  | : Online                      |
-|Scedule | : Offline                     |
+|Schedule | : Offline                     |
 |Waktu   | : 13/11/2020                  |
 |Tema    | : Praktikum 5 Pemrograman Game|
 
@@ -67,7 +102,7 @@ published: true
 ## PERTEMUAN LIMA 05 :
 
 |Status  | : Online                      |
-|Scedule | : Online                      |
+|Schedule | : Online                      |
 |Waktu   | : 06/11/2020                  |
 |Tema    | : Praktikum 4 Pemrograman Game|
 
@@ -95,7 +130,7 @@ published: true
 ## PERTEMUAN EMPAT 04 :
 
 |Status  | : Online                      |
-|Scedule | : Offline                     |
+|Schedule | : Offline                     |
 |Waktu   | : 30/10/2020                  |
 |Tema    | : Praktikum 3 Pemrograman Game|
 
@@ -125,7 +160,7 @@ published: true
 ## PERTEMUAN TIGA 03 :
 
 |Status  | : Online                    |
-|Scedule | : Online                    |
+|Schedule | : Online                    |
 |Waktu   | : 23/10/2020                 |
 |Tema    | : Praktikum 2 Pemrograman Game|
 
@@ -156,7 +191,7 @@ published: true
 ## PERTEMUAN DUA 02 :
 
 |Status  | : Offline                    |
-|Scedule | : Offline                    |
+|Schedule | : Offline                    |
 |Waktu   | : 16/10/2020                 |
 |Tema    | : Praktikum 1 Pemrograman Game |
 
@@ -178,7 +213,7 @@ published: true
 ## PERTEMUAN PERTAMA 01 :
 
 |Status  | : Online                   |
-|Scedule | : Online                   |
+|Schedule | : Online                   |
 |Waktu   | : 10/10/2020               |
 |Tema    | : Arahan dan Kontrak Kuliah|
 

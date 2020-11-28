@@ -3,6 +3,41 @@ title: Kuliah Pemrograman Jaringan
 published: true
 ---
 
+## PERTEMUAN KeTUJUH 07 :
+
+|Status  | : Online                   |
+|Schedule | : Offline                  |
+|Waktu   | : 28/11/2020               |
+|Tema    | : Praktikum 6              |
+
+
+### INFO `UTS`
+
+<b> DIINFORMASIKAN KEPADA SEMUA MAHASISWA, INSYA-ALLAH MINGGU DEPAN (sabtu 05/12/2020) `UTS UNTUK PJaringan` </b>
+
+
+### File PDF Praktikum 6 :
+
+Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 6](assets/reff/pjar/Praktikum_PJar_6.pdf){:target="_blank"}
+
+### Materi Praktikum
+
+Telnet, SSH adalah protokol jaringan yang memungkinkan pertukaran data melalui jalur aman antara dua perangkat jaringan. Silahkan lanjutkan praktikum mengikuti arahan yang ada di file pdf yang didownload...
+
+
+### Arahan Untuk Praktikum 6 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Sabtu 05/12/2020`
+
+
+***
+***
+
 
 ## netifaces to scapy [praktikum 4]
 
@@ -59,7 +94,7 @@ Hasil dari Script diatas saat dijalankan pada mesin Windows 10 dalam tangkapan l
 ## PERTEMUAN KeENAM 06 :
 
 |Status  | : Online                   |
-|Scedule | : Online                   |
+|Schedule | : Online                   |
 |Waktu   | : 21/11/2020               |
 |Tema    | : Praktikum 5              |
 
@@ -89,7 +124,7 @@ Telnet, Telnet merupakan perintah yang digunakan untuk komunikasi interaktife de
 ## PERTEMUAN KeLIMA 05 :
 
 |Status  | : Online                   |
-|Scedule | : Offline                  |
+|Schedule | : Offline                  |
 |Waktu   | : 13/11/2020               |
 |Tema    | : Praktikum 4              |
 
@@ -113,7 +148,7 @@ Telnet, Telnet merupakan perintah yang digunakan untuk komunikasi interaktife de
 ## PERTEMUAN KeEMPAT 04 :
 
 |Status  | : Online                   |
-|Scedule | : Online                   |
+|Schedule | : Online                   |
 |Waktu   | : 10/11/2020               |
 |Tema    | : Praktikum 3              |
 
@@ -139,7 +174,7 @@ Telnet, Telnet merupakan perintah yang digunakan untuk komunikasi interaktife de
 ## PERTEMUAN KeTIGA 03 :
 
 |Status  | : Online                   |
-|Scedule | : Offline                  |
+|Schedule | : Offline                  |
 |Waktu   | : 30/10/2020               |
 |Tema    | : Praktikum 2              |
 
@@ -165,7 +200,7 @@ Telnet, Telnet merupakan perintah yang digunakan untuk komunikasi interaktife de
 ## PERTEMUAN KEDUA 02 :
 
 |Status  | : Online                   |
-|Scedule | : Online                   |
+|Schedule | : Online                   |
 |Waktu   | : 23/10/2020               |
 |Tema    | : Praktikum 1              |
 
@@ -194,7 +229,7 @@ Telnet, Telnet merupakan perintah yang digunakan untuk komunikasi interaktife de
 ## PERTEMUAN PERTAMA 01 :
 
 |Status  | : Offline                    |
-|Scedule | : Offline                    |
+|Schedule | : Offline                    |
 |Waktu   | : 16/10/2020                 |
 |Tema    | : Arahan dan Kontrak Kuliah  |
 
