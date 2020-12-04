@@ -3,6 +3,38 @@ title: Kuliah Pemrograman Jaringan
 published: true
 ---
 
+## PERTEMUAN KeTUJUH 08 :
+
+|Status   | : Offline                   |
+|Schedule | : Offline                  |
+|Waktu    | : 04/12/2020               |
+|Tema     | : Praktikum 7              |
+
+
+### File PDF Praktikum 7 :
+
+Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 7](assets/reff/pjar/Praktikum_PJar_7.pdf){:target="_blank"}
+
+### Materi Praktikum
+
+Telnet, SSH adalah protokol jaringan yang memungkinkan pertukaran data melalui jalur aman antara dua perangkat jaringan. Silahkan lanjutkan praktikum mengikuti arahan yang ada di file pdf yang didownload...
+
+
+### Arahan Untuk Praktikum 7 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum yang dikerjakan di LAB (Offline) Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Jumat 04/12/2020`
+
+
+***
+***
+
+
+
 ## PERTEMUAN KeTUJUH 07 :
 
 |Status  | : Online                   |
