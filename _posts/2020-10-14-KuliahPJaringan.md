@@ -3,9 +3,35 @@ title: Kuliah Pemrograman Jaringan
 published: true
 ---
 
-## PERTEMUAN KeTUJUH 08 :
+## PERTEMUAN KeSEMBILAN 09 - UTS :
 
-|Status   | : Offline                   |
+|Status   | : Online                   |
+|Schedule | : Online                   |
+|Waktu    | : 10/12/2020               |
+|Tema     | : Praktikum 8 UTS          |
+
+
+### File PDF Praktikum 8 - UTS :
+
+Silahkan download file praktikumnya, harap dibaca dan lakukan UTS sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 8 UTS](assets/reff/pjar/Praktikum_PJar_8_UTS.pdf){:target="_blank"}
+
+
+### Arahan Untuk Praktikum 8 - UTS :
+
+Lakukan UTS sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, setelah itu silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+
+### Waktu Kumpul
+
+Hasil UTS yang dikerjakan Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Jumat 11/12/2020 Jam 09.30`
+
+
+***
+***
+
+
+## PERTEMUAN KeDELAPAN 08 :
+
+|Status   | : Offline                  |
 |Schedule | : Offline                  |
 |Waktu    | : 04/12/2020               |
 |Tema     | : Praktikum 7              |
@@ -38,7 +64,7 @@ Telnet, SSH adalah protokol jaringan yang memungkinkan pertukaran data melalui j
 ## PERTEMUAN KeTUJUH 07 :
 
 |Status  | : Online                   |
-|Schedule | : Offline                  |
+|Schedule | : Offline                 |
 |Waktu   | : 28/11/2020               |
 |Tema    | : Praktikum 6              |
 
@@ -155,10 +181,10 @@ Telnet, Telnet merupakan perintah yang digunakan untuk komunikasi interaktife de
 
 ## PERTEMUAN KeLIMA 05 :
 
-|Status  | : Online                   |
+|Status   | : Online                   |
 |Schedule | : Offline                  |
-|Waktu   | : 13/11/2020               |
-|Tema    | : Praktikum 4              |
+|Waktu    | : 13/11/2020               |
+|Tema     | : Praktikum 4              |
 
 ### File PDF Praktikum 4 :
 1. Silahkan ambil/download file praktikum berikut ini, baca dan lakukan praktikum, [Download File Praktikum 4](assets/reff/pjar/Praktikum_PJar_4.pdf){:target="_blank"}
