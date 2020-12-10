@@ -4,6 +4,34 @@ published: true
 ---
 
 
+## PERTEMUAN SEMBILAN 09 - UTS :
+
+|Status  | : Online                      |
+|Schedule| : Online                      |
+|Waktu   | : 10/11/2020                  |
+|Tema    | : UTS Pemrograman Game        |
+
+
+### SOAL UTS : 
+<b>Buat Script Yang dapat menghasilkan output seperti yang terlihat pada gambar dibawah ini :</b> 
+
+![Screenshot uts PGame](assets/reff/pgame/sc_uts_pgame.png)
+
+### Kumpul Hasil UTS ke dropbox
+
+Kerjakan UTS setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
+
+
+### Waktu Kumpul
+
+Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Jumat 11/12/2020 Jam 09.30`
+
+
+***
+***
+
+
+
 ## PERTEMUAN DELAPAN 08 :
 
 |Status  | : Online                      |
@@ -41,10 +69,10 @@ published: true
 
 ## PERTEMUAN TUJUH 07 :
 
-|Status  | : Online                      |
+|Status   | : Online                      |
 |Schedule | : Online                      |
-|Waktu   | : 21/11/2020                  |
-|Tema    | : Praktikum 6 Pemrograman Game|
+|Waktu    | : 21/11/2020                  |
+|Tema     | : Praktikum 6 Pemrograman Game|
 
 ### Modul Praktikum 6
 
