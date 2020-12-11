@@ -3,6 +3,38 @@ title: Kuliah Pemrograman Jaringan
 published: true
 ---
 
+## PERTEMUAN KeSEPULUH 10 :
+
+|Status   | : Offline                       |
+|Schedule | : Offline                       |
+|Waktu    | : 11/12/2020                    |
+|Tema     | : Praktikum 9 SSH Multi Device  |
+
+
+### File PDF Praktikum 9 :
+
+Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 9](assets/reff/pjar/Praktikum_PJar_9.pdf){:target="_blank"}
+
+### Materi Praktikum
+
+Materi Praktikum masih seputar SSH, tapi pada praktikum kali ini kita coba dengan beberapa device dan dengan beberapa perintah sekaligus yang dieksekuli lewat script yang kita buat...
+
+
+### Arahan Untuk Praktikum 9 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum yang dikerjakan di LAB (Offline) Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Sabtu 12/12/2020`
+
+
+***
+***
+
+
+
 ## PERTEMUAN KeSEMBILAN 09 - UTS :
 
 |Status   | : Online                   |
