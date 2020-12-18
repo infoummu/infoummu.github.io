@@ -3,6 +3,41 @@ title: Kuliah Pemrograman Jaringan
 published: true
 ---
 
+
+## PERTEMUAN KeSEBELAS 11 :
+
+|Status   | : Online                       |
+|Schedule | : Online                       |
+|Waktu    | : 18/12/2020                   |
+|Tema     | : Praktikum 10 FTP             |
+
+
+### File PDF Praktikum 10 :
+
+Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 10](assets/reff/pjar/Praktikum_PJar_10.pdf){:target="_blank"}
+
+### Materi Praktikum
+
+Materi Praktikum 10 adalah tentang FTP, FTP (File Transfer Protocol) adalah salah satu protokol tertua yang pernah ada di Internet. Protokol FTP dikembangkan oleh Abhay Bhushan (alumni IIT dan MIT) pada tahun 1970-an, ketika bekerja pada proyek ARPAnet.,... 
+
+
+### Arahan Untuk Praktikum 10 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum yang dikerjakan di LAB (Offline) Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Kamis 24/12/2020`
+
+
+***
+***
+
+
+
+
+
 ## PERTEMUAN KeSEPULUH 10 :
 
 |Status   | : Offline                       |
@@ -95,10 +130,10 @@ Telnet, SSH adalah protokol jaringan yang memungkinkan pertukaran data melalui j
 
 ## PERTEMUAN KeTUJUH 07 :
 
-|Status  | : Online                   |
-|Schedule | : Offline                 |
-|Waktu   | : 28/11/2020               |
-|Tema    | : Praktikum 6              |
+|Status     | : Online                   |
+|Schedule   | : Offline                  |
+|Waktu      | : 28/11/2020               |
+|Tema       | : Praktikum 6              |
 
 
 ### INFO `UTS`

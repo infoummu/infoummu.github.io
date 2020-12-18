@@ -4,6 +4,38 @@ published: true
 ---
 
 
+## PERTEMUAN SEBELAS 11 :
+
+|Status  | : Online                       |
+|Schedule| : Online                       |
+|Waktu   | : 18/12/2020                   |
+|Tema    | : Praktikum 10 Pemrograman Game |
+
+
+### Modul Praktikum 10
+
+1. Diharapkan Mahasiswa mengikuti arahan yang ada di modul dalam mengerjakan praktikum setelah mendownload modulnya pada tautan dibawah ini
+2. Doanload Modul berikut : [Modul Praktikum 10](assets/reff/pgame/Modul_Pgame_prak_10.pdf){:target="_blank"}
+
+
+### HASIL Praktukum Kumpul ke dropbox
+
+1. Mahasiswa diharapkan membaca Modul dan melakukan praktikum sesuai dengan arahan yang ada di modul,
+
+2. Kerjakan praktikum bersama teman2 lebih bagus sehingga bisa bertanya bagian materi yang tidak dipahami ke teman belajarnya, atau bisa juga bertanya langsung ke saya bisa lewat grup WA atau langsung WA personal...
+
+3. Lakukan praktikum dan usahakan hasil praktikum tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
+
+
+### Waktu Kumpul
+
+- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Kamis 24/12/2020`
+
+
+***
+***
+
+
 
 
 ## PERTEMUAN SEPULUH 10 :
@@ -31,7 +63,7 @@ published: true
 
 ### Waktu Kumpul
 
-- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Sabtu 12/12/2020`
+- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Sabtu 18/12/2020`
 
 
 ***

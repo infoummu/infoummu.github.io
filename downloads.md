@@ -13,6 +13,10 @@ Materi `Pemrograman Game`, modul untuk praktikum, (sementara dan akan selalu diu
 1. [Modul Pemrograman Game Praktikum 4](assets/reff/pgame/Modul_Pgame_prak_4.pdf){:target="_blank"}
 1. [Modul Pemrograman Game Praktikum 5](assets/reff/pgame/Modul_Pgame_prak_5.pdf){:target="_blank"}
 1. [Modul Pemrograman Game Praktikum 6](assets/reff/pgame/Modul_Pgame_prak_6.pdf){:target="_blank"}
+1. [Modul Pemrograman Game Praktikum 7](assets/reff/pgame/Modul_Pgame_prak_7.pdf){:target="_blank"}
+1. [Modul Pemrograman Game Praktikum 8](assets/reff/pgame/Modul_Pgame_prak_8.pdf){:target="_blank"}
+1. [Modul Pemrograman Game Praktikum 9](assets/reff/pgame/Modul_Pgame_prak_9.pdf){:target="_blank"}
+1. [Modul Pemrograman Game Praktikum 10](assets/reff/pgame/Modul_Pgame_prak_10.pdf){:target="_blank"}
 2. <a href="#" onclick="alert('Baaaaa..!, Kocong to...:).');">......</a>
 
 
@@ -30,13 +34,20 @@ Materi Praktikum untuk `Pemrograman Jaringan` dadap di download di link berikutb
 1. [File  Praktikum 3 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_3.pdf){:target="_blank"}
 1. [File  Praktikum 4 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_4.pdf){:target="_blank"}
 1. [File  Praktikum 5 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_5.pdf){:target="_blank"}
+1. [File  Praktikum 6 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_6.pdf){:target="_blank"}
+1. [File  Praktikum 7 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_7.pdf){:target="_blank"}
+1. [File  Praktikum 8 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_8.pdf){:target="_blank"}
+1. [File  Praktikum 9 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_9.pdf){:target="_blank"}
+1. [File  Praktikum 10 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_10.pdf){:target="_blank"}
 2. <a href="#" onclick="alert('Baaaaa......~!, Kocong to...:).');">......</a>
 
 
-Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan berikut  :
+Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF berikut  :
 
-1. [Python Network Programming Cookbook - Second Edition - Dr. M. O. Faruque Sarker - PDF File ](assets/reff/pjar/PythonNetworkProgramming_SecondEdition_Ekstra.pdf){:target="_blank"}
-2. [Python Network Programming - David M. Beazley - PDF File ](assets/reff/pjar/Python_NetBinder_Ekstra.pdf){:target="_blank"}
+1. [Python Network Programming Cookbook - Second Edition - Dr. M. O. Faruque Sarker](assets/reff/pjar/PythonNetworkProgramming_SecondEdition_Ekstra.pdf){:target="_blank"}
+1. [Foundations of Python Network Programming - Second Edition - Brandon Rhodes and John Goerzen](assets/reff/pjar/Foundations_of_Python_Network_Programming_Second_Edition_2010.pdf){:target="_blank"}
+2. [Python Network Programming - David M. Beazley](assets/reff/pjar/Python_NetBinder_Ekstra.pdf){:target="_blank"}
+
 
 
 
