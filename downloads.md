@@ -39,6 +39,7 @@ Materi Praktikum untuk `Pemrograman Jaringan` dadap di download di link berikutb
 1. [File  Praktikum 8 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_8.pdf){:target="_blank"}
 1. [File  Praktikum 9 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_9.pdf){:target="_blank"}
 1. [File  Praktikum 10 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_10.pdf){:target="_blank"}
+1. [File  Praktikum 11 Pemrograman Jaringan ](assets/reff/pjar/Praktikum_PJar_11.pdf){:target="_blank"}
 2. <a href="#" onclick="alert('Baaaaa......~!, Kocong to...:).');">......</a>
 
 
