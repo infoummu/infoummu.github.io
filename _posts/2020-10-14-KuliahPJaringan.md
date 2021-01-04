@@ -5,12 +5,46 @@ published: true
 
 
 
+## PERTEMUAN KeTIGABELAS 13 :
+
+|Status   | : Online                       |
+|Schedule | : Offline                      |
+|Waktu    | : 04/01/2021                   |
+|Tema     | : Praktikum 12 FTP UPLOAD File |
+
+
+### File PDF Praktikum 11 :
+
+Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 12](assets/reff/pjar/Praktikum_PJar_12.pdf){:target="_blank"}
+
+### Materi Praktikum
+
+Materi Praktikum 12 adalah tentang Bagaimana Meng-UPLOAD file melalui FTP,,... 
+
+
+### Arahan Untuk Praktikum 11 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat sebelum final/UAS
+
+
+***
+***
+
+
+
+
+
 ## PERTEMUAN KeDUABELAS 12 :
 
 |Status   | : Online                       |
-|Schedule | : Offline                       |
+|Schedule | : Offline                      |
 |Waktu    | : 25/12/2020                   |
-|Tema     | : Praktikum 10 FTP Download    |
+|Tema     | : Praktikum 11 FTP Download File   |
 
 
 ### File PDF Praktikum 11 :
@@ -42,7 +76,7 @@ Materi Praktikum 11 adalah tentang Bagaimana MenDownload file melalui FTP,,...
 |Status   | : Online                       |
 |Schedule | : Online                       |
 |Waktu    | : 18/12/2020                   |
-|Tema     | : Praktikum 10 FTP             |
+|Tema     | : Praktikum 10 FTP  Dir/List Files   |
 
 
 ### File PDF Praktikum 10 :
