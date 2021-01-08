@@ -3,6 +3,113 @@ title: Kuliah Pemrograman Jaringan
 published: true
 ---
 
+## PERTEMUAN KeEMPATBELAS 14 :
+
+|Status   | : Offline                      |
+|Schedule | : Offline                      |
+|Waktu    | : 08/01/2021                   |
+|Tema     | : Praktikum 13 FTP UPLOAD File |
+
+
+
+
+### Materi Praktikum
+
+Materi Praktikum 13 adalah tentang Bagaimana Meng-UPLOAD file melalui FTP ke mesin linux di jaringan local.... 
+
+1. Siapkan sebuah file latihan yang berisi biodata anda
+2. Beri nama filenya dengan `biodata_npm.txt`, contoh `biodata_17001.txt`
+3. Isi file tersebut dengan : 
+
+```js
+# ----------------------------
+# Informatika UMMU Ternate
+# File Pendukung Praktikum 13 PJaringan
+# File Biodata unuk NPM
+# * Koneksi ke Mesin lain Lewat ftp
+# * UPLOAD File ke Mesin lain Lewat ftp
+# ----------------------------
+
+Nama            : Nama Anda
+NPM             : Nomo NPM (5 digit terakhir saja)
+MK              : Nama Matakuliah
+Pertemuan Ke    : 14
+
+```
+
+4. Kemudian Simpan ke dalam folder tempat anda menyimpan Script Python praktikum 13,
+5. Setelah itu Jalankan script dibawah, perhatikan Pesan yang muncul di layar !.
+
+### Script Praktikum 13
+
+Tulis atua copy code berikut dan jalankan di mesin anda, jangan lupa untuk mengubah beberapa variabel untuk disesuaikan dengna konfigurasi jaringan anda...
+
+```py
+
+# ----------------------------
+# Informatika UMMU Ternate
+# Script Praktikum 13 PJaringan
+# * Koneksi ke Mesin lain Lewat ftp
+# * UPLOAD File ke Mesin lain Lewat ftp
+# ----------------------------
+
+from ftplib import FTP as F
+
+#ip_target='192.168.2.1'
+ip_target='localhost'
+user='pjar'
+pasw='1234'
+
+myftp = F(ip_target)
+myftp.login(user,pasw)
+
+
+print('IP TARGET : ',ip_target)
+print('USER      : ',user)
+print('*'*35 + '\n')   # Garis Batas
+
+## Untuk UPLOAD File 
+def upload_file(nama_file):  
+    try:
+        the_file=open(nama_file,'rb')
+        myftp.storbinary('STOR %s' % nama_file,  the_file)
+        the_file.close()        
+        print("Sukses UPLOAD File : %s !\n" % nama_file)
+    except Exception as ER: 
+        print("Error UP, Gagal UPLOAD File %s !\n" % nama_file)
+
+
+# PRINTOUT Informasi KE LAYAR
+try:
+    # fup: adalah variabel File yang akan diUpload
+    fup= 'biodata_npm.txt'
+    upload_file(fup)
+except Exception as ER:
+    print("Error : ",ER)
+
+print('*'*35)   # Garis Batas
+
+myftp.dir()
+
+    
+#akhir_code
+
+
+
+```
+
+### Arahan Untuk Praktikum 11 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat sebelum final/UAS
+
+
+***
+***
 
 
 ## PERTEMUAN KeTIGABELAS 13 :
