@@ -3,6 +3,132 @@ title: Kuliah Pemrograman Jaringan
 published: true
 ---
 
+
+## PERTEMUAN KeLIMABELAS 15 :
+
+|Status   | : Offline                      |
+|Schedule | : Offline                      |
+|Waktu    | : 15/01/2021                   |
+|Tema     | : Praktikum 14 FTP UPLOAD File ONLINE|
+
+
+
+
+### Materi Praktikum
+
+Materi Praktikum 14 adalah tentang Bagaimana Meng-UPLOAD file melalui FTP ke FTP-SERVER secara ONLINE.... 
+
+1. Siapkan sebuah file latihan yang berisi biodata anda
+2. Beri nama filenya dengan `biodata_npm.txt`, contoh `biodata_17001.txt`
+3. Isi file tersebut dengan : 
+
+```js
+# ----------------------------
+# Informatika UMMU Ternate
+# File Pendukung Praktikum 14 PJaringan
+# File Biodata unuk NPM
+# * Koneksi ke Mesin lain Lewat ftp
+# * UPLOAD File ke Mesin lain Lewat ftp
+# ----------------------------
+
+Nama            : Nama Anda
+NPM             : Nomo NPM (5 digit terakhir saja)
+MK              : Nama Matakuliah
+Pertemuan Ke    : 14
+Tanggal         : 15 Januari 2021
+
+```
+
+4. Kemudian Simpan ke dalam folder tempat anda menyimpan Script Python praktikum 13,
+5. Setelah itu Jalankan script dibawah, perhatikan Pesan yang muncul di layar !.
+
+### Script Praktikum 14
+
+Tulis atua copy code pada Praktikum 13 dan ubah bagian headernya dan jalankan di mesin anda, 
+
+```py
+
+# ----------------------------
+# Informatika UMMU Ternate
+# Script Praktikum 14 PJaringan
+# * Koneksi ke  FTP Server Online
+# * UPLOAD File ke FTP Server Online
+# ----------------------------
+
+from ftplib import FTP as F
+
+#ip_target='192.168.2.1'
+ip_target='localhost'
+user='pjar'
+pasw='1234'
+
+# IP, user dan pasw DIUBAH MENJADI 
+# Buka Situs https://dlptest.com/ftp-test/
+# Kemudian Check user dan pass yang tertera di sana
+ip_target='ftp.dlptest.com'
+user='dlpuser'
+pasw='rNrKYTX9g7z3RgJRmxWuGHbeu' 
+
+ldir = 'dir/to/lokasi/file'
+myftp = F(ip_target)
+myftp.login(user,pasw)
+#myftp.login() # test for anonymouse
+
+print('IP TARGET : ',ip_target)
+print('USER      : ',user)
+print('*'*35 + '\n')   # Garis Batas
+
+## Untuk UPLOAD File 
+def upload_file(nama_file):  
+    the_file=open(nama_file,'rb')
+    myftp.storbinary('STOR %s' % nama_file,  the_file)
+    the_file.close()        
+    print("Sukses UPLOAD File : %s !\n" % nama_file)
+
+
+
+## PRINTOUT Informasi KE LAYAR
+# change Work Dir in Server
+#myftp.cwd(ldir) 
+
+# fup: adalah variabel File yang akan diUpload
+fup  = 'biodata_17000.txt'
+
+upload_file(fup)
+
+#print('*'*35)   # Garis Batas
+#myftp.dir()
+
+print('*'*35)   # Garis Batas
+
+df=[]
+df=myftp.nlst();
+for ffl in df:
+    if 'biodata' in ffl:
+        print(' The File : ',ffl)
+
+
+print('*'*35)   # Garis Batas
+
+#print('Dir : ',myftp.pwd())
+#akhir_code
+
+```
+
+### Arahan Untuk Praktikum 13 :
+
+1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
+2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
+
+### Waktu Kumpul
+
+- Hasil praktikum Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat sebelum final/UAS
+
+
+***
+***
+
+
 ## PERTEMUAN KeEMPATBELAS 14 :
 
 |Status   | : Offline                      |
@@ -98,7 +224,7 @@ myftp.dir()
 
 ```
 
-### Arahan Untuk Praktikum 11 :
+### Arahan Untuk Praktikum 13 :
 
 1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
 2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
@@ -120,7 +246,7 @@ myftp.dir()
 |Tema     | : Praktikum 12 FTP UPLOAD File |
 
 
-### File PDF Praktikum 11 :
+### File PDF Praktikum 12 :
 
 Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 12](assets/reff/pjar/Praktikum_PJar_12.pdf){:target="_blank"}
 
@@ -129,7 +255,7 @@ Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai a
 Materi Praktikum 12 adalah tentang Bagaimana Meng-UPLOAD file melalui FTP,,... 
 
 
-### Arahan Untuk Praktikum 11 :
+### Arahan Untuk Praktikum 12 :
 
 1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
 2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
