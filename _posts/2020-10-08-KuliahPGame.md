@@ -2,6 +2,94 @@
 title: Kuliah Pemrograman Game
 published: true
 ---
+## PERTEMUAN LIMABELAS 15 - UAS  :
+
+|Status   | : Online                      |
+|Schedule | : Online                      |
+|Waktu    | : 16/01/2021                   |
+|Tema     | : UAS Pemograman Game          |
+
+### Soal UAS 
+
+Buat code yang dapat membentuk Garis sebagaimana terlihat pada gambar dibawah : 
+
+![Gambar UAS PGame](assets/reff/pgame/UAS_PGame.png)
+
+### Kumpul dan TTD BA
+
+- Silahkah Kumpul Hasil UAS Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, setelah itu Tanda Tangan Berita Acara.
+
+
+
+
+***
+***
+
+
+
+## PERTEMUAN EMPATBELAS 14 :
+
+|Status  | : Online                       |
+|Schedule| : Offline                      |
+|Waktu   | :  08/01/2021                   |
+|Tema    | : Praktikum 13 Pemrograman Game |
+
+### Materi Praktikum 13
+
+Mengarahkan Objek menggunakan keyboard, dengan Variasi tombol keyboard
+Script Berikut : 
+
+```py 
+	if event.type == pygame.KEYDOWN and \
+		event.key == pygame.K_DOWN:
+		y = y+15
+
+	elif event.type == pygame.KEYDOWN and \
+		event.key == pygame.K_UP:
+		y = y-15
+
+	elif event.type == pygame.KEYDOWN and \
+		event.key == pygame.K_RIGHT:
+		x = x+15
+	elif event.type == pygame.KEYDOWN and \
+		event.key == pygame.K_LEFT:
+		x = x-15
+```
+
+Dapat diubah menjadi lebih variasi dengan menggunakan tombol keyboard lainnya, seperti : 
+
+```py 
+	if event.type == pygame.KEYDOWN and \
+		event.key == pygame.K_s:
+		y = y+15
+
+	elif event.type == pygame.KEYDOWN and \
+		event.key == pygame.K_w:
+		y = y-15
+
+	elif event.type == pygame.KEYDOWN and \
+		event.key == pygame.K_d:
+		x = x+15
+	elif event.type == pygame.KEYDOWN and \
+		event.key == pygame.K_a:
+		x = x-15
+
+
+```
+
+Gunakan Script praktikum ke 12 untuk melakukan praktikum ke 13 ini.
+
+
+### Waktu Kumpul
+
+- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat sebelum final/UAS
+
+
+
+***
+***
+
+
 
 ## PERTEMUAN TIGABELAS 13 :
 

@@ -2,6 +2,38 @@
 title: Kuliah Pemrograman Jaringan
 published: true
 ---
+## PERTEMUAN KeENAMBELAS 16 - UAS  :
+
+|Status   | : Offline                      |
+|Schedule | : Offline                      |
+|Waktu    | : 16/01/2021                   |
+|Tema     | : UAS Pemograman Jaringan      |
+
+### Soal UAS 
+Soal UAS PJaringan : 
+1. Lakukan koneksi ke SSID  Mikrotik berikut :
+
+    1. Nama SSID : `UAS_PJaringan`
+    2. Pass SSID : `12345678f`
+
+2. Kebutuhan Koneksikan Script anda :  
+
+    - IP        : `192.168.2.1`
+    - User      : `admin`
+    - Password  : `1234`
+3. Yang Kerjakan ONLINE silahkan Mikrotik-nya diganti dengan situs `https://dlptest.com/ftp-test/`, silahkan sesuaikan IP, user, dan Password dengan yang terdapat di situs tersebut.
+
+4. Buat Sebuah Script yang dapat melakukan... :
+    1. Melihat/list file yang ada di mikrotik/online-ftp-server , 
+    2. Download File yang terdapat NPM anda pada nama filenya dari Mikrotik/online-ftp-server,
+    3. Lengkapi Biodata sesuai arahan dalam file dan sertakan script anda kedalam file di bagian akhir file.
+    4. Kirim/Upload Kembali ke mikrotik file yg sudah anda ubah 
+
+Jadi Script yang anda buat nantinya digunakan untuk `Melihat File di Mikrotik`, `Download File di Mikrotik yang Terdapat NPM anda` serta `upload kembali file yang di download` setelah dilengkapi isinya tanpa mengubah nama filenya. 
+    
+
+***
+***
 
 
 ## PERTEMUAN KeLIMABELAS 15 :
