@@ -17,7 +17,9 @@ published: true
 
 
 ### HASIL Praktukum 1 Kumpul ke dropbox
-1. Tuliskan code1 sampai code4 ke file simpan dengan nama file `praktikum1_npm.py` (contoh : `praktikum1_17000.py`)
+1. Tuliskan code1 sampai code4 ke file simpan dengan nama file `praktikum1_npm.py` (contoh : `praktikum1_18000.py`)
 2. Jalankan dengan perintah : `python praktikum1_18000.py`
 3. Pastikan tidak error, setelah itu kumpul ke folder `PGame` yang ada di akun `dropbox` anda masing-masing
 
+***
+by: Ikhwan 
