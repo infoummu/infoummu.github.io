@@ -2,6 +2,15 @@
 title: Kuliah Pemrograman Jaringan
 published: true
 ---
+
+### Informasi Kuliah Pemrograman Jaringan Tiap Pertemuan, buka link dibawah : 
+
+1. [Pertemuan Pertama PJar (1)](KuliahPJar-P1.html){:target="_blank"} - [27/10/2021] - Offline
+1. [Pertemuan Kedua PJar (2)](KuliahPJar-P2.html){:target="_blank"} - [03/11/2021] - Online
+
+
+
+<!--
 ## PERTEMUAN KeENAMBELAS 16 - UAS  :
 
 |Status   | : Offline                      |
@@ -707,6 +716,7 @@ Telnet, Telnet merupakan perintah yang digunakan untuk komunikasi interaktife de
 3. Untuk mengumpulkan tugas dan lainnya secara online akan menggunakan dropbox,
 4. Setiap Mahasiswa harap melengkapi laptopnya dengan vm (virtualbox atau vmware) yang terinstall python pada keduanya host dan vm,
 
+-->
 
 ***
 By : Ikhwan
