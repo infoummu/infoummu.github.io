@@ -1,14 +1,14 @@
 ---
-title: Kuliah Pemrograman Game
+title: Kuliah Pemrograman Game P1
 published: true
 ---
 
 ## PERTEMUAN PERTAMA 01 :
 
-|Status  | : Offline                  |
+|Status   | : Offline                   |
 |Schedule | : Offline                   |
-|Waktu   | : 25/10/2021               |
-|Tema    | : Arahan dan Kontrak Kuliah|
+|Waktu    | : 25/10/2021                | 
+|Tema     | : Arahan dan Kontrak Kuliah |
 
 
 
