@@ -1,12 +1,23 @@
 ---
-title: Kuliah Pemrograman Game
+title: Kuliah Pemrograman Game all
 published: true
 ---
 
 ### Silahkan Buka link dibawah untuk Informasi setiap pertemuan : 
 
 1. [Pertemuan Pertama (1)](KuliahPGame-P1.html){:target="_blank"} - [25/10/2021] - Offline
-1. [Pertemuan Kedua (2)](KuliahPGame-P2.html){:target="_blank"} - [01/11/2021] - Online
+2. [Pertemuan Kedua (2)](KuliahPGame-P2.html){:target="_blank"} - [03/11/2021] - Online
+3. [Pertemuan Ketiga (3)](KuliahPGame-P3.html){:target="_blank"} - [10/11/2021] - Online
+4. [Pertemuan Keempat (4)](KuliahPGame-P4.html){:target="_blank"} - [17/11/2021] - Offline
+
+
+### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
+
+- Setiap Mahasiswa diharapkan sudah memiliki akun `Dropbox`, yang akan digunakan sebagai tempat mengumpulkan tugas-tugas
+- Silahkan Buat Folder `Box_NPM` (ubah NPM dengan NPM anda masing-masing; contoh : `Box_18001`) di `Dropbox`-nya masing-masin sebagai tempat untuk meng-Upload file hasil praktikumnya.
+- Setelah folder `Box_NPM` nya sudah dibuat, silahkan sharing/berbagi folder `Box_NPM` nya dengan saya, ini alamat email saya : `ikhwan.elyas@gmail.com` (langkahnya sama seperti yang didemokan saata di kuliah pemrograman game)
+- Setelah itu, silahkan lengkapi dengan buat dua (2) Folder masing-masing beri nama `PGame` dan `PJaringan` 
+- Selanjutnya untuk setiap praktikum silahkan gunakan folder `PGame` untuk mengumpulkan/upload file hasil praktikum Pemrograman Game dan, gunakan Folder `PJaringan` untuk mengumpulkan/upload file hasil praktikum Pemrograman Jaringan. 
 
 
 ***
@@ -385,89 +396,9 @@ Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `P
 - Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Jumat 13/11/2020`
 
 
-***
-***
-
-## PERTEMUAN EMPAT 04 :
-
-|Status  | : Online                      |
-|Schedule | : Offline                     |
-|Waktu   | : 30/10/2020                  |
-|Tema    | : Praktikum 3 Pemrograman Game|
-
-### Modul Praktikum 3
-
-1. Doanload Modul berikut : [Modul Praktikum 3](assets/reff/pgame/Modul_Pgame_prak_3.pdf){:target="_blank"}
-
-### HASIL Praktukum Kumpul ke dropbox
-
-1. Mahasiswa diharapkan membaca Modul dan lakukan praktikum sesuai dengan arahan yang ada di modul,
-
-2. Kerjakan praktikum bersama teman2 lebih bagus sehingga bisa bertanya bagian yang tidak dipahami ke teman belajarnya,
-
-3. Setelah praktikum usahakan sampai hasil testingnya tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
-
-
-### Waktu Kumpul
-
-- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Jumat 06/11/2020`
-
-
-***
-***
 
 
 
-## PERTEMUAN TIGA 03 :
-
-|Status  | : Online                    |
-|Schedule | : Online                    |
-|Waktu   | : 23/10/2020                 |
-|Tema    | : Praktikum 2 Pemrograman Game|
-
-### Praktikum 2
-
-1. Doanload Modul berikut : [Modul Praktikum 2](assets/reff/pgame/Modul_Pgame_prak_2.pdf){:target="_blank"}
-2. Lakukan Praktikum mengikuti arahan yang ada di modul tersebut !.
-
-
-### HASIL Praktukum Kumpul ke dropbox
-
-1. Lakukan praktikum dari `code5` dan `code6`
-2. Tuliskan kembali semua code `code5` dan `code6` ke file script python dengan nama fil `code5_npm.py` dan `code6_npm.py`, ATAU,
-3. ATAU bisa dengan menggabungkan semua code code5 dan code6 menjadi SATU FILE SAJA, dan beri nama dengan `praktikum2_npm.py`
-4. Jalankan pada CMD atau Terminal, dan pastikan tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
-
-
-### Waktu Kumpul Praktikum 1 dan Praktikum 2
-- Hasil Praktikum 1 masih banyak mahasiswa yang belum kumpul haril praktikumnya, harap segera yang belum !,
-- Diharapkan Kepada Mahasiswa agar sudah menyelesaikan praktikum 1 dan praktikum 2 Pemrograman Game serta mengumpulkannya ke folder `PGame` di `dropbox` nya masing2 paling lambat hari `Senin 26/10/2020 23.59`
-
-
-
-***
-***
-
-
-## PERTEMUAN DUA 02 :
-
-|Status  | : Offline                    |
-|Schedule | : Offline                    |
-|Waktu   | : 16/10/2020                 |
-|Tema    | : Praktikum 1 Pemrograman Game |
-
-
-### Praktikum 1
-1. Doanload Modul berikut : [Modul Praktikum 1](assets/reff/pgame/Modul_Pgame_prak_1.pdf){:target="_blank"}
-2. Lakukan Praktikum mengikuti arahan yang ada di modul
-
-
-### HASIL Praktukum 1 Kumpul ke dropbox
-1. Tuliskan code1 sampai code4 ke file simpan dengan nama file `praktikum1_npm.py` (contoh : `praktikum1_17000.py`)
-2. Jalankan dengan perintah : `python praktikum1_17000.py`
-3. Pastikan tidak error, setelah itu kumpul ke folder `PGame` yang ada di akun `dropbox` anda masing-masing
-
-
-***
-***
 --> 
+
+by: Ikhwan 

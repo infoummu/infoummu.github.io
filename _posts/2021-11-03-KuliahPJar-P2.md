@@ -17,8 +17,10 @@ published: true
 ### Arahan Sebelum Praktikum :
 
 - Setiap Mahasiswa diharapkan sudah memiliki akun `Dropbox`, yang akan digunakan sebagai tempat mengumpulkan tugas-tugas
-- Silahkan Buat Folder `PJar_NPM` (ubah NPM dengan NPM anda masing-masing; contoh : `PJar_18001`) di `Dropbox`-nya masing-masin sebagai tempat untuk meng-Upload file hasil praktikumnya.
-- Setelah folder `PJar_NPM` nya sudah dibuat, silahkan sharing/berbagi folder `PJar_NPM` nya dengan saya, ini alamat email saya : `ikhwan.elyas@gmail.com` (langkahnya sama seperti yang di pemrograman game)
+- Silahkan Buat Folder `Box_NPM` (ubah NPM dengan NPM anda masing-masing; contoh : `Box_18001`) di `Dropbox`-nya masing-masin sebagai tempat untuk meng-Upload file hasil praktikumnya.
+- Setelah folder `Box_NPM` nya sudah dibuat, silahkan sharing/berbagi folder `Box_NPM` nya dengan saya, ini alamat email saya : `ikhwan.elyas@gmail.com` (langkahnya sama seperti yang di pemrograman game)
+- Setelah itu, silahkan lengkapi dengan buat dua (2) Folder masing-masing beri nama `PGame` dan `PJaringan` 
+- Selanjutnya untuk setiap praktikum silahkan gunakan folder `PGame` untuk mengumpulkan/upload file hasil praktikum Pemrograman Game dan, gunakan Folder `PJaringan` untuk mengumpulkan/upload file hasil praktikum Pemrograman Jaringan. 
 
 
 ### File PDF Praktikum 1 :
@@ -37,4 +39,5 @@ published: true
 
 
 ***
+by: Ikhwan 
 
