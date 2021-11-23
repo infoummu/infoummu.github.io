@@ -9,7 +9,7 @@ published: true
 2. [Pertemuan Kedua (2)](KuliahPGame-P2.html){:target="_blank"} - [03/11/2021] - Online
 3. [Pertemuan Ketiga (3)](KuliahPGame-P3.html){:target="_blank"} - [10/11/2021] - Online
 4. [Pertemuan Keempat (4)](KuliahPGame-P4.html){:target="_blank"} - [17/11/2021] - Offline
-
+5. [Pertemuan Kelima (5)](KuliahPGame-P5.html){:target="_blank"} - [24/11/2021] - Offline
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
 
@@ -370,30 +370,6 @@ Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `P
 ***
 ***
 
-
-## PERTEMUAN LIMA 05 :
-
-|Status  | : Online                      |
-|Schedule | : Online                      |
-|Waktu   | : 06/11/2020                  |
-|Tema    | : Praktikum 4 Pemrograman Game|
-
-### Modul Praktikum 4
-
-1. Doanload Modul berikut : [Modul Praktikum 4](assets/reff/pgame/Modul_Pgame_prak_4.pdf){:target="_blank"}
-
-### HASIL Praktukum Kumpul ke dropbox
-
-1. Mahasiswa diharapkan membaca Modul dan melakukan praktikum sesuai dengan arahan yang ada di modul,
-
-2. Kerjakan praktikum bersama teman2 lebih bagus sehingga bisa bertanya bagian materi yang tidak dipahami ke teman belajarnya, atau bisa juga bertanya langsung ke saya bisa lewat grup WA atau langsung WA personal...
-
-3. Lakukan praktikum dan usahakan hasil praktikum tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
-
-
-### Waktu Kumpul
-
-- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Jumat 13/11/2020`
 
 
 
