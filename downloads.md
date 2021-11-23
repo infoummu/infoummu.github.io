@@ -50,6 +50,17 @@ Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF 
 2. [Python Network Programming - David M. Beazley](assets/reff/pjar/Python_NetBinder_Ekstra.pdf){:target="_blank"}
 
 
+### Download Master
+
+1. [File netifaces-0.11.0-cp37-cp37m-win_amd64.whl ](assets/reff/master/netifaces-0.11.0-cp37-cp37m-win_amd64.whl){:target="_blank"}
+1. [File netifaces-0.10.9.tar.gz](assets/reff/master/netifaces-0.10.9.tar.gz){:target="_blank"}
+2. [File python-3.7.4-amd64.exe](assets/reff/master/python-3.7.4-amd64.exe){:target="_blank"}
+
+<!--1. [File python-3.7.8-amd64.exe](assets/reff/master/python-3.7.8-amd64.exe){:target="_blank"}-->
+<!--1. [File python-3.7.9-amd64.exe](assets/reff/master/python-3.7.9-amd64.exe){:target="_blank"}-->
+<!--1. [File python-3.8.5-amd64.exe](assets/reff/master/python-3.8.5-amd64.exe){:target="_blank"}-->
+
+
 
 
 ***

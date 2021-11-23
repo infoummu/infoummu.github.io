@@ -28,4 +28,5 @@ published: true
 
 - Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2 sebelum Praktikum selanjutnya.S
 
-
+***
+By: Ikhwan.
