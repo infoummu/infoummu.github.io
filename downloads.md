@@ -53,8 +53,13 @@ Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF 
 ### Download Master
 
 1. [File netifaces-0.11.0-cp37-cp37m-win_amd64.whl ](assets/reff/master/netifaces-0.11.0-cp37-cp37m-win_amd64.whl){:target="_blank"}
-1. [File netifaces-0.10.9.tar.gz](assets/reff/master/netifaces-0.10.9.tar.gz){:target="_blank"}
-2. [File python-3.7.4-amd64.exe](assets/reff/master/python-3.7.4-amd64.exe){:target="_blank"}
+2. [File netifaces-0.10.9.tar.gz](assets/reff/master/netifaces-0.10.9.tar.gz){:target="_blank"}
+3. [File python-3.7.4-amd64.exe](assets/reff/master/python-3.7.4-amd64.exe){:target="_blank"}
+4. [Sublime Portable Version - Sublime_Text_Build_3211_x64_New.zip](assets/reff/master/Sublime_Text_Build_3211_x64_New.zip){:target="_blank"}
+5. [Sublime Install Version - Sublime_Text_Build_3211_x64_Setup_New.exe](assets/reff/master/Sublime_Text_Build_3211_x64_Setup_New.exe){:target="_blank"}
+
+
+
 
 <!--1. [File python-3.7.8-amd64.exe](assets/reff/master/python-3.7.8-amd64.exe){:target="_blank"}-->
 <!--1. [File python-3.7.9-amd64.exe](assets/reff/master/python-3.7.9-amd64.exe){:target="_blank"}-->

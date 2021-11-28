@@ -66,7 +66,7 @@ print("Variable C/3 : ", c/3 )
     
 ```
 
-#### 1. Code 15 - praktikum4_15_pgame_npm.py
+#### 2. Code 15 - praktikum4_15_pgame_npm.py
 
 ```python
 
@@ -103,7 +103,7 @@ print("myvar  [:-1] : ", myvar[:-1])
 
 ```
 
-#### 1. Code 15 - praktikum4_151_pgame_npm.py
+#### 3. Code 15 - praktikum4_151_pgame_npm.py
 
 ```python
 
@@ -147,7 +147,7 @@ print("Prodi dan Kampus :  %s, %s " % (prodi, kampus))# cara 3
 
 ```
 
-#### 1. Code 16 - praktikum4_16_pgame_npm.py
+#### 4. Code 16 - praktikum4_16_pgame_npm.py
 
 ```python
 
@@ -195,7 +195,7 @@ print("mylist[1] + mylist[2] : ", mylist[1] + mylist[2])
 
 ```
 
-#### 1. Code 16 - praktikum4_161_pgame_npm.py
+#### 5. Code 16 - praktikum4_161_pgame_npm.py
 
 ```python
 
