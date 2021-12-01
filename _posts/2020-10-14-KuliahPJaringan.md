@@ -10,6 +10,7 @@ published: true
 3. [Pertemuan Ketiga PJar (3)](KuliahPJar-P3.html){:target="_blank"} - [10/11/2021] - Offline
 4. [Pertemuan Keempat PJar (4)](KuliahPJar-P4.html){:target="_blank"} - [15/11/2021] - Offline
 5. [Pertemuan Kelima PJar (5)](KuliahPJar-P5.html){:target="_blank"} - [22/11/2021] - Offline
+6. [Pertemuan Keenam PJar (6)](KuliahPJar-P6.html){:target="_blank"} - [29/11/2021] - Offline
 
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
