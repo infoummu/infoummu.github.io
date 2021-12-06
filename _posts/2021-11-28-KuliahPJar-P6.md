@@ -1,6 +1,5 @@
-
 ---
-title: Kuliah Pemrograman Jaringan P5
+title: Kuliah Pemrograman Jaringan P6
 published: true
 ---
 

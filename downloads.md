@@ -58,6 +58,10 @@ Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF 
 4. [Sublime Portable Version - Sublime_Text_Build_3211_x64_New.zip](assets/reff/master/Sublime_Text_Build_3211_x64_New.zip){:target="_blank"}
 5. [Sublime Install Version - Sublime_Text_Build_3211_x64_Setup_New.exe](assets/reff/master/Sublime_Text_Build_3211_x64_Setup_New.exe){:target="_blank"}
 1. [File telnetlib3-1.0.4-py3-none-any.whl](assets/reff/master/telnetlib3-1.0.4-py3-none-any.whl){:target="_blank"}
+1. [File paramiko-2.7.2-py2.py3-none-any.whl](assets/reff/master/paramiko-2.7.2-py2.py3-none-any.whl){:target="_blank"}
+1. [File Scapy scp-0.13.3-py2.py3-none-any.whl](assets/reff/master/scp-0.13.3-py2.py3-none-any.whl){:target="_blank"}
+1. [File Scapy scapy-2.4.4.tar.gz](assets/reff/master/scapy-2.4.4.tar.gz){:target="_blank"}
+
 
 
 
