@@ -55,7 +55,11 @@ port = 3333
 user = 'pjar'              # MikroTik Login User
 password = '1234'    # MikroTik Login Pass
 
+<<<<<<< HEAD
 perintah = 'ls -l'        # for linux
+=======
+perintah = 'interface print'        # for MikroTik
+>>>>>>> 6a97a42361dea37e01d49ed52c3a3420cf4f902e
 
 ssh_user = paramiko.Transport((IP, port))
 ssh_user.connect(username=user, password=password)

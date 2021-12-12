@@ -58,12 +58,18 @@ Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF 
 4. [Sublime Portable Version - Sublime_Text_Build_3211_x64_New.zip](assets/reff/master/Sublime_Text_Build_3211_x64_New.zip){:target="_blank"}
 5. [Sublime Install Version - Sublime_Text_Build_3211_x64_Setup_New.exe](assets/reff/master/Sublime_Text_Build_3211_x64_Setup_New.exe){:target="_blank"}
 1. [File telnetlib3-1.0.4-py3-none-any.whl](assets/reff/master/telnetlib3-1.0.4-py3-none-any.whl){:target="_blank"}
+<<<<<<< HEAD
 <!-- 1. [File paramiko-2.7.2-py2.py3-none-any.whl](assets/reff/master/paramiko-2.7.2-py2.py3-none-any.whl){:target="_blank"} -->
 <!-- 1. [File Scapy scp-0.13.3-py2.py3-none-any.whl](assets/reff/master/scp-0.13.3-py2.py3-none-any.whl){:target="_blank"} -->
+=======
+1. [File paramiko-2.7.2-py2.py3-none-any.whl](assets/reff/master/paramiko-2.7.2-py2.py3-none-any.whl){:target="_blank"}
+1. [File Scapy scp-0.13.3-py2.py3-none-any.whl](assets/reff/master/scp-0.13.3-py2.py3-none-any.whl){:target="_blank"}
+>>>>>>> 6a97a42361dea37e01d49ed52c3a3420cf4f902e
 1. [File Scapy scapy-2.4.4.tar.gz](assets/reff/master/scapy-2.4.4.tar.gz){:target="_blank"}
 
 
 
+<<<<<<< HEAD
 <!-- 
 1. [File modul python Paramiko](assets/reff/master/paramiko/cryptography-36.0.0-cp36-abi3-manylinux_2_24_x86_64.whl){:target="_blank"}
 1. [File modul python Paramiko](assets/reff/master/paramiko/paramiko-2.8.1-py2.py3-none-any.whl){:target="_blank"}
@@ -76,6 +82,10 @@ Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF 
  -->
 
 <!--1. [File {:target="_blank"}python-3.7.8-amd64.exe](assets/reff/master/python-3.7.8-amd64.exe){:target="_blank"}-->
+=======
+
+<!--1. [File python-3.7.8-amd64.exe](assets/reff/master/python-3.7.8-amd64.exe){:target="_blank"}-->
+>>>>>>> 6a97a42361dea37e01d49ed52c3a3420cf4f902e
 <!--1. [File python-3.7.9-amd64.exe](assets/reff/master/python-3.7.9-amd64.exe){:target="_blank"}-->
 <!--1. [File python-3.8.5-amd64.exe](assets/reff/master/python-3.8.5-amd64.exe){:target="_blank"}-->
 
