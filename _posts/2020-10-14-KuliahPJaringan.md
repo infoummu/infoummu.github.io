@@ -12,6 +12,7 @@ published: true
 5. [Pertemuan Kelima PJar (5)](KuliahPJar-P5.html){:target="_blank"} - [22/11/2021] - Offline
 6. [Pertemuan Keenam PJar (6)](KuliahPJar-P6.html){:target="_blank"} - [29/11/2021] - Offline
 7. [Pertemuan Ketujuh PJar (7)](KuliahPJar-P7.html){:target="_blank"} - [06/01/2021] - Offline
+7. [Pertemuan KeDelapan PJar (8)](KuliahPJar-P8.html){:target="_blank"} - [06/01/2021] - Offline
 
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
@@ -423,29 +424,7 @@ Materi Praktikum masih seputar SSH, tapi pada praktikum kali ini kita coba denga
 
 
 
-## PERTEMUAN KeSEMBILAN 09 - UTS :
 
-|Status   | : Online                   |
-|Schedule | : Online                   |
-|Waktu    | : 10/12/2020               |
-|Tema     | : Praktikum 8 UTS          |
-
-
-### File PDF Praktikum 8 - UTS :
-
-Silahkan download file praktikumnya, harap dibaca dan lakukan UTS sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 8 UTS](assets/reff/pjar/Praktikum_PJar_8_UTS.pdf){:target="_blank"}
-
-
-### Arahan Untuk Praktikum 8 - UTS :
-
-Lakukan UTS sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, setelah itu silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
-
-### Waktu Kumpul
-
-Hasil UTS yang dikerjakan Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Jumat 11/12/2020 Jam 09.30`
-
-
-***
 ***
 
 
