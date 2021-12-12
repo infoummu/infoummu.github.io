@@ -12,11 +12,7 @@ published: true
 5. [Pertemuan Kelima PJar (5)](KuliahPJar-P5.html){:target="_blank"} - [22/11/2021] - Offline
 6. [Pertemuan Keenam PJar (6)](KuliahPJar-P6.html){:target="_blank"} - [29/11/2021] - Offline
 7. [Pertemuan Ketujuh PJar (7)](KuliahPJar-P7.html){:target="_blank"} - [06/01/2021] - Offline
-<<<<<<< HEAD
-7. [Pertemuan KeDelapan PJar (8)](KuliahPJar-P8.html){:target="_blank"} - [06/01/2021] - Offline
-=======
->>>>>>> 6a97a42361dea37e01d49ed52c3a3420cf4f902e
-
+7. [Pertemuan KeDelapan PJar (8) - UTS](KuliahPJar-P8.html){:target="_blank"} - [06/01/2021] - Online
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
 
