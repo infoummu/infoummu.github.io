@@ -11,11 +11,8 @@ published: true
 4. [Pertemuan Keempat (4)](KuliahPGame-P4.html){:target="_blank"} - [17/11/2021] - Offline
 5. [Pertemuan Kelima (5)](KuliahPGame-P5.html){:target="_blank"} - [24/11/2021] - Offline
 6. [Pertemuan Keenam (6)](KuliahPGame-P6.html){:target="_blank"} - [24/11/2021] - Offline
-<<<<<<< HEAD
 7. [Pertemuan Ketujuh (7)](KuliahPGame-P7.html){:target="_blank"} - [08/12/2021] - Offline
-
-=======
->>>>>>> 6a97a42361dea37e01d49ed52c3a3420cf4f902e
+8. [Pertemuan Kedelapan (8)](KuliahPGame-P8.html){:target="_blank"} - [15/12/2021] - Online
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
 
@@ -254,30 +251,6 @@ Gunakan Script praktikum ke 12 untuk melakukan praktikum ke 13 ini.
 
 
 
-## PERTEMUAN SEMBILAN 09 - UTS :
-
-|Status  | : Online                      |
-|Schedule| : Online                      |
-|Waktu   | : 10/11/2020                  |
-|Tema    | : UTS Pemrograman Game        |
-
-
-### SOAL UTS : 
-<b>Buat Script Yang dapat menghasilkan output seperti yang terlihat pada gambar dibawah ini :</b> 
-
-![Screenshot uts PGame](assets/reff/pgame/sc_uts_pgame.png)
-
-### Kumpul Hasil UTS ke dropbox
-
-Kerjakan UTS setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
-
-
-### Waktu Kumpul
-
-Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Jumat 11/12/2020 Jam 09.30`
-
-
-***
 ***
 
 
