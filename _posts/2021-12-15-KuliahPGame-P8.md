@@ -1,5 +1,9 @@
+---
+title: Kuliah Pemrograman Game P8 - UTS
+published: true
+---
 
-## PERTEMUAN SEMBILAN 08 - UTS :
+## PERTEMUAN DELAPAN 08 - UTS :
 
 |Status  | : Online                      |
 |Schedule| : Online                      |
@@ -26,3 +30,4 @@ Diharapkan agar sudah mengumpulkan hasil UTS praktikum Pemrograman Game ke folde
 
 
 ***
+By: ikhwan@fedora-linux
