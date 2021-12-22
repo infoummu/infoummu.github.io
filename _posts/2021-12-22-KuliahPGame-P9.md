@@ -3,17 +3,18 @@ title: Kuliah Pemrograman Game P9
 published: true
 ---
 
-## PERTEMUAN DELAPAN 09 :
+## PERTEMUAN SEMBILAN 09 :
 
-|Status  | : Offline                      |
-|Schedule| : Offline                      |
-|Waktu   | : 22/12/2021                  |
-|Tema    | : Pemrograman Game P9     |
+|Status  | : Offline                |
+|Schedule| : Offline                |
+|Waktu   | : 22/12/2021             |
+|Tema    | : Pemrograman Game P9    |
 
 ## Mengulang Meteri :
 Pada pertemuan ini kita mengulang materi 
-* Konsional ([Prak 5](KuliahPGame-P5.html){:target="_blank"}) dan,
-* Fungsi ([Prak 6](KuliahPGame-P6.html){:target="_blank"})
+* Evaluasi UTS
+* Konsional ([Prak 6](KuliahPGame-P6.html){:target="_blank"}) dan,
+* Fungsi ([Prak 7](KuliahPGame-P7.html){:target="_blank"})
 
 
 ## Kerjakan Praktukum dan Kumpul ke dropbox
