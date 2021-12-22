@@ -13,6 +13,7 @@ published: true
 6. [Pertemuan Keenam (6)](KuliahPGame-P6.html){:target="_blank"} - [24/11/2021] - Offline
 7. [Pertemuan Ketujuh (7)](KuliahPGame-P7.html){:target="_blank"} - [08/12/2021] - Offline
 8. [Pertemuan Kedelapan (8) - UTS](KuliahPGame-P8.html){:target="_blank"} - [15/12/2021] - Online
+9. [Pertemuan KeSembilan (9)](KuliahPGame-P9.html){:target="_blank"} - [22/12/2021] - Online
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
 
