@@ -11,8 +11,11 @@ published: true
 4. [Pertemuan Keempat PJar (4)](KuliahPJar-P4.html){:target="_blank"} - [15/11/2021] - Offline
 5. [Pertemuan Kelima PJar (5)](KuliahPJar-P5.html){:target="_blank"} - [22/11/2021] - Offline
 6. [Pertemuan Keenam PJar (6)](KuliahPJar-P6.html){:target="_blank"} - [29/11/2021] - Offline
-7. [Pertemuan Ketujuh PJar (7)](KuliahPJar-P7.html){:target="_blank"} - [06/01/2021] - Offline
-7. [Pertemuan KeDelapan PJar (8) - UTS](KuliahPJar-P8.html){:target="_blank"} - [06/01/2021] - Online
+7. [Pertemuan Ketujuh PJar (7)](KuliahPJar-P7.html){:target="_blank"} - [06/12/2021] - Offline
+8. [Pertemuan KeDelapan PJar (8) - UTS](KuliahPJar-P8.html){:target="_blank"} - [13/12/2021] - Online
+9. [Pertemuan KeSembilan PJar (9)](KuliahPJar-P9.html){:target="_blank"} - [20/12/2021] - Online
+10. [Pertemuan KeSepuluh PJar (10)](KuliahPJar-P10.html){:target="_blank"} - [27/12/2021] - Online
+
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
 
@@ -358,37 +361,6 @@ Materi Praktikum 11 adalah tentang Bagaimana MenDownload file melalui FTP,,...
 
 
 
-## PERTEMUAN KeSEBELAS 11 :
-
-|Status   | : Online                       |
-|Schedule | : Online                       |
-|Waktu    | : 18/12/2020                   |
-|Tema     | : Praktikum 10 FTP  Dir/List Files   |
-
-
-### File PDF Praktikum 10 :
-
-Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 10](assets/reff/pjar/Praktikum_PJar_10.pdf){:target="_blank"}
-
-### Materi Praktikum
-
-Materi Praktikum 10 adalah tentang FTP, FTP (File Transfer Protocol) adalah salah satu protokol tertua yang pernah ada di Internet. Protokol FTP dikembangkan oleh Abhay Bhushan (alumni IIT dan MIT) pada tahun 1970-an, ketika bekerja pada proyek ARPAnet.,... 
-
-
-### Arahan Untuk Praktikum 10 :
-
-1. Lakukan Praktikum sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, jika tidak Error, silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
-2. Lakukanlah praktikum bersama teman2 agar mudah memahami materi dan dapat berdiskusi ke teman2 jika ada masalah yang kurang dipahami...
-
-### Waktu Kumpul
-
-- Hasil praktikum Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Kamis 24/12/2020`
-
-
-***
-***
-
-
 
 
 ## PERTEMUAN KeSEPULUH 10 :
@@ -421,36 +393,6 @@ Materi Praktikum masih seputar SSH, tapi pada praktikum kali ini kita coba denga
 ***
 ***
 
-
-
-<<<<<<< HEAD
-
-=======
-## PERTEMUAN KeSEMBILAN 09 - UTS :
-
-|Status   | : Online                   |
-|Schedule | : Online                   |
-|Waktu    | : 10/12/2020               |
-|Tema     | : Praktikum 8 UTS          |
-
-
-### File PDF Praktikum 8 - UTS :
-
-Silahkan download file praktikumnya, harap dibaca dan lakukan UTS sesuai arahan yang ada di file yang anda download, berikut tautannya: [Download File Praktikum 8 UTS](assets/reff/pjar/Praktikum_PJar_8_UTS.pdf){:target="_blank"}
-
-
-### Arahan Untuk Praktikum 8 - UTS :
-
-Lakukan UTS sesuai dengan arahan yang ada di file PDF praktikum yang telah anda download, kemuadian periksa hasilnya setelah dijalankan, setelah itu silahkan kumpul atau upload ke folder  `PJaringan` pdada `Dropbox` nya masing2.
-
-### Waktu Kumpul
-
-Hasil UTS yang dikerjakan Harap sudah dikumpul ke folder `PJaringan` di `dropbox` nya masing2, paling lambat hari `Jumat 11/12/2020 Jam 09.30`
-
-
-***
->>>>>>> 6a97a42361dea37e01d49ed52c3a3420cf4f902e
-***
 
 
 ## PERTEMUAN KeDELAPAN 08 :
