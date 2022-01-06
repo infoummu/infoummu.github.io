@@ -13,9 +13,8 @@ title: Downloads
 1. Ini link VirtualBox: [[https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads){:target="_blank"}], silahkan pilih sesuai dengan sistem operasi yang anda pakai di Laptopnya, 
 2. Atau bisa langsung download filenya, Jika Laptopnya pakai Windows, maka pilih yang ini: [[Windows hosts](https://download.virtualbox.org/virtualbox/6.1.30/VirtualBox-6.1.30-148432-Win.exe){:target="_blank"}], tapi jika Laptopnya pakai Linux pilih yang ini: [[Windows hosts](https://www.virtualbox.org/wiki/Linux_Downloads){:target="_blank"}],
 3. Setelah Terdownload, silahkan install file `VirtualBox-6.1.30-148432-Win.exe`
-4. Ini bisa jadi panduan tambahan dari youtube: 
-
-    <iframe width="420" height="300" src="http://www.youtube.com/embed/hDMGKaa3hc4" frameborder="0" allowfullscreen></iframe>
+4. Ini bisa jadi panduan tambahan dari youtube [[Cara Install VirtualBox](https://www.youtube.com/watch?v=hDMGKaa3hc4){:target="_blank"}]: 
+<iframe width="420" height="300" src="http://www.youtube.com/embed/hDMGKaa3hc4" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -25,9 +24,8 @@ title: Downloads
 2. Dan ini untuk download file mikrotik ISO [[mikrotik-6.48.6.iso](https://download.mikrotik.com/routeros/6.48.6/mikrotik-6.48.6.iso){:target="_blank"}]
 3. Jika sudah terdownload file `mikrotik-6.48.6.iso` nya, silahkan install mikrotik di VirtualBox anda !,
 4. Setelah selesai, buka dan jalankan mikrotik vm-nya dan set password (karena mikrotik pada awal install tidak ada password, usernya admin)
-5. Anda bisa lihat panduan di youtube cara install mikrotik, vidoe dibawah ini salahtunya:
-
-    <iframe width="420" height="300" src="http://www.youtube.com/embed/rT2ikfOMjI4" frameborder="0" allowfullscreen></iframe>
+5. Anda bisa lihat panduan di youtube cara install mikrotik, vidoe dibawah ini salahtunya [[Cara Install Mikrotik OS](https://www.youtube.com/watch?v=hDMGKaa3hc4){:target="_blank"}]:
+<iframe width="420" height="300" src="http://www.youtube.com/embed/rT2ikfOMjI4" frameborder="0" allowfullscreen></iframe>
 
 
 
