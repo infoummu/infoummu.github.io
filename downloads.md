@@ -14,7 +14,7 @@ title: Downloads
 2. Atau bisa langsung download filenya, Jika Laptopnya pakai Windows, maka pilih yang ini: [[Windows hosts](https://download.virtualbox.org/virtualbox/6.1.30/VirtualBox-6.1.30-148432-Win.exe){:target="_blank"}], tapi jika Laptopnya pakai Linux pilih yang ini: [[Windows hosts](https://www.virtualbox.org/wiki/Linux_Downloads){:target="_blank"}],
 3. Setelah Terdownload, silahkan install file `VirtualBox-6.1.30-148432-Win.exe`
 4. Ini bisa jadi panduan tambahan dari youtube [[Cara Install VirtualBox](https://www.youtube.com/watch?v=hDMGKaa3hc4){:target="_blank"}]: 
-<iframe width="420" height="300" src="http://www.youtube.com/embed/hDMGKaa3hc4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="300" src="http://www.youtube.com/embed/hDMGKaa3hc4" frameborder="0"></iframe>
 
 
 
@@ -25,7 +25,7 @@ title: Downloads
 3. Jika sudah terdownload file `mikrotik-6.48.6.iso` nya, silahkan install mikrotik di VirtualBox anda !,
 4. Setelah selesai, buka dan jalankan mikrotik vm-nya dan set password (karena mikrotik pada awal install tidak ada password, usernya admin)
 5. Anda bisa lihat panduan di youtube cara install mikrotik, vidoe dibawah ini salahtunya [[Cara Install Mikrotik OS](https://www.youtube.com/watch?v=hDMGKaa3hc4){:target="_blank"}]:
-<iframe width="420" height="300" src="http://www.youtube.com/embed/rT2ikfOMjI4" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="300" src="http://www.youtube.com/embed/rT2ikfOMjI4" frameborder="0"></iframe>
 
 
 
@@ -110,6 +110,12 @@ Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF 
 <!--1. [File python-3.7.9-amd64.exe](assets/reff/master/python-3.7.9-amd64.exe){:target="_blank"}-->
 <!--1. [File python-3.8.5-amd64.exe](assets/reff/master/python-3.8.5-amd64.exe){:target="_blank"}-->
 
+
+<!-- #### TES Embed Video : 
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+
+-->
 
 
 ***
