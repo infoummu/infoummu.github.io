@@ -26,6 +26,8 @@ published: true
 - Selanjutnya untuk setiap praktikum silahkan gunakan folder `PGame` untuk mengumpulkan/upload file hasil praktikum Pemrograman Game dan, gunakan Folder `PJaringan` untuk mengumpulkan/upload file hasil praktikum Pemrograman Jaringan. 
 
 
+
+
 <!--
 ## PERTEMUAN KeENAMBELAS 16 - UAS  :
 

@@ -18,7 +18,7 @@ Silahkan download file praktikumnya, harap dibaca dan lakukan praktikum sesuai a
 
 ### Materi Praktikum
 
-Materi Praktikum 10 adalah tentang FTP, FTP (File Transfer Protocol) adalah salah satu protokol tertua yang pernah ada di Internet. Protokol FTP dikembangkan oleh Abhay Bhushan (alumni IIT dan MIT) pada tahun 1970-an, ketika bekerja pada proyek ARPAnet.,... 
+Materi Praktikum 09 adalah tentang FTP, FTP (File Transfer Protocol) adalah salah satu protokol tertua yang pernah ada di Internet. Protokol FTP dikembangkan oleh Abhay Bhushan (alumni IIT dan MIT) pada tahun 1970-an, ketika bekerja pada proyek ARPAnet.,... 
 
 
 ### Arahan Untuk Praktikum 09 :
