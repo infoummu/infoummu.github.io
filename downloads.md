@@ -15,7 +15,8 @@ title: Downloads
 3. Setelah Terdownload, silahkan install file `VirtualBox-6.1.30-148432-Win.exe`
 4. Ini bisa jadi panduan tambahan dari youtube (buka link ini jika video tidak kelihatan) [[Cara Install VirtualBox](https://www.youtube.com/watch?v=hDMGKaa3hc4){:target="_blank"}]: 
 
-<iframe width="420" height="300" src="http://www.youtube.com/embed/hDMGKaa3hc4" frameborder="0"></iframe>
+<!-- <iframe width="420" height="300" src="http://www.youtube.com/embed/hDMGKaa3hc4" frameborder="0"></iframe> -->
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/hDMGKaa3hc4" width="600"></iframe>
 
 ### Untuk Mikrotik ISO: 
 
@@ -24,10 +25,6 @@ title: Downloads
 3. Jika sudah terdownload file `mikrotik-6.48.6.iso` nya, silahkan install mikrotik di VirtualBox anda !,
 4. Setelah selesai, buka dan jalankan mikrotik vm-nya dan set password (karena mikrotik pada awal install tidak ada password, usernya admin)
 5. Anda bisa lihat panduan di youtube cara install mikrotik, vidoe dibawah ini salahtunya (buka link ini jika video tidak kelihatan) [[Cara Install Mikrotik OS](https://www.youtube.com/watch?v=hDMGKaa3hc4){:target="_blank"}]:
-
-<iframe width="420" height="300" src="http://www.youtube.com/embed/rT2ikfOMjI4" frameborder="0"></iframe>
-
-6. Video Install Mikrotik OS: 
 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/rT2ikfOMjI4" width="600"></iframe>
 
