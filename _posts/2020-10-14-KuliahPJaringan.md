@@ -15,7 +15,7 @@ published: true
 8. [Pertemuan KeDelapan PJar (8) - UTS](KuliahPJar-P8.html){:target="_blank"} - [13/12/2021] - Online
 9. [Pertemuan KeSembilan PJar (9)](KuliahPJar-P9.html){:target="_blank"} - [20/12/2021] - Online
 10. [Pertemuan KeSepuluh PJar (10)](KuliahPJar-P10.html){:target="_blank"} - [27/12/2021] - Online
-11. [Pertemuan KeSepuluh PJar (11)](KuliahPJar-P11.html){:target="_blank"} - [17/01/2022] - Offline
+11. [Pertemuan KeSebelas PJar (11)](KuliahPJar-P11.html){:target="_blank"} - [17/01/2022] - Offline
 
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
