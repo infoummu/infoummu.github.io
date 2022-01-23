@@ -126,6 +126,15 @@ def upload_file(nama_file):
 
 ```
 
+### UNTUK ONLINE : 
+```python 
+## ubah menjadi : 
+ip_target='ftp.dlptest.com'
+user='dlpuser'
+pasw='rNrKYTX9g7z3RgJRmxWuGHbeu'
+
+```
+
 ***
 By:ikhwan@fedora-linux
 

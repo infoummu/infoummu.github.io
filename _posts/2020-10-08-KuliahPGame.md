@@ -15,6 +15,8 @@ published: true
 8. [Pertemuan Kedelapan (8) - UTS](KuliahPGame-P8.html){:target="_blank"} - [15/12/2021] - Online
 9. [Pertemuan KeSembilan (9)](KuliahPGame-P9.html){:target="_blank"} - [22/12/2021] - Offline
 10. [Pertemuan KeSepuluh (10)](KuliahPGame-P10.html){:target="_blank"} - [29/12/2021] - Online
+11. [Pertemuan KeSebelas (11)](KuliahPGame-P11.html){:target="_blank"} - [19/01/2022] - Offline
+12. [Pertemuan UAS](KuliahPGame-UAS.html){:target="_blank"} - [24/01/2022] - Online
 
 
 ### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
@@ -187,35 +189,7 @@ Gunakan Script praktikum ke 12 untuk melakukan praktikum ke 13 ini.
 
 
 
-## PERTEMUAN SEBELAS 11 :
 
-|Status  | : Online                       |
-|Schedule| : Online                       |
-|Waktu   | : 18/12/2020                   |
-|Tema    | : Praktikum 10 Pemrograman Game |
-
-
-### Modul Praktikum 10
-
-1. Diharapkan Mahasiswa mengikuti arahan yang ada di modul dalam mengerjakan praktikum setelah mendownload modulnya pada tautan dibawah ini
-2. Doanload Modul berikut : [Modul Praktikum 10](assets/reff/pgame/Modul_Pgame_prak_10.pdf){:target="_blank"}
-
-
-### HASIL Praktukum Kumpul ke dropbox
-
-1. Mahasiswa diharapkan membaca Modul dan melakukan praktikum sesuai dengan arahan yang ada di modul,
-
-2. Kerjakan praktikum bersama teman2 lebih bagus sehingga bisa bertanya bagian materi yang tidak dipahami ke teman belajarnya, atau bisa juga bertanya langsung ke saya bisa lewat grup WA atau langsung WA personal...
-
-3. Lakukan praktikum dan usahakan hasil praktikum tidak error, setelah itu upload/kirim ke folder `Pgame` pada akun `dropbox` anda masing-masing !.
-
-
-### Waktu Kumpul
-
-- Diharapkan agar sudah mengumpulkan hasil praktikum Pemrograman Game ke folder `PGame` di `dropbox` nya masing2, paling lambat hari `Kamis 24/12/2020`
-
-
-***
 ***
 
 
