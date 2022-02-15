@@ -15,7 +15,7 @@ title: Downloads
 3. Setelah Terdownload, silahkan install file `VirtualBox-6.1.30-148432-Win.exe`
 4. Ini bisa jadi panduan tambahan dari youtube (buka link ini jika video tidak kelihatan) [[Cara Install VirtualBox](https://www.youtube.com/watch?v=hDMGKaa3hc4){:target="_blank"}]: 
 
-<!-- <iframe width="420" height="300" src="http://www.youtube.com/embed/hDMGKaa3hc4" frameborder="0"></iframe> -->
+<!-- <iframe width="420" height="300" src="https://www.youtube.com/embed/hDMGKaa3hc4" frameborder="0"></iframe> -->
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/hDMGKaa3hc4" width="600"></iframe>
 
 ### Untuk Mikrotik ISO: 
@@ -115,7 +115,7 @@ Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF 
 
 <!-- #### TES Embed Video : 
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
 
 -->
 
