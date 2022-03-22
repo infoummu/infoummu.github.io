@@ -35,7 +35,7 @@ title: Downloads
 
 ## Download MATERI PRAKTIKUM 
 
-### Download Materi Praktikum <b>Pemrograman Game</b> [Modul] :
+<!-- ### Download Materi Praktikum <b>Pemrograman Game</b> [Modul] :
 
 Materi `Pemrograman Game`, modul untuk praktikum, (sementara dan akan selalu diupdate ) bisa anda didownload di link berikut :
 
@@ -54,7 +54,7 @@ Materi `Pemrograman Game`, modul untuk praktikum, (sementara dan akan selalu diu
 
 
 ***
-***
+*** -->
 
 
 ### Download File Praktikum <b>Pemrograman Jaringan </b> :

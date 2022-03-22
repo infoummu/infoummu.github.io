@@ -1,5 +1,5 @@
 ---
-title: Kuliah Pemrograman Jaringan P2
+title: PAJ Pertemuan 02
 published: true
 ---
 
@@ -8,12 +8,62 @@ published: true
 
 |Status   | : Online                   |
 |Schedule | : Offline                  |
-|Waktu    | : 03/11/2021               |
+|Waktu    | : 22/03/2022               |
 |Tema     | : Praktikum 1              |
 
 
 
+## CLI (Command Line Interface) : 
+- CLI di Windows: 
+    - CMD
+    - PS (power Shell)
+- CLI di Linux 
+    - Tilix/Terminal
 
+
+# APLIKASI EDITOR :
+
+- Contoh EDITOR  :
+    - Sublime Text
+    - Visual Studio/VSCodium (yg saya pakai)
+    - Atom
+    - Notepad++ / NotepadPP
+
+
+## Pengganti Pertemuan ke 2
+
+1. Tulis Code dibawah dengan Aplikasi Editor 
+2. Simpan dengan Beri nama file dengan `praktikum1_ping_NPM.py` (ubah NPM dengan lima digit terakhir npm anda)
+3. Contoh nama file : `praktikum1_ping_19001.py`
+4. Jalankan di CLI, perintahnya : python praktikum1_ping_19020.py          
+
+## CODE 
+```python 
+# Code/Script praktikum 1
+# Tema : ping for test connection 
+# nama : ??
+# npm  : 19???
+
+import os
+
+HOST="127.0.0.1"
+print("\n Ping to " + HOST)
+print(" HASILnya:")
+HASIL = os.system("ping -c 1 " + HOST + " &> /dev/null")
+
+if HASIL == 0:
+    print(" Terkoneksi ke " + HOST)
+else:
+    print(" TIDAK Terkoneksi ke " + HOST)
+
+print("\n")
+
+
+```
+
+
+
+<!-- 
 ### Arahan Sebelum Praktikum :
 
 - Setiap Mahasiswa diharapkan sudah memiliki akun `Dropbox`, yang akan digunakan sebagai tempat mengumpulkan tugas-tugas
@@ -35,7 +85,7 @@ published: true
 
 ### Waktu Kumpul
 - Diharapkan Kepada Mahasiswa agar sudah menyelesaikan praktikum 1 dan mengumpulkannya ke folder `PJar_NPM` di `dropbox` nya masing2 sebelum Pertemuan berikutnya.
-
+ -->
 
 
 ***

@@ -1,31 +1,32 @@
 ---
-title: Kuliah Pemrograman Jaringan
+title: Pemrograman Automasi Jaringan
 published: true
 ---
 
-### Informasi Kuliah Pemrograman Jaringan Tiap Pertemuan, buka link dibawah : 
 
-1. [Pertemuan Pertama PJar (1)](KuliahPJar-P1.html){:target="_blank"} - [27/10/2021] - Offline
-2. [Pertemuan Kedua PJar (2)](KuliahPJar-P2.html){:target="_blank"} - [03/11/2021] - Online
-3. [Pertemuan Ketiga PJar (3)](KuliahPJar-P3.html){:target="_blank"} - [10/11/2021] - Offline
-4. [Pertemuan Keempat PJar (4)](KuliahPJar-P4.html){:target="_blank"} - [15/11/2021] - Offline
-5. [Pertemuan Kelima PJar (5)](KuliahPJar-P5.html){:target="_blank"} - [22/11/2021] - Offline
-6. [Pertemuan Keenam PJar (6)](KuliahPJar-P6.html){:target="_blank"} - [29/11/2021] - Offline
-7. [Pertemuan Ketujuh PJar (7)](KuliahPJar-P7.html){:target="_blank"} - [06/12/2021] - Offline
-8. [Pertemuan KeDelapan PJar (8) - UTS](KuliahPJar-P8.html){:target="_blank"} - [13/12/2021] - Online
-9. [Pertemuan KeSembilan PJar (9)](KuliahPJar-P9.html){:target="_blank"} - [20/12/2021] - Online
-10. [Pertemuan KeSepuluh PJar (10)](KuliahPJar-P10.html){:target="_blank"} - [27/12/2021] - Online
-11. [Pertemuan KeSebelas PJar (11)](KuliahPJar-P11.html){:target="_blank"} - [17/01/2022] - Offline
-12. [Pertemuan UAS](KuliahPJar-UAS.html){:target="_blank"} - [26/01/2022] - Online
+### Sebelum Praktikum Bagi yang belum punya Folder `PAJ_NPM` :
+
+- Setiap Mahasiswa diharapkan sudah membuat folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"}, yang akan digunakan sebagai tempat mengumpulkan tugas dan Hasil Praktikum. [Link ke Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"}
+- Silahkan Buat Folder `PAJ_NPM` (ubah NPM dengan NPM anda masing-masing; contoh : `PAJ_19001`) di `Google Drive`  yang sudah saya sharing.
+- Selanjutnya silahkan UPLOAD setiap Tugas atau hasil Praktikum setiap pertemuan ke folder `PAJ_NPM` yang sudah anda buat di [`Google Drive`](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"} 
 
 
-### Arahan Sebelum Praktikum Bagi yang belum punya Folder `Box_NPM` :
 
-- Setiap Mahasiswa diharapkan sudah memiliki akun `Dropbox`, yang akan digunakan sebagai tempat mengumpulkan tugas-tugas
-- Silahkan Buat Folder `Box_NPM` (ubah NPM dengan NPM anda masing-masing; contoh : `Box_18001`) di `Dropbox`-nya masing-masin sebagai tempat untuk meng-Upload file hasil praktikumnya.
-- Setelah folder `Box_NPM` nya sudah dibuat, silahkan sharing/berbagi folder `Box_NPM` nya dengan saya, ini alamat email saya : `ikhwan.elyas@gmail.com` (langkahnya sama seperti yang didemokan saata di kuliah pemrograman game)
-- Setelah itu, silahkan lengkapi dengan buat dua (2) Folder masing-masing beri nama `PGame` dan `PJaringan` 
-- Selanjutnya untuk setiap praktikum silahkan gunakan folder `PGame` untuk mengumpulkan/upload file hasil praktikum Pemrograman Game dan, gunakan Folder `PJaringan` untuk mengumpulkan/upload file hasil praktikum Pemrograman Jaringan. 
+### Daftar Pertemuan Kuliah PAJ: 
+
+1. [Pertemuan Pertama PAJ (1)](KuliahPAJ-P1.html){:target="_blank"} - [14/03/2022] - Offline
+2. [Pertemuan Kedua PAJ (2)](KuliahPAJ-P2.html){:target="_blank"} - [21/03/2022] - Online
+3. [Pertemuan Ketiga PAJ (3)](na.html){:target="_blank"} - [10/11/2021] - Offline
+4. [Pertemuan Keempat PAJ (4)](na.html){:target="_blank"} - [15/11/2021] - Offline
+5. [Pertemuan Kelima PAJ (5)](na.html){:target="_blank"} - [22/11/2021] - Offline
+6. [Pertemuan Keenam PAJ (6)](na.html){:target="_blank"} - [29/11/2021] - Offline
+7. [Pertemuan Ketujuh PAJ (7)](na.html){:target="_blank"} - [06/12/2021] - Offline
+8. [Pertemuan KeDelapan PAJ (8) - UTS](na.html){:target="_blank"} - [13/12/2021] - Online
+9. [Pertemuan KeSembilan PAJ (9)](na.html){:target="_blank"} - [20/12/2021] - Online
+10. [Pertemuan KeSepuluh PAJ (10)](na.html){:target="_blank"} - [27/12/2021] - Online
+11. [Pertemuan KeSebelas PAJ (11)](na.html){:target="_blank"} - [17/01/2022] - Offline
+12. [Pertemuan UAS](na.html){:target="_blank"} - [26/01/2022] - Online
+
 
 
 
