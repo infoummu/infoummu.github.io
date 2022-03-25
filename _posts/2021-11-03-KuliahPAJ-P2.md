@@ -40,6 +40,7 @@ published: true
 6. Batas Waktu Kumpul sampai sebelum Pertemuan berikutnya masuk 28/03/2022.
 
 ## CODE 
+
 ```python 
 # Code/Script praktikum 1
 # Tema : ping for test connection 
@@ -51,7 +52,8 @@ import os
 HOST="127.0.0.1"
 print("\n Ping to " + HOST)
 print(" HASILnya:")
-HASIL = os.system("ping -c 1 " + HOST + " &> /dev/null")
+# HASIL = os.system("ping -c 1 " + HOST + " &> /dev/null")	# untuk linux
+HASIL = os.system("ping -n 1 " + HOST + " > NULL")		# untuk Windows
 
 if HASIL == 0:
     print(" Terkoneksi ke " + HOST)
@@ -59,7 +61,6 @@ else:
     print(" TIDAK Terkoneksi ke " + HOST)
 
 print("\n")
-
 
 ```
 
