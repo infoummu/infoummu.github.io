@@ -21,7 +21,7 @@ published: true
     - Tilix/Terminal
 
 
-# APLIKASI EDITOR :
+## APLIKASI EDITOR :
 
 - Contoh EDITOR  :
     - Sublime Text
@@ -92,5 +92,5 @@ print("\n")
 
 
 ***
-by: Ikhwan 
+by: ikhwan@fedora.linux 
 

@@ -4,7 +4,7 @@ title: Downloads
 ---
 
 <!-- <a href="#vbox">Go To Download VirtualBox link</a> -->
-
+<!-- <a href="#master">Go To Master</a> -->
 <a name="vbox"></a>
 
 ## Download VirtualBox dan Mikrotik ISO
@@ -82,17 +82,17 @@ Anda dapat membaca materi tambahan tentang pemrograman jaringan pada tautan PDF 
 2. [Python Network Programming - David M. Beazley](assets/reff/pjar/Python_NetBinder_Ekstra.pdf){:target="_blank"}
 
 
-### Download Master
-
-1. [File netifaces-0.11.0-cp37-cp37m-win_amd64.whl ](assets/reff/master/netifaces-0.11.0-cp37-cp37m-win_amd64.whl){:target="_blank"}
-2. [File netifaces-0.10.9.tar.gz](assets/reff/master/netifaces-0.10.9.tar.gz){:target="_blank"}
-3. [File python-3.7.4-amd64.exe](assets/reff/master/python-3.7.4-amd64.exe){:target="_blank"}
-4. [Sublime Portable Version - Sublime_Text_Build_3211_x64_New.zip](assets/reff/master/Sublime_Text_Build_3211_x64_New.zip){:target="_blank"}
-5. [Sublime Install Version - Sublime_Text_Build_3211_x64_Setup_New.exe](assets/reff/master/Sublime_Text_Build_3211_x64_Setup_New.exe){:target="_blank"}
-1. [File telnetlib3-1.0.4-py3-none-any.whl](assets/reff/master/telnetlib3-1.0.4-py3-none-any.whl){:target="_blank"}
-1. [File paramiko-2.7.2-py2.py3-none-any.whl](assets/reff/master/paramiko-2.7.2-py2.py3-none-any.whl){:target="_blank"}
-1. [File Scapy scp-0.13.3-py2.py3-none-any.whl](assets/reff/master/scp-0.13.3-py2.py3-none-any.whl){:target="_blank"}
-1. [File Scapy scapy-2.4.4.tar.gz](assets/reff/master/scapy-2.4.4.tar.gz){:target="_blank"}
+### Download Apps dan Modul yang digunakan untuk MK PAJ
+<a name="master"></a>
+1. [Modul Python - netifaces-0.11.0-cp37-cp37m-win_amd64.whl ](assets/reff/master/netifaces-0.11.0-cp37-cp37m-win_amd64.whl){:target="_blank"}
+2. [Modul Python - netifaces-0.10.9.tar.gz](assets/reff/master/netifaces-0.10.9.tar.gz){:target="_blank"}
+3. [App python-3.7.4-amd64.exe](assets/reff/master/python-3.7.4-amd64.exe){:target="_blank"}
+4. [App Text-Editor - Portable Version - Sublime_Text_Build_3211_x64_New.zip](assets/reff/master/Sublime_Text_Build_3211_x64_New.zip){:target="_blank"}
+5. [App Text-Editor - Sublime Install Version - Sublime_Text_Build_3211_x64_Setup_New.exe](assets/reff/master/Sublime_Text_Build_3211_x64_Setup_New.exe){:target="_blank"}
+1. [Modul Python - telnetlib3-1.0.4-py3-none-any.whl](assets/reff/master/telnetlib3-1.0.4-py3-none-any.whl){:target="_blank"}
+1. [Modul Python - paramiko-2.7.2-py2.py3-none-any.whl](assets/reff/master/paramiko-2.7.2-py2.py3-none-any.whl){:target="_blank"}
+1. [Modul Python - Scapy scp-0.13.3-py2.py3-none-any.whl](assets/reff/master/scp-0.13.3-py2.py3-none-any.whl){:target="_blank"}
+1. [Modul Python - Scapy scapy-2.4.4.tar.gz](assets/reff/master/scapy-2.4.4.tar.gz){:target="_blank"}
 
 
 

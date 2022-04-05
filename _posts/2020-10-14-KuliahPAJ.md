@@ -16,8 +16,8 @@ published: true
 
 1. [Pertemuan Pertama PAJ (1)](KuliahPAJ-P1.html){:target="_blank"} - [14/03/2022] - Offline
 2. [Pertemuan Kedua PAJ (2)](KuliahPAJ-P2.html){:target="_blank"} - [21/03/2022] - Online
-3. [Pertemuan Ketiga PAJ (3)](na.html){:target="_blank"} - [10/11/2021] - Offline
-4. [Pertemuan Keempat PAJ (4)](na.html){:target="_blank"} - [15/11/2021] - Offline
+3. [Pertemuan Ketiga PAJ (3)](KuliahPAJ-P3.html){:target="_blank"} - [28/03/2022] - Online
+4. [Pertemuan Keempat PAJ (4)](KuliahPAJ-P4.html){:target="_blank"} - [05/04/2022] - Online
 5. [Pertemuan Kelima PAJ (5)](na.html){:target="_blank"} - [22/11/2021] - Offline
 6. [Pertemuan Keenam PAJ (6)](na.html){:target="_blank"} - [29/11/2021] - Offline
 7. [Pertemuan Ketujuh PAJ (7)](na.html){:target="_blank"} - [06/12/2021] - Offline
