@@ -12,7 +12,7 @@ published: true
 |Tema     | : Get IP by Host Name    |
 
 
-* Kerjakan Tugas Praktikum 3 Dibawah dan kumpul ke Folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"} anda, Bagi yang belum memiliki folder `PJA_NPM` di `Google Drice` seilahkan baca langkah-langkah yang ada di  [Pertemuan Pertama ini](http://localhost:4000/KuliahPAJ-P1.html#pertama){:target="_blank"}
+* Kerjakan Tugas Praktikum 3 Dibawah dan kumpul ke Folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"} anda, Bagi yang belum memiliki folder `PJA_NPM` di `Google Drive` seilahkan baca langkah-langkah yang ada di  [Pertemuan Pertama ini](http://localhost:4000/KuliahPAJ-P1.html#pertama){:target="_blank"}
 
 * Pada Praktikum 3 ini membahas TEMA tentang code python untuk melihat IP dari sebuah HOST berdasarkan NAMA HOST yang kita INPUT, selanjutnya Hasil yang akan dikembalikan adalah IP dari nama host tersebut. 
 
