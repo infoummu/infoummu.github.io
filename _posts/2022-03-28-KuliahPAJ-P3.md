@@ -12,7 +12,7 @@ published: true
 |Tema     | : Get Local IP and Interface Name           |
 
 
-* Kerjakan Tugas Praktikum 2 Dibawah dan kumpul ke Folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"} anda, Bagi yang belum memiliki folder `PJA_NPM` di `Google Drive` seilahkan baca langkah-langkah yang ada di  [Pertemuan Pertama ini](http://localhost:4000/KuliahPAJ-P1.html#pertama){:target="_blank"}
+* Kerjakan Tugas Praktikum 2 Dibawah dan kumpul ke Folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"} anda, Bagi yang belum memiliki folder `PJA_NPM` di `Google Drive` seilahkan baca langkah-langkah yang ada di  [Pertemuan Pertama ini](KuliahPAJ-P1.html#pertama){:target="_blank"}
 
 * Praktikum 2 ini TEMA yang dibahas adalah tentang code python untuk melihat Informasi yang berhubungan dengan Perangkat jaringan yang ada pada local komputer kita, Informasi yang dapat dilihat seperti IP, Nama Interface, Mac Address dll.
 
@@ -26,7 +26,7 @@ published: true
 
 ### Install Python versi `3.7.4`
 
-1. Download File python versi `3.7.4` di [Download - python-3.7.4-amd64.exe](downloads#master){:target="_blank"},
+1. Download File python versi `3.7.4` di [Download - python-3.7.4-amd64.exe](downloads.html#master){:target="_blank"},
 
 2. Setelah File Python Terdownload, cari file `python-3.7.4-amd64.exe` di Folder `Downloads` dan jalankan (Dobel klik/Klik dua kali) untuk dibuka/dijalankan.
 
