@@ -10,7 +10,7 @@ published: true
 
 |Status   | : Offline                    |
 |Schedule | : Offline                    |
-|Waktu    | : 14/03/2022                 |
+|Waktu    | : 04/03/2023                 |
 |Tema     | : Arahan dan Kontrak Kuliah  |
 
 
@@ -21,11 +21,11 @@ published: true
 
 2. Untuk Mata Kuliah PAJ, HASIL PRAKTIKUM dan TUGAS dikumpulkan menggunakan `Google Drive` atau `GDrive`,
 
-3. Setiap Mahasiswa HARUS MEMILIKI folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"}, yang akan digunakan sebagai TEMPAT mengumpulkan tugas dan Hasil Praktikum. 
+3. Setiap Mahasiswa HARUS MEMILIKI folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1NhDmT7-WfwdbZtAZrocFFhLGLN5l1Ko-?usp=sharing){:target="_blank"}, yang akan digunakan sebagai TEMPAT mengumpulkan tugas dan Hasil Praktikum. 
 
-4. Silahkan Masuk ke `GDRIVE` ([INI Link ke Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"}). dan silahkan BUAT FOLDER `PAJ_NPM` (ubah NPM dengan NPM anda masing-masing; contoh : `PAJ_19001`) di `Google Drive`  tersebut.
+4. Silahkan Masuk ke `GDRIVE` ([INI Link ke Google Drive](https://drive.google.com/drive/folders/1NhDmT7-WfwdbZtAZrocFFhLGLN5l1Ko-?usp=sharing){:target="_blank"}). dan silahkan BUAT FOLDER `PAJ_NPM` (ubah NPM dengan NPM anda masing-masing; contoh : `PAJ_20001` - kelas pegawai tambah menjadi `PAJ_20001_PGW`) di `Google Drive`  tersebut.
 
-5. Selanjutnya silahkan UPLOAD setiap Tugas atau hasil Praktikum untuk setiap pertemuan ke FOLDER `PAJ_NPM` yang sudah anda buat di [`Google Drive`](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"} tersebut. 
+5. Selanjutnya silahkan UPLOAD setiap Tugas atau hasil Praktikum untuk setiap pertemuan ke FOLDER `PAJ_NPM` yang sudah anda buat di [`Google Drive`](https://drive.google.com/drive/folders/1NhDmT7-WfwdbZtAZrocFFhLGLN5l1Ko-?usp=sharing){:target="_blank"} tersebut. 
 
 6. Setiap Mahasiswa harap melengkapi laptopnya untuk praktikum mandiri dengan Mikrotik OS  menggunakan vm (virtualbox atau vmware) yang terinstall python pada keduanya host dan vm, yang akan digunakan praktikum mandiri, cara dawnload dan install VirtualBox dan Mikrotik OS bisa dilihat di [Download](downloads.html){:target="_blank"}.
 
