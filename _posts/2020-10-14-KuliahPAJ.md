@@ -3,12 +3,13 @@ title: Pemrograman Automasi Jaringan
 published: true
 ---
 
+* XX
 
 ### Sebelum Praktikum Bagi yang belum punya Folder `PAJ_NPM` :
 
-- Setiap Mahasiswa diharapkan sudah membuat folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"}, yang akan digunakan sebagai tempat mengumpulkan tugas dan Hasil Praktikum. [Link ke Google Drive](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"}
+- Setiap Mahasiswa diharapkan sudah membuat folder `PAJ_NPM` di [Google Drive](https://drive.google.com/drive/folders/1NhDmT7-WfwdbZtAZrocFFhLGLN5l1Ko-?usp=sharing){:target="_blank"}, yang akan digunakan sebagai tempat mengumpulkan tugas dan Hasil Praktikum. [Link ke Google Drive](https://drive.google.com/drive/folders/1NhDmT7-WfwdbZtAZrocFFhLGLN5l1Ko-?usp=sharing){:target="_blank"}
 - Silahkan Masuk ke LING diatas dan Buat Folder `PAJ_NPM` (ubah NPM dengan NPM anda masing-masing; contoh : `PAJ_19001`) di `Google Drive`  tersebut.
-- Selanjutnya silahkan UPLOAD setiap Tugas atau hasil Praktikum setiap pertemuan ke folder `PAJ_NPM` yang sudah anda buat di [`Google Drive`](https://drive.google.com/drive/folders/1mEOIndRBI0v4wH9DeyMRMF8obfIMvB5R?usp=sharing){:target="_blank"} 
+- Selanjutnya silahkan UPLOAD setiap Tugas atau hasil Praktikum setiap pertemuan ke folder `PAJ_NPM` yang sudah anda buat di [`Google Drive`](https://drive.google.com/drive/folders/1NhDmT7-WfwdbZtAZrocFFhLGLN5l1Ko-?usp=sharing){:target="_blank"} 
 
 
 
